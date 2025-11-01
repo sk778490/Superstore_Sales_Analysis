@@ -1,0 +1,1671 @@
+OrderID,OrderDate,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit,CustomerID,Segment,year_month
+SO100000,2023-02-07,North,Furniture,Bookcases,66.97,1,0.0,-0.22,C8410,Small Business,2023-02
+SO100001,2023-08-24,North,Office Supplies,Paper,109.66,2,0.3,-1.01,C7930,Home Office,2023-08
+SO100006,2025-04-27,South,Furniture,Bookcases,52.29,5,0.2,-6.18,C8835,Consumer,2025-04
+SO100010,2025-01-19,South,Furniture,Chairs,66.57,5,0.1,-8.07,C7764,Consumer,2025-01
+SO100017,2023-12-24,East,Office Supplies,Pens,679.03,2,0.0,-12.14,C8224,Home Office,2023-12
+SO100022,2024-02-03,South,Furniture,Chairs,50.26,3,0.1,-7.83,C6359,Consumer,2024-02
+SO100023,2024-07-16,North,Office Supplies,Pens,174.01,5,0.3,-2.9,C9390,Home Office,2024-07
+SO100026,2025-01-23,West,Furniture,Chairs,614.34,1,0.1,-32.3,C6006,Consumer,2025-01
+SO100027,2024-05-18,East,Technology,Accessories,85.49,2,0.0,-15.67,C2608,Corporate,2024-05
+SO100030,2023-03-28,North,Office Supplies,Binders,134.71,3,0.0,-26.01,C8469,Consumer,2023-03
+SO100031,2023-05-22,East,Furniture,Tables,233.45,1,0.2,-34.78,C5103,Home Office,2023-05
+SO100032,2024-01-29,West,Furniture,Chairs,84.01,3,0.0,-2.56,C2577,Small Business,2024-01
+SO100033,2023-01-08,North,Office Supplies,Storage,267.33,2,0.2,-17.49,C7441,Home Office,2023-01
+SO100047,2024-09-25,South,Office Supplies,Pens,389.16,4,0.0,-55.91,C9378,Corporate,2024-09
+SO100051,2024-01-23,North,Furniture,Tables,31.78,4,0.1,-3.51,C2441,Consumer,2024-01
+SO100052,2024-03-30,North,Office Supplies,Storage,142.06,1,0.1,-3.2,C3179,Consumer,2024-03
+SO100056,2025-03-03,South,Furniture,Bookcases,210.45,2,0.0,-28.79,C8094,Consumer,2025-03
+SO100060,2023-01-27,South,Office Supplies,Storage,32.57,1,0.0,-4.57,C3888,Home Office,2023-01
+SO100061,2025-03-31,South,Furniture,Tables,84.02,3,0.0,-1.64,C3212,Consumer,2025-03
+SO100065,2023-10-25,North,Office Supplies,Binders,194.85,2,0.0,-37.76,C6176,Consumer,2023-10
+SO100066,2024-04-11,West,Technology,Machines,244.45,1,0.0,-34.89,C3296,Consumer,2024-04
+SO100068,2023-03-06,West,Office Supplies,Pens,606.03,3,0.0,-110.21,C3064,Consumer,2023-03
+SO100071,2024-01-03,North,Office Supplies,Storage,185.2,2,0.0,-16.85,C1855,Small Business,2024-01
+SO100077,2023-01-23,East,Technology,Copiers,625.0,3,0.2,-68.4,C3982,Home Office,2023-01
+SO100081,2023-10-07,East,Furniture,Chairs,976.67,1,0.0,-103.44,C1847,Small Business,2023-10
+SO100082,2024-01-17,North,Technology,Machines,39.11,3,0.05,-3.74,C6317,Home Office,2024-01
+SO100085,2023-11-10,West,Office Supplies,Binders,242.09,2,0.05,-47.8,C1867,Consumer,2023-11
+SO100089,2023-10-16,East,Office Supplies,Binders,986.41,3,0.0,-47.11,C4900,Corporate,2023-10
+SO100090,2024-02-23,North,Technology,Accessories,113.02,5,0.0,-13.03,C4265,Consumer,2024-02
+SO100092,2023-10-07,South,Office Supplies,Binders,220.64,3,0.0,-1.98,C5028,Consumer,2023-10
+SO100098,2023-12-15,West,Furniture,Tables,321.59,3,0.0,-20.56,C5865,Home Office,2023-12
+SO100109,2025-06-15,East,Furniture,Bookcases,74.69,4,0.05,-4.19,C5632,Consumer,2025-06
+SO100111,2024-04-06,South,Furniture,Tables,424.34,4,0.0,-6.43,C3767,Home Office,2024-04
+SO100126,2024-06-16,West,Technology,Copiers,73.9,3,0.0,-7.28,C7396,Home Office,2024-06
+SO100130,2025-02-14,West,Office Supplies,Storage,78.61,5,0.0,-6.59,C8928,Consumer,2025-02
+SO100133,2025-01-22,East,Furniture,Bookcases,188.76,2,0.0,-28.09,C8338,Consumer,2025-01
+SO100135,2023-07-30,North,Office Supplies,Storage,355.94,1,0.1,-54.6,C5453,Corporate,2023-07
+SO100138,2023-01-11,West,Office Supplies,Paper,230.11,2,0.0,-15.79,C2496,Consumer,2023-01
+SO100139,2023-10-07,North,Furniture,Chairs,88.56,2,0.05,-15.17,C9861,Consumer,2023-10
+SO100141,2025-04-29,South,Office Supplies,Storage,431.29,3,0.0,-67.91,C4572,Consumer,2025-04
+SO100144,2024-12-15,North,Furniture,Bookcases,381.7,4,0.2,-9.85,C5965,Corporate,2024-12
+SO100145,2024-04-21,North,Technology,Copiers,227.99,4,0.1,-9.75,C8902,Consumer,2024-04
+SO100146,2024-10-22,West,Office Supplies,Pens,148.96,2,0.2,-19.7,C8495,Consumer,2024-10
+SO100147,2024-02-21,East,Technology,Copiers,371.22,4,0.0,-14.08,C5205,Consumer,2024-02
+SO100150,2024-08-29,West,Office Supplies,Paper,166.22,5,0.2,-23.38,C7528,Consumer,2024-08
+SO100151,2024-07-26,East,Furniture,Bookcases,289.73,2,0.0,-57.13,C6983,Home Office,2024-07
+SO100158,2024-05-07,South,Office Supplies,Pens,188.69,2,0.0,-16.65,C4416,Consumer,2024-05
+SO100159,2025-01-02,West,Furniture,Tables,62.47,1,0.05,-8.19,C6920,Corporate,2025-01
+SO100164,2025-05-14,North,Technology,Accessories,74.24,2,0.0,-3.89,C4762,Consumer,2025-05
+SO100166,2025-04-30,West,Furniture,Tables,90.66,2,0.0,-4.07,C2673,Corporate,2025-04
+SO100167,2024-04-15,South,Office Supplies,Storage,262.88,5,0.0,-13.92,C1899,Consumer,2024-04
+SO100171,2023-06-26,East,Office Supplies,Paper,114.72,4,0.0,-4.43,C1424,Consumer,2023-06
+SO100173,2023-01-16,West,Office Supplies,Pens,73.6,3,0.0,-2.21,C9398,Corporate,2023-01
+SO100175,2023-06-20,North,Technology,Copiers,135.23,3,0.0,-21.39,C5396,Corporate,2023-06
+SO100178,2023-10-06,West,Technology,Machines,95.41,4,0.05,-3.47,C7159,Consumer,2023-10
+SO100184,2023-01-11,West,Technology,Copiers,400.13,3,0.0,-63.67,C5578,Corporate,2023-01
+SO100186,2023-07-03,East,Office Supplies,Storage,231.73,5,0.1,-21.23,C6078,Small Business,2023-07
+SO100189,2024-12-30,South,Office Supplies,Binders,341.26,1,0.05,-7.55,C6217,Consumer,2024-12
+SO100192,2023-04-07,North,Office Supplies,Storage,53.01,4,0.0,-6.62,C4149,Consumer,2023-04
+SO100197,2023-08-01,South,Furniture,Chairs,46.12,5,0.3,-1.07,C8258,Consumer,2023-08
+SO100198,2024-09-20,East,Technology,Accessories,69.07,5,0.05,-4.91,C2211,Consumer,2024-09
+SO100200,2024-10-08,West,Technology,Copiers,302.98,5,0.1,-18.09,C7602,Consumer,2024-10
+SO100201,2024-12-18,South,Technology,Phones,410.39,1,0.05,-10.46,C4603,Consumer,2024-12
+SO100208,2023-11-22,North,Furniture,Tables,98.46,3,0.0,-11.39,C2232,Consumer,2023-11
+SO100211,2025-01-30,North,Technology,Accessories,61.65,1,0.0,-9.77,C3863,Consumer,2025-01
+SO100215,2023-08-08,South,Office Supplies,Paper,113.65,5,0.0,-9.06,C9119,Consumer,2023-08
+SO100220,2024-02-29,East,Technology,Copiers,281.06,4,0.0,-0.32,C4764,Consumer,2024-02
+SO100221,2024-04-07,North,Furniture,Bookcases,51.78,1,0.0,-3.67,C6770,Consumer,2024-04
+SO100222,2024-07-11,East,Office Supplies,Pens,283.92,3,0.05,-17.35,C7048,Consumer,2024-07
+SO100224,2024-10-18,West,Office Supplies,Paper,28.8,2,0.2,-7.85,C9108,Consumer,2024-10
+SO100226,2024-07-11,South,Office Supplies,Binders,197.28,4,0.2,-7.84,C5961,Corporate,2024-07
+SO100227,2024-03-27,North,Office Supplies,Pens,110.01,3,0.05,-10.37,C4598,Consumer,2024-03
+SO100230,2023-10-30,North,Technology,Copiers,372.17,2,0.0,-72.91,C7765,Home Office,2023-10
+SO100235,2024-07-01,East,Office Supplies,Paper,209.47,1,0.0,-33.08,C9834,Small Business,2024-07
+SO100241,2023-02-18,North,Office Supplies,Storage,627.1,3,0.0,-9.3,C8995,Home Office,2023-02
+SO100247,2024-12-23,North,Office Supplies,Pens,42.04,4,0.0,-2.84,C8659,Consumer,2024-12
+SO100249,2023-01-29,North,Furniture,Bookcases,145.19,1,0.1,-8.06,C5209,Consumer,2023-01
+SO100250,2023-08-11,South,Office Supplies,Paper,398.74,1,0.1,-15.16,C4484,Consumer,2023-08
+SO100251,2023-11-27,East,Furniture,Tables,172.6,1,0.05,-22.57,C8080,Consumer,2023-11
+SO100253,2023-04-20,East,Office Supplies,Binders,108.71,4,0.05,-7.97,C5590,Corporate,2023-04
+SO100256,2024-06-04,West,Office Supplies,Storage,268.27,2,0.0,-21.28,C3124,Consumer,2024-06
+SO100258,2024-07-16,West,Office Supplies,Pens,260.85,1,0.0,-39.68,C5516,Home Office,2024-07
+SO100263,2023-07-31,West,Office Supplies,Storage,151.01,4,0.0,-23.77,C7191,Corporate,2023-07
+SO100270,2024-04-20,South,Furniture,Bookcases,257.02,1,0.2,-18.65,C9956,Consumer,2024-04
+SO100271,2024-05-14,South,Office Supplies,Binders,160.19,2,0.0,-11.02,C1435,Consumer,2024-05
+SO100272,2025-02-26,South,Office Supplies,Binders,178.67,3,0.0,-27.7,C3177,Small Business,2025-02
+SO100273,2023-09-09,South,Furniture,Chairs,99.23,1,0.0,-2.02,C3664,Consumer,2023-09
+SO100276,2023-03-28,North,Furniture,Tables,132.67,1,0.0,-2.32,C9097,Consumer,2023-03
+SO100277,2024-01-27,South,Technology,Accessories,76.59,2,0.05,-5.53,C2495,Consumer,2024-01
+SO100281,2025-05-28,South,Furniture,Chairs,472.55,4,0.0,-61.83,C3718,Consumer,2025-05
+SO100283,2025-01-25,West,Furniture,Bookcases,281.46,4,0.0,-0.31,C6773,Home Office,2025-01
+SO100285,2023-04-11,North,Furniture,Bookcases,235.27,1,0.0,-1.6,C4503,Consumer,2023-04
+SO100288,2024-03-27,South,Technology,Machines,73.59,5,0.0,-10.08,C7752,Home Office,2024-03
+SO100291,2023-08-18,East,Office Supplies,Storage,57.01,1,0.0,-8.74,C8486,Consumer,2023-08
+SO100295,2023-08-20,North,Technology,Machines,454.59,4,0.0,-87.81,C7434,Consumer,2023-08
+SO100300,2024-02-21,East,Furniture,Tables,153.18,4,0.1,-12.91,C4699,Consumer,2024-02
+SO100311,2024-05-15,East,Furniture,Tables,109.66,3,0.1,-23.19,C5455,Consumer,2024-05
+SO100313,2023-05-26,West,Office Supplies,Binders,44.06,2,0.1,-8.05,C1279,Home Office,2023-05
+SO100315,2023-06-13,North,Office Supplies,Paper,55.91,3,0.0,-10.33,C7397,Home Office,2023-06
+SO100320,2024-11-12,South,Furniture,Tables,457.78,1,0.0,-30.61,C9486,Home Office,2024-11
+SO100322,2024-12-18,North,Technology,Machines,89.67,3,0.2,-15.23,C6429,Corporate,2024-12
+SO100326,2023-08-29,West,Office Supplies,Pens,57.81,4,0.0,-1.13,C3431,Home Office,2023-08
+SO100327,2023-02-18,West,Office Supplies,Storage,151.28,3,0.05,-0.22,C7853,Consumer,2023-02
+SO100332,2023-09-14,West,Office Supplies,Paper,168.51,1,0.0,-7.05,C2258,Corporate,2023-09
+SO100334,2024-05-18,East,Office Supplies,Pens,98.44,2,0.0,-18.47,C5195,Consumer,2024-05
+SO100335,2025-02-23,West,Technology,Copiers,222.26,5,0.0,-28.5,C3498,Consumer,2025-02
+SO100336,2023-10-03,North,Furniture,Chairs,126.23,4,0.1,-24.8,C1477,Consumer,2023-10
+SO100339,2025-01-02,South,Office Supplies,Binders,816.13,4,0.1,-55.01,C1137,Consumer,2025-01
+SO100341,2025-05-29,North,Furniture,Tables,116.84,2,0.1,-7.41,C8065,Consumer,2025-05
+SO100342,2023-05-19,West,Technology,Phones,587.55,3,0.0,-39.58,C4136,Consumer,2023-05
+SO100344,2023-11-21,East,Technology,Phones,91.57,3,0.0,-12.01,C6043,Consumer,2023-11
+SO100345,2024-02-12,East,Technology,Accessories,427.63,2,0.1,-21.54,C7585,Consumer,2024-02
+SO100346,2023-09-28,East,Office Supplies,Pens,632.38,1,0.05,-11.21,C9324,Consumer,2023-09
+SO100348,2024-06-17,East,Office Supplies,Paper,242.47,1,0.0,-3.05,C4657,Consumer,2024-06
+SO100352,2024-03-16,East,Technology,Copiers,304.42,4,0.2,-19.82,C3754,Consumer,2024-03
+SO100355,2024-07-20,North,Office Supplies,Binders,58.15,4,0.05,-0.84,C1164,Consumer,2024-07
+SO100358,2024-06-10,East,Furniture,Bookcases,97.54,5,0.1,-5.81,C8251,Consumer,2024-06
+SO100371,2024-03-14,West,Furniture,Chairs,62.45,1,0.0,-1.14,C4137,Consumer,2024-03
+SO100379,2023-02-13,East,Office Supplies,Binders,326.1,2,0.0,-20.6,C2679,Corporate,2023-02
+SO100381,2025-06-01,South,Office Supplies,Storage,63.18,5,0.1,-3.97,C9797,Small Business,2025-06
+SO100386,2025-04-17,South,Office Supplies,Pens,62.85,5,0.0,-5.47,C5484,Consumer,2025-04
+SO100389,2023-06-21,North,Office Supplies,Storage,243.58,5,0.1,-6.59,C4373,Consumer,2023-06
+SO100390,2024-02-15,West,Furniture,Chairs,253.46,2,0.0,-37.92,C7190,Home Office,2024-02
+SO100391,2024-11-27,West,Technology,Copiers,113.33,3,0.1,-21.84,C4253,Consumer,2024-11
+SO100397,2023-01-02,South,Technology,Machines,61.48,4,0.0,-11.73,C3299,Consumer,2023-01
+SO100399,2023-05-08,East,Furniture,Chairs,103.38,4,0.0,-14.06,C5183,Consumer,2023-05
+SO100401,2024-02-15,East,Office Supplies,Storage,67.36,5,0.0,-1.67,C8782,Small Business,2024-02
+SO100406,2023-05-31,North,Office Supplies,Binders,713.2,1,0.3,-123.24,C7695,Consumer,2023-05
+SO100408,2025-03-31,South,Office Supplies,Storage,55.07,1,0.0,-5.05,C9170,Corporate,2025-03
+SO100421,2023-10-07,South,Technology,Phones,421.48,5,0.1,-69.84,C1210,Consumer,2023-10
+SO100423,2024-03-26,South,Office Supplies,Binders,219.57,2,0.0,-37.34,C2301,Consumer,2024-03
+SO100425,2024-04-21,West,Furniture,Chairs,206.61,2,0.0,-22.14,C4610,Consumer,2024-04
+SO100429,2024-07-19,South,Technology,Phones,155.6,2,0.1,-20.57,C9550,Consumer,2024-07
+SO100430,2024-11-12,South,Technology,Accessories,322.06,4,0.2,-52.73,C7376,Home Office,2024-11
+SO100431,2024-03-17,North,Technology,Phones,888.01,2,0.1,-111.84,C6472,Consumer,2024-03
+SO100434,2025-01-28,North,Technology,Machines,418.07,3,0.1,-66.11,C7588,Corporate,2025-01
+SO100435,2025-01-03,West,Office Supplies,Paper,67.59,2,0.05,-9.76,C5463,Home Office,2025-01
+SO100439,2023-12-29,South,Office Supplies,Pens,95.28,1,0.0,-0.8,C2762,Consumer,2023-12
+SO100442,2023-04-23,South,Technology,Accessories,81.22,5,0.0,-10.34,C9255,Home Office,2023-04
+SO100443,2023-05-25,West,Furniture,Tables,185.22,2,0.3,-11.99,C1011,Consumer,2023-05
+SO100444,2023-06-08,North,Office Supplies,Binders,177.96,1,0.05,-12.79,C8669,Consumer,2023-06
+SO100445,2023-04-26,East,Technology,Phones,186.27,5,0.1,-24.25,C5560,Consumer,2023-04
+SO100446,2024-09-10,South,Office Supplies,Binders,221.86,1,0.1,-33.91,C6323,Consumer,2024-09
+SO100459,2023-11-25,North,Office Supplies,Storage,128.53,4,0.05,-21.55,C8627,Consumer,2023-11
+SO100464,2024-03-01,West,Furniture,Bookcases,86.67,4,0.0,-1.42,C4866,Consumer,2024-03
+SO100469,2023-01-19,North,Office Supplies,Binders,177.24,1,0.0,-28.29,C2115,Consumer,2023-01
+SO100474,2023-12-27,North,Furniture,Tables,115.13,5,0.0,-12.59,C5316,Home Office,2023-12
+SO100475,2023-08-06,East,Office Supplies,Pens,312.28,2,0.05,-33.77,C5051,Home Office,2023-08
+SO100476,2023-04-23,South,Office Supplies,Binders,350.28,2,0.1,-50.41,C2261,Small Business,2023-04
+SO100477,2024-05-26,South,Office Supplies,Storage,317.02,1,0.0,-45.75,C2997,Consumer,2024-05
+SO100480,2023-04-09,East,Office Supplies,Paper,444.69,5,0.2,-53.24,C7086,Corporate,2023-04
+SO100482,2024-12-19,East,Office Supplies,Binders,391.69,2,0.0,-29.19,C7389,Consumer,2024-12
+SO100486,2025-03-05,East,Office Supplies,Binders,341.77,3,0.0,-44.95,C5087,Consumer,2025-03
+SO100492,2023-08-26,South,Technology,Machines,79.63,3,0.1,-13.21,C2427,Consumer,2023-08
+SO100493,2024-05-03,West,Office Supplies,Paper,326.02,5,0.0,-34.53,C5429,Corporate,2024-05
+SO100495,2025-02-18,South,Office Supplies,Pens,409.59,5,0.0,-42.06,C5463,Corporate,2025-02
+SO100497,2023-04-07,West,Office Supplies,Storage,113.07,3,0.0,-3.0,C9525,Small Business,2023-04
+SO100500,2023-12-10,North,Office Supplies,Storage,649.29,5,0.1,-84.41,C9621,Corporate,2023-12
+SO100503,2024-01-15,South,Technology,Copiers,38.63,2,0.1,-7.1,C7422,Corporate,2024-01
+SO100504,2024-06-28,North,Office Supplies,Storage,150.03,3,0.0,-0.32,C7293,Consumer,2024-06
+SO100506,2025-05-09,South,Furniture,Tables,153.54,3,0.0,-14.46,C9816,Consumer,2025-05
+SO100508,2025-06-09,South,Technology,Phones,306.83,3,0.0,-43.59,C7780,Home Office,2025-06
+SO100510,2024-10-24,West,Technology,Copiers,66.46,3,0.2,-3.76,C4527,Consumer,2024-10
+SO100512,2024-03-30,South,Furniture,Bookcases,265.99,3,0.0,-35.02,C1943,Home Office,2024-03
+SO100522,2025-03-29,West,Furniture,Bookcases,34.44,2,0.0,-1.02,C3324,Consumer,2025-03
+SO100523,2025-03-25,West,Office Supplies,Paper,142.72,2,0.0,-27.92,C4945,Small Business,2025-03
+SO100527,2025-01-13,North,Office Supplies,Binders,136.57,2,0.2,-18.4,C5481,Home Office,2025-01
+SO100531,2023-12-27,West,Technology,Accessories,345.48,1,0.3,-36.47,C8879,Consumer,2023-12
+SO100532,2024-06-26,North,Office Supplies,Paper,47.12,2,0.0,-4.89,C2376,Home Office,2024-06
+SO100535,2023-06-08,North,Office Supplies,Storage,236.14,1,0.0,-25.92,C4567,Consumer,2023-06
+SO100536,2024-02-12,West,Office Supplies,Binders,423.54,4,0.0,-23.21,C1192,Consumer,2024-02
+SO100541,2023-05-21,South,Technology,Copiers,235.79,3,0.1,-35.48,C6562,Consumer,2023-05
+SO100542,2024-10-19,East,Technology,Machines,602.49,2,0.05,-114.84,C1423,Consumer,2024-10
+SO100545,2024-06-06,West,Office Supplies,Paper,267.2,5,0.0,-2.81,C1530,Consumer,2024-06
+SO100548,2024-10-07,East,Office Supplies,Pens,193.51,1,0.2,-0.8,C2680,Home Office,2024-10
+SO100550,2023-02-12,North,Technology,Accessories,182.75,4,0.05,-12.7,C8466,Home Office,2023-02
+SO100551,2024-08-21,East,Technology,Copiers,25.24,1,0.0,-3.37,C7623,Home Office,2024-08
+SO100552,2025-04-05,West,Technology,Accessories,187.22,2,0.2,-38.01,C8793,Consumer,2025-04
+SO100555,2025-05-05,North,Furniture,Tables,311.14,2,0.0,-6.71,C4744,Corporate,2025-05
+SO100559,2025-03-27,South,Technology,Copiers,139.35,1,0.1,-23.97,C8978,Corporate,2025-03
+SO100567,2025-06-05,South,Office Supplies,Paper,429.32,2,0.0,-67.4,C7755,Consumer,2025-06
+SO100570,2024-10-05,North,Office Supplies,Binders,84.74,5,0.1,-10.38,C5787,Corporate,2024-10
+SO100571,2024-11-29,South,Technology,Copiers,175.89,3,0.0,-28.22,C8536,Corporate,2024-11
+SO100575,2023-12-19,North,Office Supplies,Paper,660.75,4,0.1,-125.45,C9740,Consumer,2023-12
+SO100579,2023-12-23,West,Furniture,Tables,278.2,5,0.1,-16.55,C5446,Home Office,2023-12
+SO100582,2023-06-08,East,Furniture,Tables,135.9,2,0.05,-24.73,C3303,Consumer,2023-06
+SO100584,2023-05-25,West,Office Supplies,Storage,161.85,5,0.1,-21.0,C5067,Consumer,2023-05
+SO100592,2023-10-28,East,Furniture,Chairs,81.94,4,0.0,-0.65,C9859,Consumer,2023-10
+SO100593,2025-03-03,West,Office Supplies,Paper,78.53,5,0.0,-4.83,C8940,Home Office,2025-03
+SO100595,2024-06-17,East,Office Supplies,Binders,102.65,4,0.0,-17.39,C8732,Consumer,2024-06
+SO100599,2024-07-05,East,Technology,Machines,1352.37,1,0.0,-11.73,C2040,Consumer,2024-07
+SO100604,2023-02-12,South,Office Supplies,Paper,66.45,1,0.0,-3.53,C7004,Corporate,2023-02
+SO100605,2025-04-26,North,Technology,Accessories,124.26,2,0.0,-12.17,C9919,Consumer,2025-04
+SO100606,2024-12-23,East,Office Supplies,Storage,115.58,2,0.0,-17.25,C7655,Consumer,2024-12
+SO100607,2025-05-20,East,Office Supplies,Storage,208.65,4,0.0,-13.35,C5403,Consumer,2025-05
+SO100610,2024-11-19,East,Office Supplies,Storage,564.9,1,0.2,-13.55,C5006,Consumer,2024-11
+SO100614,2025-02-12,East,Furniture,Bookcases,41.86,3,0.1,-4.98,C9392,Consumer,2025-02
+SO100616,2023-08-19,West,Furniture,Tables,277.31,1,0.0,-17.68,C8696,Home Office,2023-08
+SO100620,2023-10-24,East,Technology,Accessories,199.56,1,0.0,-23.61,C3276,Home Office,2023-10
+SO100623,2023-01-08,South,Office Supplies,Paper,147.59,1,0.0,-5.98,C8588,Home Office,2023-01
+SO100627,2023-12-01,North,Technology,Machines,344.37,2,0.0,-55.74,C4215,Home Office,2023-12
+SO100629,2024-06-23,West,Furniture,Chairs,158.86,2,0.0,-15.48,C3957,Consumer,2024-06
+SO100633,2023-06-24,South,Furniture,Bookcases,473.5,3,0.1,-28.99,C6271,Consumer,2023-06
+SO100634,2023-01-10,East,Office Supplies,Binders,229.2,3,0.0,-21.38,C4475,Consumer,2023-01
+SO100635,2025-04-15,South,Furniture,Bookcases,280.67,1,0.2,-39.53,C1443,Consumer,2025-04
+SO100636,2025-02-10,North,Technology,Copiers,37.53,5,0.1,-7.09,C2019,Corporate,2025-02
+SO100639,2023-08-16,North,Office Supplies,Storage,75.72,5,0.0,-7.17,C3586,Home Office,2023-08
+SO100640,2024-08-15,East,Furniture,Chairs,94.05,3,0.05,-12.03,C6110,Home Office,2024-08
+SO100641,2023-10-12,South,Technology,Phones,315.48,4,0.0,-60.79,C3392,Consumer,2023-10
+SO100646,2023-12-01,West,Furniture,Chairs,95.43,1,0.3,-11.3,C2863,Consumer,2023-12
+SO100647,2023-12-26,South,Office Supplies,Storage,400.21,1,0.0,-67.96,C4776,Consumer,2023-12
+SO100648,2024-03-30,North,Furniture,Bookcases,101.2,2,0.0,-5.65,C6577,Consumer,2024-03
+SO100652,2023-03-05,West,Office Supplies,Storage,104.99,2,0.1,-1.06,C7799,Corporate,2023-03
+SO100654,2025-01-03,East,Office Supplies,Pens,419.2,2,0.05,-35.87,C2827,Consumer,2025-01
+SO100655,2024-10-20,South,Office Supplies,Storage,75.14,5,0.0,-0.2,C8940,Consumer,2024-10
+SO100658,2023-02-09,South,Furniture,Tables,43.2,5,0.05,-6.18,C8492,Home Office,2023-02
+SO100659,2025-03-07,East,Office Supplies,Binders,283.48,3,0.0,-31.95,C7244,Consumer,2025-03
+SO100661,2023-01-30,South,Office Supplies,Paper,219.18,4,0.05,-32.02,C1861,Consumer,2023-01
+SO100663,2023-12-26,East,Office Supplies,Binders,25.62,1,0.2,-4.24,C4359,Consumer,2023-12
+SO100665,2025-05-24,West,Office Supplies,Paper,332.15,3,0.0,-34.4,C7562,Consumer,2025-05
+SO100666,2024-02-01,West,Office Supplies,Storage,226.87,1,0.05,-14.37,C3590,Consumer,2024-02
+SO100667,2023-05-26,East,Office Supplies,Storage,129.49,4,0.2,-3.78,C2294,Consumer,2023-05
+SO100668,2023-03-13,West,Office Supplies,Paper,261.2,4,0.1,-51.14,C6264,Consumer,2023-03
+SO100672,2023-07-04,North,Office Supplies,Binders,127.47,5,0.0,-24.55,C2234,Home Office,2023-07
+SO100677,2023-06-29,West,Office Supplies,Pens,22.22,3,0.0,-1.82,C4320,Consumer,2023-06
+SO100679,2024-06-26,South,Technology,Copiers,150.24,4,0.0,-12.28,C8444,Home Office,2024-06
+SO100682,2024-04-20,East,Office Supplies,Paper,156.29,3,0.0,-16.08,C4866,Consumer,2024-04
+SO100685,2024-02-11,North,Furniture,Bookcases,40.05,3,0.05,-7.84,C6450,Consumer,2024-02
+SO100686,2024-12-17,West,Furniture,Bookcases,40.58,2,0.0,-0.26,C9469,Consumer,2024-12
+SO100688,2024-01-01,East,Office Supplies,Storage,47.88,5,0.1,-1.66,C6237,Small Business,2024-01
+SO100689,2023-01-23,East,Furniture,Chairs,446.39,3,0.1,-87.25,C6527,Home Office,2023-01
+SO100691,2023-08-10,East,Technology,Copiers,248.38,2,0.05,-22.14,C9993,Consumer,2023-08
+SO100696,2024-06-27,East,Furniture,Chairs,27.85,5,0.05,-0.85,C8018,Consumer,2024-06
+SO100700,2024-01-13,East,Office Supplies,Binders,79.25,5,0.0,-5.7,C7651,Consumer,2024-01
+SO100702,2023-06-23,South,Furniture,Tables,82.82,4,0.0,-10.17,C5021,Consumer,2023-06
+SO100704,2023-12-09,North,Technology,Accessories,95.67,2,0.0,-18.24,C7083,Corporate,2023-12
+SO100706,2023-07-19,South,Technology,Phones,64.02,4,0.0,-1.83,C5503,Consumer,2023-07
+SO100707,2024-11-19,West,Office Supplies,Binders,94.54,3,0.0,-1.03,C9233,Small Business,2024-11
+SO100713,2024-08-14,South,Office Supplies,Pens,49.79,3,0.0,-5.73,C3884,Consumer,2024-08
+SO100716,2023-08-03,South,Office Supplies,Storage,229.62,1,0.1,-29.21,C7981,Home Office,2023-08
+SO100721,2023-09-29,West,Furniture,Tables,127.8,5,0.0,-6.31,C2793,Consumer,2023-09
+SO100729,2024-09-07,North,Office Supplies,Paper,348.62,1,0.0,-43.28,C5394,Consumer,2024-09
+SO100745,2023-01-27,North,Furniture,Tables,99.71,5,0.1,-19.61,C9451,Consumer,2023-01
+SO100748,2024-05-16,West,Office Supplies,Binders,262.44,1,0.05,-52.43,C1872,Consumer,2024-05
+SO100750,2025-03-13,South,Office Supplies,Paper,376.92,5,0.1,-5.05,C6154,Consumer,2025-03
+SO100753,2023-07-16,South,Furniture,Bookcases,195.01,4,0.05,-14.33,C7211,Home Office,2023-07
+SO100755,2023-04-29,North,Technology,Accessories,480.51,4,0.2,-55.0,C9554,Consumer,2023-04
+SO100756,2023-05-27,East,Technology,Phones,81.07,2,0.0,-13.24,C2491,Corporate,2023-05
+SO100760,2024-01-13,East,Office Supplies,Binders,664.49,2,0.05,-128.31,C2949,Consumer,2024-01
+SO100762,2025-04-24,East,Technology,Accessories,110.49,5,0.05,-13.37,C8109,Home Office,2025-04
+SO100763,2024-08-03,South,Office Supplies,Pens,656.78,1,0.0,-47.38,C5926,Corporate,2024-08
+SO100764,2023-06-23,East,Office Supplies,Binders,271.23,3,0.1,-49.33,C3348,Corporate,2023-06
+SO100765,2023-07-12,East,Furniture,Bookcases,183.58,5,0.0,-8.35,C8448,Consumer,2023-07
+SO100766,2023-03-31,West,Office Supplies,Pens,206.43,4,0.0,-30.63,C4405,Consumer,2023-03
+SO100768,2025-02-14,North,Furniture,Tables,155.19,5,0.0,-21.17,C4574,Consumer,2025-02
+SO100770,2023-09-04,West,Office Supplies,Paper,101.22,4,0.0,-1.31,C8168,Consumer,2023-09
+SO100771,2023-10-17,West,Furniture,Bookcases,119.49,1,0.05,-4.37,C9671,Corporate,2023-10
+SO100772,2024-07-24,South,Furniture,Tables,44.24,2,0.0,-8.19,C6373,Consumer,2024-07
+SO100773,2023-09-21,East,Technology,Copiers,487.96,2,0.0,-14.4,C2096,Consumer,2023-09
+SO100777,2023-04-29,South,Office Supplies,Storage,180.44,5,0.0,-17.22,C1642,Consumer,2023-04
+SO100778,2025-05-21,East,Technology,Machines,154.84,1,0.2,-11.99,C8196,Consumer,2025-05
+SO100786,2023-04-03,North,Office Supplies,Binders,37.37,1,0.0,-5.52,C6188,Consumer,2023-04
+SO100787,2023-11-24,West,Office Supplies,Storage,440.32,3,0.0,-82.53,C6877,Consumer,2023-11
+SO100790,2024-10-27,South,Technology,Copiers,260.14,2,0.0,-35.53,C9281,Home Office,2024-10
+SO100792,2023-09-05,West,Office Supplies,Storage,202.39,1,0.1,-38.95,C8652,Home Office,2023-09
+SO100798,2023-08-02,East,Office Supplies,Pens,474.33,2,0.1,-64.96,C6116,Consumer,2023-08
+SO100805,2023-04-24,West,Office Supplies,Binders,276.44,5,0.0,-31.47,C8251,Home Office,2023-04
+SO100812,2023-02-01,North,Office Supplies,Paper,85.35,5,0.0,-13.0,C2310,Corporate,2023-02
+SO100817,2025-02-12,South,Office Supplies,Paper,402.96,2,0.1,-1.74,C1017,Consumer,2025-02
+SO100819,2024-01-02,South,Technology,Phones,146.12,4,0.0,-9.65,C4742,Corporate,2024-01
+SO100828,2023-10-25,West,Office Supplies,Binders,352.29,4,0.2,-37.07,C2520,Home Office,2023-10
+SO100829,2023-06-02,North,Technology,Phones,105.38,4,0.0,-6.16,C5385,Consumer,2023-06
+SO100830,2023-10-05,West,Furniture,Tables,591.37,2,0.3,-23.3,C8598,Small Business,2023-10
+SO100837,2024-06-28,West,Technology,Phones,526.73,5,0.0,-69.06,C5183,Home Office,2024-06
+SO100840,2025-05-06,West,Office Supplies,Binders,62.19,5,0.0,-5.58,C2680,Consumer,2025-05
+SO100841,2023-12-25,East,Office Supplies,Paper,343.16,4,0.1,-63.47,C7512,Consumer,2023-12
+SO100844,2024-10-27,North,Office Supplies,Binders,116.22,1,0.2,-24.56,C4090,Consumer,2024-10
+SO100850,2023-07-13,East,Furniture,Chairs,432.08,2,0.1,-21.79,C6755,Consumer,2023-07
+SO100851,2023-11-04,East,Technology,Phones,747.97,4,0.0,-147.03,C6049,Home Office,2023-11
+SO100853,2024-01-27,South,Furniture,Tables,359.99,5,0.0,-32.63,C9241,Consumer,2024-01
+SO100858,2024-02-17,North,Office Supplies,Pens,105.73,5,0.1,-18.21,C3409,Consumer,2024-02
+SO100862,2025-01-21,West,Technology,Accessories,58.48,1,0.0,-8.48,C3046,Consumer,2025-01
+SO100863,2023-03-03,West,Office Supplies,Pens,204.88,4,0.05,-5.52,C3232,Consumer,2023-03
+SO100864,2024-12-24,East,Office Supplies,Storage,175.34,4,0.0,-4.7,C6754,Consumer,2024-12
+SO100865,2023-04-07,West,Technology,Copiers,45.78,3,0.1,-0.49,C8990,Small Business,2023-04
+SO100870,2023-07-05,West,Furniture,Bookcases,98.88,5,0.0,-12.3,C9696,Small Business,2023-07
+SO100882,2024-03-10,West,Technology,Copiers,156.54,2,0.0,-28.79,C4218,Small Business,2024-03
+SO100885,2023-09-23,West,Office Supplies,Storage,115.84,1,0.3,-4.52,C7707,Home Office,2023-09
+SO100894,2024-02-22,West,Office Supplies,Pens,240.88,4,0.0,-34.62,C8236,Corporate,2024-02
+SO100896,2023-06-16,North,Technology,Copiers,46.96,5,0.2,-12.3,C7445,Small Business,2023-06
+SO100898,2024-07-09,East,Office Supplies,Binders,282.97,1,0.1,-22.61,C8846,Home Office,2024-07
+SO100901,2023-04-06,North,Technology,Accessories,487.86,1,0.2,-0.33,C7115,Home Office,2023-04
+SO100902,2024-03-01,East,Office Supplies,Binders,207.89,5,0.0,-37.62,C8300,Consumer,2024-03
+SO100906,2023-01-24,East,Office Supplies,Binders,235.02,3,0.0,-27.89,C6005,Consumer,2023-01
+SO100907,2024-12-27,South,Office Supplies,Pens,118.71,1,0.05,-22.23,C6691,Home Office,2024-12
+SO100908,2023-04-17,South,Office Supplies,Pens,580.11,3,0.0,-70.73,C1227,Home Office,2023-04
+SO100912,2023-02-08,East,Furniture,Bookcases,137.4,4,0.3,-16.37,C6240,Consumer,2023-02
+SO100915,2024-02-25,East,Office Supplies,Paper,106.03,4,0.1,-11.66,C9848,Consumer,2024-02
+SO100921,2025-03-09,South,Office Supplies,Paper,211.62,1,0.1,-30.3,C3462,Consumer,2025-03
+SO100922,2025-06-18,West,Office Supplies,Binders,61.56,5,0.0,-10.44,C5765,Corporate,2025-06
+SO100923,2024-05-23,South,Office Supplies,Pens,414.91,1,0.1,-25.39,C2370,Consumer,2024-05
+SO100924,2025-05-26,East,Office Supplies,Binders,132.83,1,0.0,-25.62,C2371,Small Business,2025-05
+SO100929,2023-09-01,East,Office Supplies,Paper,1118.41,5,0.0,-64.55,C9344,Home Office,2023-09
+SO100933,2025-05-25,South,Furniture,Bookcases,67.1,1,0.2,-13.52,C2004,Consumer,2025-05
+SO100935,2023-06-05,East,Office Supplies,Paper,192.14,4,0.1,-28.78,C6536,Consumer,2023-06
+SO100937,2025-04-20,East,Furniture,Chairs,150.01,5,0.0,-1.4,C3303,Consumer,2025-04
+SO100938,2024-08-03,South,Furniture,Tables,115.73,4,0.0,-18.81,C3384,Consumer,2024-08
+SO100944,2023-03-03,East,Furniture,Tables,293.78,4,0.05,-41.01,C3462,Corporate,2023-03
+SO100946,2024-07-02,North,Technology,Machines,50.8,3,0.0,-5.7,C7318,Corporate,2024-07
+SO100947,2025-02-19,West,Furniture,Bookcases,109.86,5,0.0,-6.43,C5394,Corporate,2025-02
+SO100948,2024-05-21,West,Office Supplies,Storage,247.33,4,0.0,-49.37,C3798,Consumer,2024-05
+SO100949,2024-03-13,South,Furniture,Bookcases,297.54,4,0.0,-36.93,C3127,Consumer,2024-03
+SO100951,2023-10-10,West,Furniture,Tables,176.78,3,0.0,-20.67,C8205,Consumer,2023-10
+SO100956,2024-06-08,East,Office Supplies,Paper,367.63,1,0.0,-71.65,C9181,Consumer,2024-06
+SO100961,2024-01-21,South,Technology,Copiers,92.66,2,0.0,-5.66,C5463,Home Office,2024-01
+SO100962,2024-05-07,South,Office Supplies,Pens,184.08,5,0.0,-14.45,C8681,Consumer,2024-05
+SO100963,2024-11-12,East,Office Supplies,Paper,232.5,2,0.0,-23.75,C8321,Home Office,2024-11
+SO100964,2024-09-11,South,Technology,Copiers,79.87,3,0.1,-2.23,C4809,Consumer,2024-09
+SO100967,2024-03-24,North,Technology,Copiers,92.93,2,0.2,-3.96,C5843,Consumer,2024-03
+SO100969,2024-04-21,South,Technology,Copiers,369.36,5,0.2,-50.91,C4609,Consumer,2024-04
+SO100970,2023-10-24,East,Furniture,Tables,637.75,4,0.0,-99.06,C3633,Corporate,2023-10
+SO100975,2024-11-03,East,Technology,Phones,121.05,2,0.0,-7.02,C6067,Corporate,2024-11
+SO100978,2023-11-05,North,Furniture,Tables,231.84,4,0.1,-3.28,C9804,Corporate,2023-11
+SO100979,2024-07-04,South,Office Supplies,Pens,906.84,2,0.0,-124.77,C5145,Consumer,2024-07
+SO100981,2024-12-21,South,Office Supplies,Paper,101.24,4,0.0,-6.89,C9452,Consumer,2024-12
+SO100982,2025-03-31,West,Office Supplies,Binders,54.12,2,0.2,-1.34,C9347,Consumer,2025-03
+SO100983,2023-03-31,West,Technology,Phones,1035.73,4,0.0,-130.7,C2558,Consumer,2023-03
+SO100989,2023-01-02,East,Furniture,Tables,284.5,5,0.0,-24.42,C4965,Consumer,2023-01
+SO100993,2023-01-19,West,Furniture,Bookcases,318.21,2,0.0,-60.05,C6654,Home Office,2023-01
+SO100997,2024-04-12,West,Technology,Machines,88.95,1,0.0,-10.88,C4697,Home Office,2024-04
+SO101000,2023-05-08,South,Office Supplies,Storage,327.27,2,0.0,-13.77,C4829,Corporate,2023-05
+SO101003,2024-05-01,East,Office Supplies,Binders,151.1,2,0.05,-17.65,C8383,Corporate,2024-05
+SO101005,2023-12-21,West,Office Supplies,Paper,157.31,4,0.1,-24.29,C9287,Consumer,2023-12
+SO101008,2025-02-08,North,Office Supplies,Binders,114.34,3,0.1,-21.32,C8466,Consumer,2025-02
+SO101015,2023-06-10,West,Furniture,Bookcases,258.96,5,0.0,-17.26,C7059,Consumer,2023-06
+SO101020,2024-01-10,South,Office Supplies,Pens,203.85,2,0.05,-9.24,C2741,Small Business,2024-01
+SO101022,2024-06-26,West,Office Supplies,Pens,58.33,3,0.0,-0.65,C3370,Home Office,2024-06
+SO101026,2025-01-05,South,Office Supplies,Pens,35.11,2,0.0,-1.56,C3614,Consumer,2025-01
+SO101027,2024-03-31,East,Office Supplies,Binders,384.26,4,0.2,-47.4,C4383,Home Office,2024-03
+SO101029,2024-02-10,South,Office Supplies,Paper,285.02,4,0.05,-23.82,C3747,Home Office,2024-02
+SO101030,2024-06-14,East,Furniture,Chairs,541.44,5,0.05,-57.55,C9647,Consumer,2024-06
+SO101039,2023-06-01,West,Furniture,Chairs,541.76,5,0.1,-21.53,C6066,Corporate,2023-06
+SO101040,2023-04-06,West,Office Supplies,Paper,542.16,2,0.0,-69.41,C9448,Home Office,2023-04
+SO101043,2025-01-11,South,Technology,Accessories,186.27,4,0.0,-27.92,C5925,Consumer,2025-01
+SO101045,2023-03-06,South,Office Supplies,Paper,17.72,4,0.0,-2.1,C1456,Small Business,2023-03
+SO101046,2024-02-20,East,Office Supplies,Pens,293.31,4,0.0,-28.36,C5247,Consumer,2024-02
+SO101052,2023-01-26,West,Furniture,Tables,202.6,2,0.05,-9.11,C1504,Consumer,2023-01
+SO101053,2024-04-12,West,Furniture,Bookcases,150.52,2,0.0,-8.63,C9754,Corporate,2024-04
+SO101056,2024-07-22,West,Technology,Phones,471.0,1,0.0,-46.27,C5673,Consumer,2024-07
+SO101057,2024-08-27,West,Furniture,Tables,50.32,2,0.05,-4.23,C1452,Consumer,2024-08
+SO101061,2023-06-24,East,Office Supplies,Paper,44.33,5,0.0,-4.0,C8284,Consumer,2023-06
+SO101064,2024-03-21,North,Office Supplies,Paper,439.16,5,0.0,-66.59,C9703,Consumer,2024-03
+SO101066,2023-06-01,North,Furniture,Chairs,675.81,4,0.0,-4.36,C2020,Small Business,2023-06
+SO101067,2023-12-11,South,Technology,Accessories,161.35,5,0.05,-18.64,C5813,Consumer,2023-12
+SO101068,2023-08-06,West,Technology,Phones,694.56,2,0.0,-72.07,C9393,Consumer,2023-08
+SO101070,2023-07-30,North,Office Supplies,Binders,251.83,4,0.0,-11.68,C8751,Consumer,2023-07
+SO101074,2025-03-25,North,Furniture,Tables,133.85,1,0.0,-25.4,C5821,Corporate,2025-03
+SO101077,2024-08-08,East,Technology,Phones,44.0,3,0.0,-4.86,C4875,Consumer,2024-08
+SO101082,2024-01-17,South,Office Supplies,Paper,288.47,1,0.05,-8.09,C2146,Consumer,2024-01
+SO101090,2023-10-06,East,Technology,Accessories,215.8,4,0.1,-30.2,C5820,Consumer,2023-10
+SO101091,2023-01-03,North,Furniture,Tables,69.71,3,0.0,-5.88,C9987,Home Office,2023-01
+SO101092,2023-08-03,North,Furniture,Chairs,108.5,4,0.0,-21.23,C5251,Consumer,2023-08
+SO101093,2023-09-15,East,Office Supplies,Storage,260.9,3,0.0,-30.54,C8411,Consumer,2023-09
+SO101097,2025-05-30,South,Furniture,Tables,344.94,1,0.0,-46.12,C1000,Home Office,2025-05
+SO101098,2024-12-28,South,Office Supplies,Storage,450.55,3,0.0,-72.62,C5706,Home Office,2024-12
+SO101100,2025-04-10,East,Furniture,Chairs,849.14,3,0.1,-162.25,C6337,Small Business,2025-04
+SO101101,2024-07-14,South,Technology,Machines,293.72,1,0.05,-23.54,C6085,Consumer,2024-07
+SO101103,2024-07-08,North,Technology,Machines,251.56,2,0.0,-36.5,C1058,Home Office,2024-07
+SO101104,2023-10-23,North,Technology,Accessories,171.4,4,0.0,-9.92,C6490,Consumer,2023-10
+SO101106,2024-03-17,South,Office Supplies,Storage,243.43,2,0.0,-35.48,C3777,Consumer,2024-03
+SO101117,2023-01-27,North,Technology,Phones,165.28,2,0.1,-25.01,C7318,Consumer,2023-01
+SO101119,2024-06-07,South,Technology,Copiers,117.81,2,0.0,-18.3,C5379,Home Office,2024-06
+SO101120,2024-01-23,West,Office Supplies,Paper,97.16,2,0.05,-2.26,C6859,Consumer,2024-01
+SO101121,2024-11-25,North,Office Supplies,Pens,382.41,1,0.2,-54.57,C4899,Consumer,2024-11
+SO101122,2023-05-10,East,Furniture,Tables,465.55,4,0.0,-71.17,C9665,Corporate,2023-05
+SO101129,2023-02-08,South,Office Supplies,Binders,135.52,5,0.2,-1.93,C3598,Corporate,2023-02
+SO101131,2023-11-23,East,Furniture,Tables,498.78,5,0.0,-53.37,C5236,Consumer,2023-11
+SO101133,2025-04-21,West,Office Supplies,Paper,467.41,2,0.0,-79.1,C1493,Consumer,2025-04
+SO101134,2023-01-06,West,Office Supplies,Paper,170.08,2,0.0,-10.68,C9502,Small Business,2023-01
+SO101135,2024-04-08,South,Furniture,Chairs,214.39,4,0.0,-34.09,C3902,Corporate,2024-04
+SO101142,2023-11-19,South,Technology,Machines,227.44,3,0.1,-0.83,C4897,Consumer,2023-11
+SO101150,2024-04-02,North,Furniture,Bookcases,98.01,3,0.0,-10.31,C7470,Consumer,2024-04
+SO101157,2023-12-12,West,Technology,Phones,73.99,2,0.0,-13.5,C3277,Home Office,2023-12
+SO101158,2023-01-29,West,Office Supplies,Binders,54.84,4,0.1,-3.78,C5690,Corporate,2023-01
+SO101159,2025-02-26,South,Office Supplies,Paper,122.22,1,0.0,-16.91,C7321,Consumer,2025-02
+SO101160,2025-02-24,North,Technology,Phones,57.92,4,0.0,-4.39,C5106,Consumer,2025-02
+SO101171,2023-01-18,South,Office Supplies,Paper,98.14,1,0.2,-13.66,C3175,Consumer,2023-01
+SO101174,2023-11-14,West,Office Supplies,Binders,101.99,1,0.1,-1.33,C8439,Home Office,2023-11
+SO101175,2023-11-17,North,Technology,Copiers,103.83,5,0.0,-2.43,C1857,Consumer,2023-11
+SO101177,2025-03-08,East,Office Supplies,Binders,218.27,1,0.0,-36.7,C8813,Consumer,2025-03
+SO101178,2024-11-26,East,Technology,Phones,183.35,1,0.1,-7.55,C5043,Corporate,2024-11
+SO101179,2025-03-07,North,Technology,Phones,691.04,4,0.05,-92.9,C7725,Home Office,2025-03
+SO101180,2025-06-03,South,Office Supplies,Paper,30.96,2,0.0,-5.38,C4610,Consumer,2025-06
+SO101181,2024-04-28,North,Furniture,Tables,102.98,5,0.0,-10.51,C6997,Consumer,2024-04
+SO101182,2023-02-13,South,Technology,Phones,52.56,4,0.2,-14.31,C5907,Consumer,2023-02
+SO101187,2023-11-03,North,Furniture,Chairs,198.58,2,0.05,-26.89,C1798,Corporate,2023-11
+SO101188,2025-05-10,South,Office Supplies,Paper,565.52,1,0.0,-111.39,C9729,Corporate,2025-05
+SO101190,2024-11-23,East,Technology,Phones,61.22,3,0.1,-9.19,C9771,Consumer,2024-11
+SO101193,2025-04-25,West,Technology,Accessories,227.59,2,0.0,-30.4,C9495,Consumer,2025-04
+SO101195,2024-04-18,North,Office Supplies,Paper,493.6,4,0.05,-83.58,C8368,Corporate,2024-04
+SO101197,2025-03-22,East,Office Supplies,Storage,490.99,5,0.0,-25.32,C2292,Consumer,2025-03
+SO101201,2024-04-18,East,Office Supplies,Paper,89.76,5,0.0,-16.2,C6509,Consumer,2024-04
+SO101204,2023-08-21,North,Technology,Machines,112.25,4,0.1,-11.25,C7974,Consumer,2023-08
+SO101205,2024-11-22,North,Furniture,Tables,70.83,1,0.0,-5.65,C7777,Consumer,2024-11
+SO101206,2024-11-13,South,Office Supplies,Pens,446.11,3,0.0,-14.32,C5546,Corporate,2024-11
+SO101210,2024-08-24,East,Office Supplies,Paper,168.36,5,0.1,-8.32,C2313,Consumer,2024-08
+SO101215,2024-09-08,East,Office Supplies,Storage,116.13,1,0.05,-8.89,C2996,Consumer,2024-09
+SO101223,2025-04-06,East,Furniture,Bookcases,115.4,4,0.0,-22.53,C6800,Consumer,2025-04
+SO101224,2025-05-06,West,Furniture,Tables,589.79,2,0.3,-109.7,C4173,Consumer,2025-05
+SO101228,2025-05-25,North,Office Supplies,Paper,235.69,2,0.0,-19.78,C8826,Small Business,2025-05
+SO101231,2023-01-10,North,Office Supplies,Paper,90.15,3,0.0,-12.67,C4474,Corporate,2023-01
+SO101232,2023-04-14,North,Office Supplies,Pens,54.25,1,0.05,-9.09,C3424,Consumer,2023-04
+SO101234,2024-11-01,East,Office Supplies,Binders,199.94,1,0.05,-4.36,C9693,Consumer,2024-11
+SO101239,2023-03-16,East,Office Supplies,Storage,291.39,4,0.0,-29.19,C3906,Consumer,2023-03
+SO101240,2023-12-14,West,Furniture,Chairs,311.14,2,0.0,-24.94,C6712,Consumer,2023-12
+SO101241,2023-08-02,South,Office Supplies,Paper,253.73,1,0.0,-26.26,C4485,Consumer,2023-08
+SO101253,2023-01-22,South,Technology,Accessories,179.81,3,0.2,-3.67,C9382,Consumer,2023-01
+SO101254,2023-03-09,South,Office Supplies,Paper,379.9,1,0.0,-73.82,C6659,Consumer,2023-03
+SO101270,2023-03-27,East,Office Supplies,Paper,79.42,1,0.05,-2.44,C9396,Corporate,2023-03
+SO101279,2023-10-02,North,Office Supplies,Pens,91.74,1,0.1,-7.63,C4252,Consumer,2023-10
+SO101286,2023-01-26,North,Furniture,Bookcases,68.35,5,0.3,-13.74,C7720,Consumer,2023-01
+SO101289,2024-08-04,North,Office Supplies,Storage,173.86,4,0.0,-7.12,C9168,Corporate,2024-08
+SO101291,2023-03-01,North,Technology,Phones,214.4,2,0.0,-11.27,C6312,Corporate,2023-03
+SO101295,2024-09-27,North,Office Supplies,Paper,61.67,5,0.3,-2.28,C6079,Corporate,2024-09
+SO101296,2023-02-02,South,Technology,Accessories,73.32,5,0.0,-11.25,C7440,Consumer,2023-02
+SO101300,2023-07-20,North,Technology,Accessories,27.62,2,0.05,-5.75,C4941,Consumer,2023-07
+SO101307,2025-02-16,East,Office Supplies,Binders,315.68,1,0.0,-55.1,C4555,Home Office,2025-02
+SO101308,2025-04-15,West,Technology,Copiers,125.21,2,0.0,-0.16,C3148,Consumer,2025-04
+SO101311,2025-02-27,South,Technology,Machines,819.4,3,0.0,-89.87,C3139,Corporate,2025-02
+SO101312,2024-02-24,South,Office Supplies,Binders,133.07,4,0.1,-9.07,C9267,Home Office,2024-02
+SO101314,2025-01-25,North,Office Supplies,Binders,542.99,5,0.05,-6.27,C2983,Consumer,2025-01
+SO101316,2024-11-16,East,Office Supplies,Binders,469.83,5,0.0,-42.42,C7356,Corporate,2024-11
+SO101320,2025-03-30,East,Office Supplies,Paper,148.77,5,0.1,-27.47,C3411,Consumer,2025-03
+SO101321,2024-05-31,East,Office Supplies,Paper,218.97,1,0.0,-19.5,C5673,Corporate,2024-05
+SO101323,2023-02-01,North,Office Supplies,Storage,298.9,5,0.2,-6.92,C4375,Consumer,2023-02
+SO101326,2024-03-12,South,Office Supplies,Paper,151.76,2,0.2,-12.38,C5374,Consumer,2024-03
+SO101327,2023-09-08,East,Office Supplies,Pens,27.66,4,0.0,-1.0,C6710,Corporate,2023-09
+SO101328,2025-03-17,North,Office Supplies,Binders,251.09,4,0.0,-2.25,C4196,Corporate,2025-03
+SO101330,2024-12-21,North,Office Supplies,Binders,264.58,2,0.1,-18.34,C1213,Corporate,2024-12
+SO101341,2023-02-11,West,Furniture,Chairs,104.7,2,0.0,-16.69,C7904,Consumer,2023-02
+SO101345,2024-11-19,West,Technology,Accessories,524.13,5,0.05,-5.17,C4352,Home Office,2024-11
+SO101349,2024-10-24,East,Office Supplies,Binders,32.67,1,0.0,-1.02,C9931,Corporate,2024-10
+SO101353,2024-01-01,East,Office Supplies,Storage,87.91,2,0.0,-3.65,C4132,Home Office,2024-01
+SO101355,2023-06-05,West,Technology,Accessories,55.29,1,0.05,-8.85,C8474,Consumer,2023-06
+SO101359,2023-10-04,North,Furniture,Bookcases,142.77,4,0.1,-12.16,C7999,Corporate,2023-10
+SO101361,2023-01-27,South,Furniture,Chairs,90.14,4,0.05,-18.58,C4807,Home Office,2023-01
+SO101362,2023-12-24,North,Furniture,Bookcases,125.97,4,0.2,-4.07,C7445,Consumer,2023-12
+SO101365,2023-09-11,South,Technology,Copiers,187.99,3,0.3,-23.34,C6987,Home Office,2023-09
+SO101366,2024-04-11,West,Furniture,Bookcases,212.62,3,0.1,-7.95,C8837,Consumer,2024-04
+SO101367,2025-01-12,East,Office Supplies,Binders,69.62,3,0.0,-12.44,C8490,Consumer,2025-01
+SO101368,2023-11-12,East,Office Supplies,Paper,483.89,1,0.1,-32.79,C2234,Corporate,2023-11
+SO101370,2024-01-05,South,Office Supplies,Pens,462.11,2,0.0,-67.48,C1642,Consumer,2024-01
+SO101374,2024-10-25,West,Office Supplies,Storage,45.45,2,0.05,-6.41,C2796,Home Office,2024-10
+SO101375,2024-08-03,West,Office Supplies,Paper,254.38,1,0.1,-3.86,C2245,Home Office,2024-08
+SO101376,2024-12-10,South,Technology,Machines,74.03,4,0.0,-6.9,C3359,Consumer,2024-12
+SO101377,2023-07-09,East,Office Supplies,Pens,333.9,3,0.05,-0.72,C9717,Consumer,2023-07
+SO101378,2023-12-10,South,Furniture,Bookcases,88.7,3,0.1,-8.85,C7075,Small Business,2023-12
+SO101380,2025-02-26,West,Furniture,Bookcases,106.07,3,0.0,-16.15,C2878,Consumer,2025-02
+SO101382,2024-11-07,East,Office Supplies,Paper,34.59,4,0.0,-5.59,C5815,Small Business,2024-11
+SO101384,2023-05-30,East,Office Supplies,Paper,204.57,2,0.0,-13.71,C2745,Corporate,2023-05
+SO101385,2023-07-25,West,Office Supplies,Paper,24.43,1,0.0,-2.85,C2799,Home Office,2023-07
+SO101386,2023-12-29,West,Furniture,Bookcases,306.08,3,0.0,-18.75,C7851,Corporate,2023-12
+SO101390,2025-01-23,South,Office Supplies,Paper,175.74,1,0.2,-26.61,C9440,Home Office,2025-01
+SO101398,2025-01-03,East,Office Supplies,Pens,274.94,1,0.0,-51.86,C5825,Consumer,2025-01
+SO101400,2024-12-15,South,Furniture,Tables,39.94,1,0.0,-5.56,C4813,Consumer,2024-12
+SO101402,2025-03-02,South,Office Supplies,Binders,212.04,4,0.0,-9.59,C1630,Consumer,2025-03
+SO101405,2024-01-31,North,Furniture,Chairs,47.97,3,0.0,-4.69,C3842,Consumer,2024-01
+SO101407,2023-08-05,North,Technology,Copiers,308.75,4,0.0,-38.3,C4875,Consumer,2023-08
+SO101408,2023-01-25,North,Office Supplies,Paper,728.12,5,0.0,-15.24,C5458,Consumer,2023-01
+SO101410,2023-09-07,South,Furniture,Chairs,146.63,1,0.0,-27.4,C6820,Consumer,2023-09
+SO101411,2024-03-28,West,Office Supplies,Paper,106.22,3,0.3,-5.58,C6870,Consumer,2024-03
+SO101413,2024-09-25,East,Office Supplies,Storage,121.03,3,0.0,-8.69,C2004,Consumer,2024-09
+SO101416,2023-01-03,North,Technology,Machines,224.02,2,0.05,-36.36,C3904,Consumer,2023-01
+SO101421,2023-06-06,North,Furniture,Tables,582.53,5,0.1,-60.91,C1773,Consumer,2023-06
+SO101424,2023-07-25,North,Furniture,Chairs,509.79,2,0.0,-25.58,C6490,Small Business,2023-07
+SO101427,2024-09-09,North,Technology,Accessories,193.41,5,0.0,-34.96,C9871,Corporate,2024-09
+SO101429,2023-08-08,North,Office Supplies,Pens,225.48,1,0.1,-13.96,C4377,Home Office,2023-08
+SO101434,2024-04-28,North,Furniture,Bookcases,393.77,3,0.05,-44.53,C1243,Home Office,2024-04
+SO101440,2023-01-10,West,Office Supplies,Storage,79.35,4,0.0,-5.26,C4070,Home Office,2023-01
+SO101442,2025-05-10,West,Furniture,Tables,171.13,1,0.05,-23.81,C1451,Corporate,2025-05
+SO101443,2024-08-20,South,Furniture,Chairs,200.66,1,0.0,-4.31,C8471,Home Office,2024-08
+SO101444,2024-05-10,West,Office Supplies,Pens,112.69,5,0.0,-21.63,C8421,Corporate,2024-05
+SO101446,2024-03-31,North,Furniture,Tables,570.32,3,0.0,-100.06,C5913,Consumer,2024-03
+SO101448,2024-01-28,North,Furniture,Chairs,93.47,5,0.0,-6.99,C8598,Home Office,2024-01
+SO101455,2024-06-03,West,Technology,Machines,48.14,1,0.0,-9.59,C8836,Consumer,2024-06
+SO101456,2025-04-07,East,Office Supplies,Binders,49.49,3,0.1,-0.48,C1879,Consumer,2025-04
+SO101457,2024-03-01,South,Office Supplies,Pens,187.32,4,0.0,-7.67,C8340,Home Office,2024-03
+SO101458,2023-01-28,South,Technology,Copiers,220.89,5,0.0,-1.47,C2377,Consumer,2023-01
+SO101461,2025-06-09,West,Office Supplies,Storage,287.42,4,0.1,-22.74,C6107,Consumer,2025-06
+SO101468,2023-02-16,East,Furniture,Chairs,198.16,2,0.2,-2.1,C4038,Consumer,2023-02
+SO101472,2023-09-14,South,Office Supplies,Pens,204.95,5,0.05,-6.95,C7641,Consumer,2023-09
+SO101477,2023-04-08,East,Furniture,Tables,229.32,3,0.1,-32.73,C6147,Corporate,2023-04
+SO101478,2025-01-14,South,Office Supplies,Paper,51.26,5,0.05,-5.08,C8437,Corporate,2025-01
+SO101481,2024-02-10,South,Technology,Accessories,75.91,4,0.05,-1.24,C3251,Corporate,2024-02
+SO101489,2023-12-26,West,Furniture,Bookcases,55.22,2,0.1,-12.41,C7031,Home Office,2023-12
+SO101491,2024-03-16,North,Furniture,Tables,75.67,1,0.0,-7.08,C5812,Consumer,2024-03
+SO101496,2024-06-27,South,Technology,Phones,264.86,1,0.0,-18.9,C8502,Consumer,2024-06
+SO101497,2024-08-17,East,Office Supplies,Paper,114.02,4,0.1,-17.23,C3893,Consumer,2024-08
+SO101505,2023-09-09,East,Office Supplies,Paper,679.09,1,0.05,-35.86,C4769,Corporate,2023-09
+SO101510,2023-01-16,North,Office Supplies,Pens,80.5,5,0.3,-12.98,C9062,Consumer,2023-01
+SO101513,2023-04-17,North,Technology,Accessories,155.76,3,0.1,-31.25,C5361,Small Business,2023-04
+SO101521,2023-06-13,South,Technology,Machines,578.12,1,0.0,-30.8,C6022,Consumer,2023-06
+SO101522,2024-05-15,North,Office Supplies,Binders,202.41,4,0.0,-25.58,C4570,Corporate,2024-05
+SO101525,2023-08-28,East,Office Supplies,Paper,253.38,3,0.0,-13.97,C5487,Corporate,2023-08
+SO101528,2023-07-05,East,Technology,Phones,492.97,1,0.0,-82.77,C7484,Corporate,2023-07
+SO101530,2025-03-28,East,Furniture,Tables,95.73,3,0.0,-10.02,C9363,Consumer,2025-03
+SO101534,2023-07-15,West,Office Supplies,Binders,497.55,4,0.1,-54.74,C8256,Corporate,2023-07
+SO101544,2023-05-20,South,Office Supplies,Pens,69.88,4,0.05,-14.56,C1223,Small Business,2023-05
+SO101547,2023-09-01,West,Technology,Copiers,107.34,2,0.0,-21.25,C6490,Consumer,2023-09
+SO101548,2023-02-24,South,Furniture,Bookcases,278.97,4,0.0,-9.05,C1071,Consumer,2023-02
+SO101549,2025-05-25,West,Furniture,Chairs,101.52,4,0.1,-20.1,C4199,Consumer,2025-05
+SO101550,2025-02-03,North,Technology,Copiers,76.28,4,0.3,-13.04,C2540,Corporate,2025-02
+SO101556,2024-03-19,South,Technology,Copiers,54.69,4,0.2,-4.81,C7825,Corporate,2024-03
+SO101557,2025-01-12,West,Office Supplies,Binders,63.04,2,0.0,-4.62,C5513,Corporate,2025-01
+SO101558,2025-04-27,North,Office Supplies,Binders,64.4,1,0.0,-9.57,C3750,Consumer,2025-04
+SO101560,2025-03-10,East,Office Supplies,Paper,63.44,2,0.05,-2.01,C4326,Consumer,2025-03
+SO101563,2025-01-24,East,Technology,Accessories,40.76,3,0.0,-3.62,C7986,Home Office,2025-01
+SO101565,2024-02-27,South,Technology,Copiers,249.92,2,0.1,-35.36,C4125,Consumer,2024-02
+SO101566,2024-05-06,North,Office Supplies,Storage,233.63,2,0.0,-8.98,C5422,Consumer,2024-05
+SO101572,2023-03-21,East,Furniture,Chairs,62.33,5,0.0,-3.52,C2473,Corporate,2023-03
+SO101574,2023-06-25,South,Office Supplies,Binders,43.68,3,0.1,-9.34,C9685,Home Office,2023-06
+SO101579,2023-07-07,South,Furniture,Bookcases,48.31,5,0.0,-2.62,C3642,Consumer,2023-07
+SO101580,2025-03-03,South,Office Supplies,Pens,462.73,4,0.3,-85.43,C8061,Corporate,2025-03
+SO101586,2024-07-29,South,Office Supplies,Paper,394.27,4,0.1,-58.91,C9647,Consumer,2024-07
+SO101587,2024-08-18,West,Office Supplies,Pens,59.26,4,0.0,-7.88,C1426,Consumer,2024-08
+SO101591,2025-04-03,East,Technology,Machines,126.89,4,0.2,-15.11,C9714,Consumer,2025-04
+SO101592,2024-12-19,North,Office Supplies,Binders,304.57,2,0.0,-1.7,C2414,Consumer,2024-12
+SO101595,2023-10-07,West,Technology,Phones,627.73,4,0.0,-110.02,C3655,Consumer,2023-10
+SO101599,2024-03-06,East,Technology,Phones,362.27,1,0.0,-49.59,C6790,Home Office,2024-03
+SO101605,2025-03-03,East,Technology,Copiers,254.97,4,0.0,-27.83,C7018,Home Office,2025-03
+SO101606,2024-10-01,South,Technology,Copiers,117.33,4,0.0,-22.14,C8629,Consumer,2024-10
+SO101613,2024-06-13,North,Technology,Phones,79.6,5,0.3,-14.81,C6754,Home Office,2024-06
+SO101616,2024-03-03,East,Furniture,Chairs,208.22,2,0.05,-34.46,C4399,Consumer,2024-03
+SO101620,2023-12-19,South,Technology,Accessories,112.96,1,0.1,-5.02,C5822,Corporate,2023-12
+SO101621,2023-12-13,North,Office Supplies,Binders,83.4,5,0.0,-10.07,C2567,Corporate,2023-12
+SO101626,2023-01-08,South,Office Supplies,Storage,358.03,5,0.0,-41.6,C6944,Small Business,2023-01
+SO101628,2023-06-09,North,Office Supplies,Paper,584.82,3,0.1,-7.04,C1690,Consumer,2023-06
+SO101629,2025-04-27,West,Furniture,Tables,206.73,3,0.1,-13.88,C6028,Consumer,2025-04
+SO101632,2023-07-18,South,Furniture,Chairs,110.79,2,0.1,-22.79,C5215,Consumer,2023-07
+SO101635,2023-04-03,East,Office Supplies,Storage,80.66,5,0.1,-13.54,C5234,Consumer,2023-04
+SO101636,2023-12-21,North,Office Supplies,Storage,239.23,3,0.0,-0.7,C6050,Corporate,2023-12
+SO101641,2024-09-21,South,Office Supplies,Storage,115.02,3,0.0,-6.81,C2043,Home Office,2024-09
+SO101646,2024-12-16,West,Office Supplies,Storage,107.36,1,0.0,-19.19,C1654,Corporate,2024-12
+SO101647,2023-11-29,West,Office Supplies,Pens,360.32,2,0.0,-10.09,C8087,Small Business,2023-11
+SO101648,2023-08-28,South,Office Supplies,Pens,29.55,3,0.0,-0.06,C4933,Corporate,2023-08
+SO101650,2023-03-04,West,Office Supplies,Pens,33.12,4,0.1,-8.17,C4626,Consumer,2023-03
+SO101651,2025-04-13,South,Office Supplies,Pens,117.6,2,0.0,-15.13,C8614,Corporate,2025-04
+SO101655,2023-10-22,West,Furniture,Bookcases,79.89,1,0.0,-1.13,C8187,Consumer,2023-10
+SO101656,2023-05-29,East,Technology,Accessories,157.76,3,0.0,-27.01,C3090,Consumer,2023-05
+SO101658,2023-06-29,East,Technology,Phones,43.88,3,0.05,-5.39,C5547,Consumer,2023-06
+SO101661,2023-12-17,West,Office Supplies,Pens,197.0,2,0.0,-35.76,C6624,Corporate,2023-12
+SO101665,2023-11-05,West,Office Supplies,Storage,72.52,2,0.1,-2.48,C6247,Consumer,2023-11
+SO101668,2024-12-05,East,Technology,Machines,239.9,5,0.0,-2.08,C7179,Consumer,2024-12
+SO101671,2023-09-09,North,Technology,Machines,155.84,5,0.1,-0.04,C3942,Consumer,2023-09
+SO101676,2023-04-14,North,Office Supplies,Binders,50.1,1,0.2,-9.88,C8296,Home Office,2023-04
+SO101677,2025-05-17,North,Technology,Accessories,383.69,5,0.05,-17.85,C4900,Home Office,2025-05
+SO101679,2025-05-15,South,Technology,Copiers,827.91,1,0.0,-60.36,C5223,Consumer,2025-05
+SO101683,2024-08-25,North,Office Supplies,Storage,332.56,1,0.05,-2.94,C2794,Consumer,2024-08
+SO101686,2024-05-12,North,Technology,Phones,306.61,1,0.2,-11.4,C6258,Home Office,2024-05
+SO101687,2023-10-26,West,Office Supplies,Storage,1223.7,5,0.05,-217.8,C2319,Consumer,2023-10
+SO101688,2023-10-04,East,Furniture,Chairs,40.32,2,0.0,-6.45,C6572,Consumer,2023-10
+SO101690,2023-03-30,West,Technology,Accessories,187.7,2,0.0,-22.69,C7565,Corporate,2023-03
+SO101691,2023-10-02,West,Office Supplies,Storage,583.62,1,0.05,-52.22,C6954,Corporate,2023-10
+SO101693,2024-03-09,South,Furniture,Tables,233.81,3,0.0,-29.22,C7272,Consumer,2024-03
+SO101694,2023-07-31,West,Furniture,Chairs,91.26,5,0.0,-4.3,C5610,Consumer,2023-07
+SO101696,2024-06-13,South,Office Supplies,Storage,161.18,2,0.0,-5.8,C7849,Consumer,2024-06
+SO101701,2023-02-25,East,Office Supplies,Storage,406.18,2,0.05,-71.07,C3073,Corporate,2023-02
+SO101703,2024-04-19,West,Technology,Machines,14.08,3,0.2,-4.29,C2264,Corporate,2024-04
+SO101708,2024-08-03,West,Office Supplies,Pens,67.8,4,0.1,-6.14,C9871,Consumer,2024-08
+SO101709,2023-10-14,South,Office Supplies,Pens,182.39,5,0.2,-26.04,C1024,Corporate,2023-10
+SO101710,2023-02-22,West,Office Supplies,Pens,202.59,3,0.0,-27.13,C2036,Consumer,2023-02
+SO101715,2025-01-10,North,Technology,Machines,84.87,2,0.05,-4.15,C3516,Home Office,2025-01
+SO101720,2023-11-04,East,Office Supplies,Binders,286.93,5,0.1,-34.09,C2670,Consumer,2023-11
+SO101721,2023-01-06,West,Furniture,Bookcases,77.71,3,0.2,-11.51,C6766,Consumer,2023-01
+SO101722,2023-10-17,East,Office Supplies,Binders,92.31,2,0.2,-18.32,C4523,Small Business,2023-10
+SO101730,2023-06-21,North,Furniture,Tables,252.05,4,0.1,-28.19,C8295,Home Office,2023-06
+SO101731,2025-02-14,West,Office Supplies,Binders,126.87,3,0.3,-8.24,C5408,Corporate,2025-02
+SO101732,2023-04-23,East,Furniture,Chairs,150.52,5,0.0,-9.44,C3032,Consumer,2023-04
+SO101734,2023-12-16,North,Technology,Phones,1339.52,3,0.0,-11.18,C5653,Consumer,2023-12
+SO101736,2023-12-27,North,Office Supplies,Paper,167.14,2,0.05,-15.88,C5307,Consumer,2023-12
+SO101739,2024-11-22,North,Furniture,Tables,164.07,5,0.0,-19.67,C8061,Corporate,2024-11
+SO101741,2023-04-05,East,Office Supplies,Paper,577.62,2,0.2,-51.36,C1741,Corporate,2023-04
+SO101750,2025-06-02,North,Furniture,Chairs,227.72,1,0.0,-38.68,C2480,Corporate,2025-06
+SO101751,2024-10-02,West,Office Supplies,Pens,148.59,2,0.05,-16.58,C3266,Corporate,2024-10
+SO101756,2023-03-23,West,Technology,Machines,106.57,2,0.0,-1.78,C5818,Consumer,2023-03
+SO101759,2025-04-09,North,Office Supplies,Storage,87.0,2,0.0,-9.17,C6725,Consumer,2025-04
+SO101761,2023-06-22,East,Furniture,Bookcases,149.79,3,0.05,-2.41,C4357,Consumer,2023-06
+SO101763,2023-03-03,West,Technology,Phones,215.85,1,0.05,-42.76,C1915,Home Office,2023-03
+SO101764,2024-06-17,West,Office Supplies,Binders,27.14,1,0.1,-1.39,C9838,Corporate,2024-06
+SO101765,2025-06-07,East,Technology,Phones,117.43,3,0.05,-5.13,C5146,Corporate,2025-06
+SO101766,2024-01-20,East,Technology,Copiers,67.6,5,0.0,-11.48,C1207,Consumer,2024-01
+SO101768,2024-08-29,North,Technology,Accessories,272.51,5,0.0,-2.54,C8172,Consumer,2024-08
+SO101770,2023-12-07,West,Furniture,Tables,105.7,5,0.0,-15.77,C4757,Consumer,2023-12
+SO101771,2025-01-16,West,Furniture,Chairs,46.72,2,0.2,-3.39,C5263,Home Office,2025-01
+SO101772,2023-07-08,East,Office Supplies,Pens,73.5,2,0.0,-1.41,C3727,Corporate,2023-07
+SO101773,2023-07-24,West,Furniture,Chairs,45.63,3,0.1,-0.27,C5270,Consumer,2023-07
+SO101774,2023-01-23,East,Furniture,Chairs,50.52,4,0.0,-6.09,C2564,Corporate,2023-01
+SO101778,2025-01-18,East,Office Supplies,Storage,154.68,5,0.0,-7.94,C2989,Consumer,2025-01
+SO101779,2024-05-06,West,Furniture,Bookcases,161.88,5,0.1,-3.33,C5694,Consumer,2024-05
+SO101781,2023-10-16,North,Office Supplies,Pens,91.6,4,0.0,-5.66,C8199,Consumer,2023-10
+SO101785,2023-06-02,West,Furniture,Chairs,177.88,2,0.0,-33.07,C1866,Consumer,2023-06
+SO101789,2023-02-27,South,Office Supplies,Storage,134.98,1,0.0,-3.45,C5990,Home Office,2023-02
+SO101794,2024-01-05,West,Technology,Machines,82.42,3,0.1,-4.79,C7680,Consumer,2024-01
+SO101795,2024-09-14,South,Furniture,Bookcases,55.54,2,0.0,-10.27,C4071,Consumer,2024-09
+SO101802,2023-01-26,North,Furniture,Tables,133.97,5,0.0,-9.87,C5713,Consumer,2023-01
+SO101803,2024-01-17,North,Office Supplies,Pens,204.86,3,0.1,-30.23,C3139,Corporate,2024-01
+SO101807,2025-03-12,East,Technology,Machines,51.03,5,0.0,-7.87,C6040,Corporate,2025-03
+SO101809,2023-12-22,South,Technology,Accessories,41.21,2,0.2,-1.58,C1686,Consumer,2023-12
+SO101815,2024-01-12,East,Office Supplies,Binders,71.93,4,0.05,-1.83,C1571,Consumer,2024-01
+SO101818,2024-12-30,South,Furniture,Chairs,793.63,1,0.05,-112.7,C6430,Home Office,2024-12
+SO101819,2024-02-10,North,Technology,Phones,35.9,4,0.1,-2.1,C8377,Home Office,2024-02
+SO101823,2025-05-18,East,Furniture,Chairs,107.71,3,0.0,-20.72,C4335,Home Office,2025-05
+SO101826,2023-03-06,East,Office Supplies,Binders,192.12,3,0.2,-25.24,C1667,Consumer,2023-03
+SO101827,2024-07-06,West,Office Supplies,Binders,740.16,4,0.05,-110.72,C7362,Consumer,2024-07
+SO101828,2023-12-01,West,Office Supplies,Storage,44.48,2,0.1,-10.43,C8121,Corporate,2023-12
+SO101830,2025-05-22,East,Office Supplies,Pens,186.54,3,0.0,-35.32,C6952,Consumer,2025-05
+SO101831,2023-03-04,North,Office Supplies,Storage,52.23,1,0.1,-3.61,C3606,Home Office,2023-03
+SO101832,2024-03-22,North,Furniture,Bookcases,138.95,3,0.0,-27.49,C3456,Corporate,2024-03
+SO101833,2025-03-26,North,Technology,Accessories,186.56,2,0.05,-36.45,C5438,Corporate,2025-03
+SO101835,2024-03-31,East,Office Supplies,Binders,579.89,5,0.05,-44.79,C5565,Consumer,2024-03
+SO101838,2024-06-10,East,Furniture,Chairs,145.61,3,0.1,-4.77,C3642,Consumer,2024-06
+SO101842,2023-09-24,South,Office Supplies,Paper,245.7,1,0.1,-15.87,C4829,Consumer,2023-09
+SO101844,2024-03-09,East,Technology,Phones,174.17,4,0.0,-4.86,C6915,Home Office,2024-03
+SO101847,2023-08-06,South,Technology,Copiers,107.77,3,0.05,-6.04,C3157,Consumer,2023-08
+SO101849,2024-06-01,North,Office Supplies,Storage,554.14,1,0.3,-7.0,C7999,Corporate,2024-06
+SO101853,2023-08-03,East,Technology,Phones,554.12,5,0.1,-40.17,C6184,Consumer,2023-08
+SO101855,2024-05-22,South,Furniture,Bookcases,45.72,5,0.0,-5.78,C9595,Consumer,2024-05
+SO101856,2024-03-13,South,Furniture,Chairs,152.35,2,0.0,-3.31,C4910,Consumer,2024-03
+SO101862,2024-05-19,North,Office Supplies,Pens,623.51,5,0.0,-47.76,C1785,Small Business,2024-05
+SO101863,2025-04-02,North,Technology,Copiers,113.12,5,0.0,-11.05,C4503,Consumer,2025-04
+SO101869,2023-04-12,West,Technology,Accessories,376.3,5,0.1,-58.47,C8541,Corporate,2023-04
+SO101873,2023-02-05,West,Furniture,Bookcases,68.21,5,0.0,-9.71,C3657,Home Office,2023-02
+SO101876,2023-05-24,North,Office Supplies,Pens,348.55,4,0.05,-56.69,C9778,Consumer,2023-05
+SO101877,2023-02-09,West,Technology,Phones,290.46,1,0.0,-29.41,C2721,Consumer,2023-02
+SO101878,2024-10-04,South,Office Supplies,Storage,48.98,5,0.1,-5.68,C5006,Home Office,2024-10
+SO101880,2024-02-24,West,Technology,Copiers,84.41,3,0.05,-10.22,C8184,Corporate,2024-02
+SO101881,2025-05-15,North,Furniture,Bookcases,37.37,5,0.0,-2.32,C1132,Consumer,2025-05
+SO101882,2025-04-27,West,Technology,Accessories,77.36,2,0.05,-8.47,C7320,Home Office,2025-04
+SO101883,2023-01-16,East,Office Supplies,Paper,42.26,3,0.2,-8.6,C7138,Consumer,2023-01
+SO101884,2023-05-24,South,Office Supplies,Paper,96.49,3,0.05,-14.09,C7579,Corporate,2023-05
+SO101887,2024-09-25,South,Office Supplies,Pens,119.3,3,0.1,-4.38,C9021,Home Office,2024-09
+SO101889,2023-08-19,South,Furniture,Tables,177.7,5,0.2,-16.1,C9798,Corporate,2023-08
+SO101892,2023-05-27,East,Technology,Machines,121.1,2,0.1,-0.68,C2392,Small Business,2023-05
+SO101896,2024-06-16,West,Office Supplies,Binders,287.08,4,0.0,-41.98,C8856,Consumer,2024-06
+SO101899,2023-08-27,North,Office Supplies,Paper,378.09,4,0.0,-15.03,C8798,Home Office,2023-08
+SO101914,2023-04-26,North,Office Supplies,Binders,763.84,5,0.0,-1.25,C3248,Corporate,2023-04
+SO101916,2025-02-27,East,Office Supplies,Binders,337.89,4,0.0,-33.96,C3734,Consumer,2025-02
+SO101917,2023-12-28,West,Technology,Phones,260.81,4,0.3,-15.91,C3725,Corporate,2023-12
+SO101919,2023-09-20,South,Furniture,Tables,560.12,3,0.2,-81.63,C5220,Consumer,2023-09
+SO101920,2024-06-20,North,Office Supplies,Paper,258.11,5,0.0,-42.76,C5935,Consumer,2024-06
+SO101922,2024-05-19,South,Technology,Phones,43.17,2,0.2,-12.33,C2222,Home Office,2024-05
+SO101925,2024-04-17,North,Office Supplies,Storage,380.04,5,0.1,-52.23,C3963,Consumer,2024-04
+SO101945,2024-12-11,North,Technology,Copiers,128.25,1,0.0,-16.87,C7765,Consumer,2024-12
+SO101946,2024-11-08,East,Technology,Copiers,95.72,5,0.05,-11.48,C2571,Corporate,2024-11
+SO101951,2025-04-27,East,Office Supplies,Paper,99.16,5,0.05,-4.7,C9998,Consumer,2025-04
+SO101954,2024-08-27,North,Technology,Machines,728.99,2,0.0,-136.38,C4399,Consumer,2024-08
+SO101957,2023-10-16,West,Technology,Machines,143.39,5,0.0,-27.67,C2755,Home Office,2023-10
+SO101962,2024-05-18,West,Office Supplies,Paper,218.92,4,0.0,-12.17,C9253,Consumer,2024-05
+SO101969,2025-03-22,North,Technology,Phones,144.36,1,0.0,-22.25,C1768,Corporate,2025-03
+SO101971,2024-08-28,South,Office Supplies,Paper,68.27,1,0.05,-7.99,C4569,Consumer,2024-08
+SO101973,2023-06-09,North,Furniture,Chairs,1060.07,3,0.0,-165.16,C3428,Consumer,2023-06
+SO101974,2023-10-09,West,Office Supplies,Pens,61.15,1,0.1,-8.18,C3542,Home Office,2023-10
+SO101975,2023-08-22,North,Furniture,Chairs,101.86,2,0.0,-3.7,C5173,Consumer,2023-08
+SO101984,2024-06-26,South,Technology,Phones,395.73,4,0.0,-31.61,C1304,Consumer,2024-06
+SO101989,2023-03-13,East,Office Supplies,Pens,36.19,1,0.0,-6.22,C1755,Consumer,2023-03
+SO101992,2025-02-19,West,Office Supplies,Pens,172.32,5,0.0,-4.12,C1148,Home Office,2025-02
+SO101994,2024-12-18,East,Office Supplies,Storage,702.44,4,0.2,-90.93,C5041,Home Office,2024-12
+SO101997,2024-05-04,North,Office Supplies,Pens,190.53,2,0.0,-17.11,C8955,Consumer,2024-05
+SO102001,2023-04-14,South,Technology,Phones,106.1,5,0.3,-4.18,C5715,Consumer,2023-04
+SO102003,2023-12-19,West,Furniture,Bookcases,66.09,2,0.3,-7.05,C4797,Consumer,2023-12
+SO102005,2023-03-15,West,Office Supplies,Paper,296.37,2,0.0,-38.57,C8955,Consumer,2023-03
+SO102007,2025-04-04,East,Office Supplies,Binders,607.95,2,0.2,-74.97,C7208,Consumer,2025-04
+SO102009,2024-09-22,East,Office Supplies,Binders,82.82,3,0.1,-5.96,C7622,Home Office,2024-09
+SO102010,2024-05-24,South,Technology,Phones,27.04,2,0.0,-3.25,C1564,Consumer,2024-05
+SO102011,2025-03-04,East,Furniture,Tables,113.17,5,0.0,-6.58,C4910,Consumer,2025-03
+SO102012,2024-07-31,West,Furniture,Tables,165.5,4,0.0,-3.65,C3888,Consumer,2024-07
+SO102017,2024-05-13,West,Furniture,Tables,313.09,3,0.0,-24.39,C5316,Corporate,2024-05
+SO102026,2023-02-23,South,Furniture,Tables,248.08,1,0.0,-30.99,C7854,Consumer,2023-02
+SO102027,2025-04-07,North,Office Supplies,Pens,56.47,3,0.0,-8.73,C3703,Consumer,2025-04
+SO102033,2023-12-06,East,Office Supplies,Pens,290.06,3,0.1,-26.51,C7283,Consumer,2023-12
+SO102036,2025-05-03,East,Office Supplies,Binders,116.5,5,0.0,-0.47,C5291,Consumer,2025-05
+SO102039,2024-05-12,East,Office Supplies,Paper,534.05,5,0.05,-84.86,C1490,Consumer,2024-05
+SO102041,2024-04-15,West,Office Supplies,Storage,179.88,1,0.0,-17.52,C8850,Home Office,2024-04
+SO102045,2024-01-14,North,Office Supplies,Pens,199.52,3,0.0,-0.63,C9291,Consumer,2024-01
+SO102046,2023-05-14,South,Furniture,Chairs,301.52,3,0.1,-50.5,C7193,Consumer,2023-05
+SO102053,2023-06-10,East,Technology,Accessories,45.9,4,0.0,-3.07,C5881,Home Office,2023-06
+SO102055,2024-07-08,West,Technology,Copiers,167.61,4,0.0,-7.7,C4420,Corporate,2024-07
+SO102056,2025-04-11,West,Technology,Machines,334.65,3,0.1,-22.01,C6338,Consumer,2025-04
+SO102060,2024-07-29,West,Office Supplies,Pens,258.12,5,0.0,-45.86,C2777,Home Office,2024-07
+SO102063,2023-06-18,South,Technology,Copiers,520.69,5,0.2,-50.03,C6327,Home Office,2023-06
+SO102067,2024-04-08,South,Furniture,Chairs,470.42,5,0.0,-36.83,C9112,Consumer,2024-04
+SO102068,2023-04-15,East,Furniture,Bookcases,756.41,2,0.0,-74.31,C2885,Corporate,2023-04
+SO102070,2023-12-05,East,Technology,Machines,126.38,1,0.0,-18.13,C4053,Consumer,2023-12
+SO102075,2023-03-24,West,Office Supplies,Storage,42.43,3,0.0,-2.86,C2598,Consumer,2023-03
+SO102080,2023-01-22,East,Furniture,Bookcases,1209.9,4,0.05,-54.35,C7442,Consumer,2023-01
+SO102081,2023-03-22,North,Furniture,Chairs,375.13,3,0.0,-33.91,C2301,Corporate,2023-03
+SO102082,2025-01-28,West,Office Supplies,Paper,57.99,4,0.0,-0.86,C9635,Corporate,2025-01
+SO102085,2024-09-16,East,Technology,Phones,207.14,2,0.0,-6.62,C2340,Corporate,2024-09
+SO102088,2023-05-23,West,Office Supplies,Pens,258.44,1,0.1,-20.22,C6031,Consumer,2023-05
+SO102096,2023-02-05,East,Office Supplies,Storage,507.01,1,0.0,-2.55,C8419,Corporate,2023-02
+SO102098,2023-07-04,West,Office Supplies,Storage,458.07,3,0.3,-38.99,C9077,Consumer,2023-07
+SO102101,2023-09-08,East,Furniture,Bookcases,83.85,2,0.2,-0.71,C1305,Consumer,2023-09
+SO102106,2024-08-16,North,Office Supplies,Pens,95.1,2,0.2,-17.52,C2805,Consumer,2024-08
+SO102109,2024-01-18,North,Technology,Machines,119.16,3,0.05,-6.24,C7452,Corporate,2024-01
+SO102110,2024-12-02,East,Furniture,Chairs,805.78,2,0.0,-72.32,C3388,Home Office,2024-12
+SO102114,2023-03-02,North,Office Supplies,Binders,62.19,5,0.0,-6.78,C2092,Consumer,2023-03
+SO102118,2023-12-21,West,Furniture,Bookcases,128.17,3,0.0,-8.91,C7307,Consumer,2023-12
+SO102119,2023-12-14,North,Office Supplies,Storage,195.39,1,0.0,-6.42,C8387,Home Office,2023-12
+SO102124,2024-10-29,South,Furniture,Chairs,445.31,3,0.0,-82.9,C9171,Consumer,2024-10
+SO102129,2023-04-03,East,Furniture,Tables,83.42,5,0.0,-12.98,C6677,Corporate,2023-04
+SO102134,2023-09-22,West,Furniture,Chairs,18.72,5,0.1,-3.98,C2074,Consumer,2023-09
+SO102135,2023-07-03,North,Technology,Copiers,110.75,4,0.0,-12.54,C9802,Home Office,2023-07
+SO102139,2025-06-03,East,Technology,Copiers,224.02,2,0.0,-4.49,C2105,Consumer,2025-06
+SO102145,2024-03-12,East,Technology,Phones,20.38,4,0.0,-1.01,C9351,Consumer,2024-03
+SO102155,2025-06-06,North,Technology,Phones,57.87,4,0.1,-1.69,C4127,Consumer,2025-06
+SO102156,2023-07-04,East,Furniture,Tables,60.02,2,0.1,-0.32,C8087,Consumer,2023-07
+SO102157,2023-06-18,East,Office Supplies,Storage,35.18,3,0.0,-0.43,C5145,Corporate,2023-06
+SO102161,2023-05-29,West,Office Supplies,Binders,238.54,3,0.0,-46.38,C2305,Home Office,2023-05
+SO102162,2024-07-29,East,Technology,Copiers,65.07,3,0.0,-6.28,C9412,Home Office,2024-07
+SO102164,2025-04-13,South,Office Supplies,Storage,641.25,4,0.0,-127.59,C9944,Home Office,2025-04
+SO102168,2023-05-27,West,Office Supplies,Paper,44.76,3,0.0,-6.38,C7542,Consumer,2023-05
+SO102172,2023-03-01,South,Technology,Machines,169.79,5,0.0,-20.33,C2311,Consumer,2023-03
+SO102178,2024-07-27,East,Technology,Phones,178.82,4,0.05,-29.7,C3219,Consumer,2024-07
+SO102181,2023-11-06,North,Technology,Machines,311.36,4,0.05,-20.7,C4719,Consumer,2023-11
+SO102190,2023-03-09,East,Office Supplies,Paper,357.51,2,0.0,-26.32,C4350,Home Office,2023-03
+SO102191,2024-05-28,North,Office Supplies,Pens,94.92,3,0.0,-1.69,C1466,Consumer,2024-05
+SO102192,2024-04-27,East,Office Supplies,Paper,226.44,5,0.0,-41.14,C3616,Home Office,2024-04
+SO102193,2023-08-28,North,Furniture,Chairs,346.44,1,0.0,-16.86,C5001,Corporate,2023-08
+SO102195,2025-03-06,West,Office Supplies,Binders,141.88,1,0.05,-4.67,C2088,Consumer,2025-03
+SO102196,2024-09-25,West,Office Supplies,Binders,595.99,1,0.05,-62.24,C1846,Consumer,2024-09
+SO102200,2025-04-25,West,Office Supplies,Pens,107.1,5,0.0,-10.53,C1350,Home Office,2025-04
+SO102203,2023-05-25,South,Office Supplies,Paper,127.83,4,0.0,-20.78,C5710,Consumer,2023-05
+SO102206,2025-01-07,North,Furniture,Chairs,33.83,1,0.0,-1.58,C1607,Home Office,2025-01
+SO102209,2023-09-17,West,Office Supplies,Pens,340.5,5,0.0,-3.32,C4870,Consumer,2023-09
+SO102210,2024-12-05,West,Technology,Machines,589.9,1,0.0,-14.23,C7482,Corporate,2024-12
+SO102219,2025-04-17,South,Office Supplies,Binders,76.85,2,0.0,-4.17,C1891,Home Office,2025-04
+SO102220,2024-07-02,West,Furniture,Chairs,297.89,4,0.1,-35.51,C6758,Consumer,2024-07
+SO102221,2023-05-18,West,Office Supplies,Storage,400.15,5,0.0,-47.74,C1568,Consumer,2023-05
+SO102223,2025-01-20,South,Furniture,Tables,103.42,1,0.0,-16.41,C1162,Consumer,2025-01
+SO102230,2023-09-24,South,Furniture,Bookcases,121.63,1,0.0,-4.97,C9106,Corporate,2023-09
+SO102231,2025-01-26,East,Office Supplies,Binders,224.25,5,0.0,-37.53,C6607,Consumer,2025-01
+SO102233,2024-07-05,North,Office Supplies,Binders,43.55,2,0.0,-1.79,C8811,Corporate,2024-07
+SO102235,2023-02-07,North,Office Supplies,Binders,344.56,2,0.0,-40.36,C1919,Corporate,2023-02
+SO102238,2025-01-17,North,Furniture,Bookcases,1213.97,3,0.0,-153.11,C5580,Corporate,2025-01
+SO102239,2025-06-10,South,Furniture,Tables,426.27,1,0.0,-35.84,C3049,Small Business,2025-06
+SO102241,2024-01-27,East,Office Supplies,Paper,134.76,1,0.0,-10.93,C9581,Consumer,2024-01
+SO102243,2024-10-02,East,Technology,Machines,179.82,2,0.1,-31.56,C3574,Consumer,2024-10
+SO102245,2024-07-21,South,Office Supplies,Pens,60.39,5,0.0,-2.74,C5609,Corporate,2024-07
+SO102247,2023-06-30,West,Technology,Accessories,285.04,1,0.0,-22.45,C3982,Consumer,2023-06
+SO102249,2023-08-14,South,Office Supplies,Binders,333.92,5,0.1,-6.0,C9070,Small Business,2023-08
+SO102251,2025-04-01,South,Technology,Copiers,117.84,4,0.1,-25.11,C3507,Home Office,2025-04
+SO102252,2023-09-10,East,Technology,Accessories,41.81,1,0.05,-0.33,C1289,Consumer,2023-09
+SO102257,2025-04-14,North,Technology,Accessories,743.73,3,0.2,-51.41,C7579,Corporate,2025-04
+SO102260,2023-10-23,East,Technology,Phones,154.76,5,0.0,-17.38,C3131,Consumer,2023-10
+SO102261,2024-08-06,North,Technology,Phones,75.07,1,0.0,-8.88,C3554,Consumer,2024-08
+SO102262,2025-02-14,North,Office Supplies,Pens,92.3,2,0.0,-1.06,C2371,Consumer,2025-02
+SO102265,2023-03-11,East,Office Supplies,Paper,56.56,2,0.0,-4.16,C8815,Consumer,2023-03
+SO102272,2023-08-18,South,Office Supplies,Pens,534.77,5,0.0,-61.91,C5361,Corporate,2023-08
+SO102275,2023-08-12,East,Office Supplies,Pens,233.28,3,0.0,-21.38,C3938,Consumer,2023-08
+SO102276,2023-04-21,West,Office Supplies,Storage,558.84,5,0.2,-93.27,C3406,Home Office,2023-04
+SO102277,2024-05-12,North,Technology,Machines,488.72,4,0.1,-81.29,C4405,Consumer,2024-05
+SO102280,2024-09-10,West,Furniture,Chairs,51.22,4,0.05,-5.19,C1129,Home Office,2024-09
+SO102281,2024-12-10,South,Technology,Machines,525.03,1,0.0,-73.78,C5843,Consumer,2024-12
+SO102283,2023-08-02,West,Furniture,Tables,118.04,3,0.0,-16.62,C8437,Corporate,2023-08
+SO102288,2025-05-28,East,Office Supplies,Binders,30.44,3,0.1,-3.44,C9757,Consumer,2025-05
+SO102291,2025-04-30,North,Furniture,Tables,83.52,3,0.1,-17.66,C7375,Home Office,2025-04
+SO102292,2024-08-08,North,Office Supplies,Storage,160.2,2,0.0,-31.8,C4426,Consumer,2024-08
+SO102294,2023-08-01,West,Technology,Copiers,81.2,3,0.05,-1.31,C7466,Consumer,2023-08
+SO102296,2024-09-23,South,Office Supplies,Paper,311.23,2,0.0,-6.22,C4071,Consumer,2024-09
+SO102298,2024-12-17,South,Technology,Phones,19.21,5,0.05,-0.28,C3543,Small Business,2024-12
+SO102299,2023-09-07,South,Furniture,Tables,146.79,5,0.0,-22.1,C5956,Consumer,2023-09
+SO102301,2024-11-07,North,Office Supplies,Pens,310.02,4,0.3,-17.66,C4323,Small Business,2024-11
+SO102310,2025-05-01,West,Office Supplies,Storage,322.63,3,0.0,-13.75,C6231,Consumer,2025-05
+SO102318,2023-01-30,East,Office Supplies,Paper,986.95,4,0.2,-34.94,C9892,Corporate,2023-01
+SO102319,2023-09-14,South,Technology,Phones,433.37,5,0.05,-83.68,C3141,Consumer,2023-09
+SO102320,2023-07-27,North,Furniture,Tables,183.57,2,0.0,-13.39,C6464,Corporate,2023-07
+SO102321,2025-02-26,North,Technology,Machines,29.06,2,0.05,-1.49,C1845,Consumer,2025-02
+SO102323,2023-11-24,North,Office Supplies,Storage,154.88,3,0.05,-30.15,C6718,Consumer,2023-11
+SO102325,2024-01-28,North,Technology,Copiers,67.69,2,0.0,-8.07,C4446,Consumer,2024-01
+SO102330,2024-08-05,East,Office Supplies,Paper,394.46,4,0.0,-55.37,C2550,Consumer,2024-08
+SO102332,2023-09-21,West,Technology,Phones,673.88,1,0.0,-62.14,C2391,Consumer,2023-09
+SO102333,2023-09-02,West,Office Supplies,Storage,81.81,3,0.1,-17.01,C8767,Consumer,2023-09
+SO102335,2023-07-29,North,Office Supplies,Storage,175.89,5,0.0,-12.5,C1449,Small Business,2023-07
+SO102337,2023-06-07,North,Office Supplies,Binders,70.49,2,0.2,-13.54,C9106,Consumer,2023-06
+SO102338,2024-05-13,West,Furniture,Chairs,168.19,3,0.0,-15.63,C8288,Consumer,2024-05
+SO102341,2023-06-28,West,Office Supplies,Binders,532.16,1,0.2,-59.02,C9282,Home Office,2023-06
+SO102344,2024-11-20,West,Technology,Phones,57.62,3,0.0,-6.51,C6411,Consumer,2024-11
+SO102348,2023-02-12,North,Furniture,Bookcases,334.86,2,0.0,-66.52,C6125,Consumer,2023-02
+SO102349,2024-08-05,South,Office Supplies,Paper,129.65,2,0.0,-20.47,C7120,Consumer,2024-08
+SO102350,2023-01-09,West,Technology,Accessories,198.78,3,0.05,-23.19,C8328,Consumer,2023-01
+SO102357,2023-12-31,North,Office Supplies,Storage,332.28,5,0.1,-53.46,C2239,Consumer,2023-12
+SO102360,2024-03-23,North,Office Supplies,Storage,66.76,3,0.0,-10.23,C1117,Consumer,2024-03
+SO102361,2024-09-20,North,Office Supplies,Paper,122.7,1,0.2,-8.62,C7044,Corporate,2024-09
+SO102368,2023-05-09,North,Office Supplies,Storage,169.48,1,0.2,-6.95,C3471,Consumer,2023-05
+SO102370,2024-10-29,South,Office Supplies,Binders,468.53,2,0.0,-87.59,C2830,Consumer,2024-10
+SO102373,2023-04-23,North,Technology,Phones,425.36,5,0.1,-5.52,C9702,Consumer,2023-04
+SO102374,2024-04-29,South,Technology,Phones,197.22,3,0.0,-37.69,C4115,Corporate,2024-04
+SO102376,2023-02-15,East,Furniture,Chairs,246.03,4,0.0,-33.05,C6052,Consumer,2023-02
+SO102383,2024-01-25,East,Technology,Phones,101.87,4,0.0,-13.96,C7530,Home Office,2024-01
+SO102386,2024-03-13,North,Technology,Copiers,198.74,4,0.05,-30.55,C2016,Consumer,2024-03
+SO102393,2024-08-31,North,Furniture,Tables,50.16,4,0.05,-10.02,C1504,Consumer,2024-08
+SO102394,2024-06-29,West,Technology,Machines,54.1,1,0.2,-11.58,C8071,Corporate,2024-06
+SO102398,2024-07-20,West,Technology,Phones,229.88,2,0.0,-20.48,C6558,Consumer,2024-07
+SO102402,2025-02-17,East,Technology,Machines,146.69,3,0.0,-1.68,C7769,Consumer,2025-02
+SO102403,2024-08-16,South,Office Supplies,Pens,529.91,4,0.0,-3.08,C3180,Consumer,2024-08
+SO102404,2024-05-22,East,Furniture,Bookcases,228.12,3,0.0,-24.09,C9405,Corporate,2024-05
+SO102405,2023-03-20,West,Technology,Machines,290.29,5,0.3,-38.02,C6726,Consumer,2023-03
+SO102410,2024-07-29,South,Office Supplies,Binders,129.76,2,0.0,-10.87,C1739,Consumer,2024-07
+SO102415,2024-07-30,South,Office Supplies,Binders,171.54,3,0.0,-14.31,C7034,Consumer,2024-07
+SO102416,2025-01-16,North,Technology,Phones,134.07,1,0.1,-12.18,C2829,Corporate,2025-01
+SO102419,2024-04-04,South,Furniture,Chairs,162.17,3,0.0,-28.24,C3959,Consumer,2024-04
+SO102423,2025-02-21,East,Furniture,Chairs,109.5,4,0.0,-10.63,C9367,Home Office,2025-02
+SO102424,2024-11-30,East,Furniture,Tables,53.0,3,0.0,-2.0,C6387,Consumer,2024-11
+SO102425,2023-12-25,North,Technology,Machines,208.5,4,0.0,-30.71,C3658,Home Office,2023-12
+SO102427,2025-01-16,East,Office Supplies,Storage,140.64,2,0.3,-31.22,C2923,Consumer,2025-01
+SO102432,2024-02-19,South,Office Supplies,Pens,553.39,5,0.0,-99.8,C9487,Consumer,2024-02
+SO102435,2023-07-01,North,Office Supplies,Pens,46.6,5,0.0,-8.94,C1713,Small Business,2023-07
+SO102436,2023-12-25,East,Office Supplies,Pens,240.79,2,0.0,-23.97,C3904,Consumer,2023-12
+SO102437,2025-05-23,North,Furniture,Tables,88.56,1,0.1,-12.79,C4934,Corporate,2025-05
+SO102442,2024-09-22,North,Office Supplies,Binders,856.16,4,0.05,-65.26,C1849,Consumer,2024-09
+SO102454,2025-03-26,North,Office Supplies,Storage,58.69,5,0.0,-6.81,C5673,Consumer,2025-03
+SO102455,2024-03-22,North,Office Supplies,Binders,158.77,1,0.2,-26.74,C4819,Consumer,2024-03
+SO102456,2023-02-04,East,Office Supplies,Storage,145.92,5,0.0,-19.36,C2641,Consumer,2023-02
+SO102461,2023-04-01,East,Office Supplies,Pens,626.6,3,0.1,-46.7,C5823,Small Business,2023-04
+SO102465,2024-03-23,South,Furniture,Chairs,206.24,2,0.0,-2.92,C1131,Corporate,2024-03
+SO102467,2023-05-09,North,Furniture,Bookcases,43.78,5,0.0,-4.24,C3493,Corporate,2023-05
+SO102470,2023-09-19,South,Technology,Machines,476.54,5,0.0,-53.05,C3909,Consumer,2023-09
+SO102475,2023-01-12,North,Technology,Accessories,96.15,2,0.0,-13.87,C8883,Consumer,2023-01
+SO102478,2025-04-24,West,Furniture,Chairs,503.73,5,0.0,-7.58,C5088,Consumer,2025-04
+SO102479,2023-03-29,South,Office Supplies,Paper,298.38,2,0.1,-44.43,C6635,Consumer,2023-03
+SO102482,2023-12-27,South,Technology,Copiers,221.74,1,0.0,-15.81,C9121,Consumer,2023-12
+SO102488,2025-01-08,East,Technology,Accessories,89.65,2,0.0,-7.74,C2147,Home Office,2025-01
+SO102495,2024-01-11,North,Technology,Accessories,433.88,5,0.0,-42.37,C3786,Consumer,2024-01
+SO102504,2024-09-17,South,Technology,Machines,177.22,2,0.0,-4.81,C8214,Corporate,2024-09
+SO102508,2025-05-25,West,Furniture,Bookcases,119.53,1,0.1,-3.8,C7316,Consumer,2025-05
+SO102509,2023-07-10,East,Furniture,Tables,514.3,4,0.0,-25.4,C3637,Consumer,2023-07
+SO102511,2023-02-18,East,Office Supplies,Pens,185.88,5,0.0,-25.38,C7713,Corporate,2023-02
+SO102512,2023-02-06,South,Office Supplies,Storage,391.89,3,0.1,-25.11,C8907,Consumer,2023-02
+SO102513,2024-07-15,East,Office Supplies,Binders,400.9,4,0.0,-49.63,C2322,Home Office,2024-07
+SO102515,2024-08-08,East,Office Supplies,Binders,32.77,1,0.0,-5.77,C1797,Consumer,2024-08
+SO102519,2025-03-03,West,Office Supplies,Binders,228.32,5,0.05,-30.19,C7810,Consumer,2025-03
+SO102521,2024-02-26,North,Furniture,Tables,476.68,1,0.2,-34.82,C3359,Home Office,2024-02
+SO102523,2023-11-21,North,Office Supplies,Paper,130.88,1,0.1,-8.71,C4532,Consumer,2023-11
+SO102526,2024-09-06,East,Office Supplies,Storage,95.06,1,0.0,-7.36,C8936,Consumer,2024-09
+SO102527,2023-09-21,East,Furniture,Tables,356.8,4,0.0,-2.91,C4794,Corporate,2023-09
+SO102531,2023-11-16,North,Office Supplies,Storage,376.4,3,0.2,-50.45,C5184,Consumer,2023-11
+SO102534,2024-08-03,North,Office Supplies,Binders,436.65,2,0.0,-52.19,C8517,Consumer,2024-08
+SO102535,2023-05-02,West,Technology,Accessories,106.21,3,0.0,-3.54,C7838,Consumer,2023-05
+SO102536,2023-05-22,East,Office Supplies,Binders,497.8,2,0.0,-43.59,C4033,Home Office,2023-05
+SO102538,2024-09-03,West,Office Supplies,Binders,137.35,3,0.0,-0.89,C7143,Consumer,2024-09
+SO102540,2023-02-04,South,Technology,Accessories,412.46,4,0.0,-6.01,C3849,Home Office,2023-02
+SO102542,2023-01-17,West,Furniture,Tables,220.25,4,0.05,-7.3,C2961,Consumer,2023-01
+SO102543,2024-11-08,West,Office Supplies,Paper,424.97,3,0.0,-30.28,C2647,Small Business,2024-11
+SO102545,2023-06-16,East,Office Supplies,Binders,376.56,1,0.05,-40.43,C6126,Corporate,2023-06
+SO102548,2023-01-15,East,Office Supplies,Storage,221.16,5,0.0,-38.59,C4875,Consumer,2023-01
+SO102555,2024-11-20,North,Office Supplies,Paper,309.39,5,0.0,-61.49,C2066,Consumer,2024-11
+SO102561,2024-09-28,North,Office Supplies,Storage,516.18,1,0.0,-25.87,C2262,Consumer,2024-09
+SO102563,2023-11-29,West,Technology,Phones,111.33,3,0.0,-7.49,C2293,Consumer,2023-11
+SO102567,2025-01-04,East,Office Supplies,Binders,54.93,4,0.05,-8.81,C5605,Home Office,2025-01
+SO102568,2023-09-27,South,Technology,Accessories,162.96,4,0.0,-7.16,C5524,Consumer,2023-09
+SO102570,2024-08-26,West,Furniture,Chairs,427.52,5,0.1,-44.46,C7461,Consumer,2024-08
+SO102572,2024-05-08,West,Office Supplies,Paper,179.77,1,0.0,-13.05,C4586,Small Business,2024-05
+SO102573,2023-05-04,West,Office Supplies,Pens,1072.42,3,0.0,-69.1,C3291,Consumer,2023-05
+SO102576,2023-06-24,West,Furniture,Bookcases,77.79,2,0.05,-9.76,C7798,Consumer,2023-06
+SO102581,2025-06-17,North,Technology,Copiers,34.34,3,0.0,-5.02,C9761,Consumer,2025-06
+SO102582,2024-03-19,North,Furniture,Tables,46.17,5,0.05,-4.9,C8584,Consumer,2024-03
+SO102584,2024-03-17,West,Technology,Phones,32.9,5,0.0,-1.85,C7166,Consumer,2024-03
+SO102585,2025-03-11,East,Furniture,Chairs,88.45,2,0.0,-10.54,C8431,Consumer,2025-03
+SO102588,2024-09-20,East,Office Supplies,Storage,316.96,1,0.0,-22.36,C6560,Corporate,2024-09
+SO102592,2024-11-28,North,Office Supplies,Storage,169.08,1,0.05,-15.86,C8074,Home Office,2024-11
+SO102594,2023-06-23,West,Office Supplies,Storage,283.24,2,0.0,-38.11,C9567,Small Business,2023-06
+SO102597,2023-10-09,North,Office Supplies,Binders,146.99,3,0.0,-1.9,C6191,Corporate,2023-10
+SO102598,2024-08-08,East,Office Supplies,Binders,295.04,3,0.05,-32.92,C8729,Corporate,2024-08
+SO102610,2024-12-29,North,Technology,Machines,573.43,1,0.2,-87.25,C3188,Home Office,2024-12
+SO102613,2024-06-20,East,Office Supplies,Pens,111.45,4,0.05,-12.65,C8171,Home Office,2024-06
+SO102614,2025-01-24,South,Furniture,Chairs,20.43,2,0.1,-2.18,C4930,Consumer,2025-01
+SO102616,2025-06-03,South,Office Supplies,Paper,90.03,1,0.0,-7.48,C7253,Home Office,2025-06
+SO102621,2024-11-01,North,Furniture,Tables,16.32,4,0.0,-1.26,C4039,Consumer,2024-11
+SO102624,2025-01-20,South,Technology,Accessories,31.86,4,0.0,-3.8,C6351,Corporate,2025-01
+SO102629,2024-12-13,East,Office Supplies,Binders,126.12,1,0.0,-18.15,C9172,Corporate,2024-12
+SO102632,2023-02-18,South,Furniture,Bookcases,46.71,5,0.1,-2.73,C4333,Small Business,2023-02
+SO102642,2024-04-14,East,Furniture,Bookcases,189.12,5,0.0,-36.22,C4603,Corporate,2024-04
+SO102643,2024-02-17,South,Office Supplies,Storage,393.12,1,0.0,-76.13,C1683,Corporate,2024-02
+SO102645,2023-06-25,East,Furniture,Chairs,166.6,3,0.0,-3.89,C4450,Consumer,2023-06
+SO102648,2023-08-01,West,Office Supplies,Pens,483.03,2,0.0,-83.38,C1770,Home Office,2023-08
+SO102649,2025-05-07,South,Technology,Accessories,112.16,2,0.0,-19.79,C4071,Home Office,2025-05
+SO102651,2023-08-29,West,Office Supplies,Storage,30.68,3,0.0,-5.16,C2150,Consumer,2023-08
+SO102653,2024-01-05,East,Technology,Phones,164.98,4,0.05,-28.38,C3529,Consumer,2024-01
+SO102656,2024-10-15,West,Technology,Copiers,329.33,3,0.2,-64.77,C7697,Consumer,2024-10
+SO102667,2024-07-26,West,Furniture,Bookcases,865.17,2,0.1,-90.96,C8242,Consumer,2024-07
+SO102668,2024-12-10,North,Office Supplies,Paper,45.73,3,0.05,-0.06,C3664,Consumer,2024-12
+SO102670,2024-04-01,South,Technology,Copiers,469.71,4,0.0,-43.67,C8559,Home Office,2024-04
+SO102677,2023-04-17,East,Office Supplies,Paper,561.71,5,0.0,-18.86,C1416,Consumer,2023-04
+SO102684,2023-03-03,South,Office Supplies,Storage,141.1,3,0.0,-2.95,C9758,Consumer,2023-03
+SO102685,2023-04-17,North,Office Supplies,Paper,211.51,5,0.0,-30.34,C9306,Corporate,2023-04
+SO102686,2023-08-27,East,Office Supplies,Binders,197.91,3,0.0,-29.04,C1470,Consumer,2023-08
+SO102687,2023-11-10,South,Furniture,Tables,134.67,1,0.2,-23.95,C6180,Consumer,2023-11
+SO102690,2024-10-27,North,Office Supplies,Binders,403.52,5,0.0,-14.8,C5233,Corporate,2024-10
+SO102696,2024-10-17,South,Office Supplies,Pens,209.39,2,0.0,-5.27,C6196,Consumer,2024-10
+SO102697,2025-05-10,East,Office Supplies,Binders,862.5,5,0.0,-55.36,C3780,Consumer,2025-05
+SO102698,2024-07-07,West,Technology,Accessories,446.35,5,0.05,-59.14,C1630,Consumer,2024-07
+SO102702,2024-11-17,West,Office Supplies,Pens,151.88,5,0.0,-9.71,C9492,Corporate,2024-11
+SO102705,2024-08-01,South,Technology,Machines,30.87,1,0.0,-2.83,C8822,Home Office,2024-08
+SO102708,2024-11-08,West,Furniture,Tables,77.11,5,0.05,-4.83,C3971,Consumer,2024-11
+SO102710,2024-06-21,East,Office Supplies,Storage,391.09,4,0.1,-1.56,C6252,Home Office,2024-06
+SO102712,2023-12-07,West,Office Supplies,Paper,452.02,4,0.1,-27.9,C1405,Home Office,2023-12
+SO102713,2024-01-10,East,Technology,Phones,45.85,5,0.0,-2.5,C1232,Home Office,2024-01
+SO102718,2024-04-13,East,Furniture,Tables,613.76,2,0.0,-0.32,C9930,Consumer,2024-04
+SO102720,2024-07-20,South,Office Supplies,Storage,71.48,1,0.05,-3.91,C8173,Consumer,2024-07
+SO102725,2023-06-28,North,Office Supplies,Paper,966.07,1,0.0,-51.72,C1120,Home Office,2023-06
+SO102727,2024-03-06,West,Office Supplies,Pens,297.51,2,0.1,-58.2,C2953,Home Office,2024-03
+SO102728,2024-01-06,South,Office Supplies,Paper,536.3,3,0.05,-48.14,C3099,Consumer,2024-01
+SO102730,2025-01-12,West,Office Supplies,Paper,238.88,2,0.0,-39.28,C1251,Home Office,2025-01
+SO102733,2025-02-07,North,Technology,Phones,532.03,4,0.3,-41.93,C8303,Corporate,2025-02
+SO102739,2024-09-18,South,Technology,Machines,231.5,3,0.1,-34.66,C2637,Consumer,2024-09
+SO102742,2024-08-04,South,Technology,Phones,69.79,1,0.0,-10.62,C3148,Corporate,2024-08
+SO102752,2023-01-25,East,Office Supplies,Paper,471.61,4,0.1,-70.58,C5070,Consumer,2023-01
+SO102760,2024-04-01,East,Office Supplies,Paper,634.93,1,0.1,-70.02,C3446,Consumer,2024-04
+SO102763,2024-02-27,West,Technology,Copiers,312.54,3,0.1,-18.37,C3246,Small Business,2024-02
+SO102765,2024-10-22,South,Furniture,Bookcases,40.99,3,0.0,-5.91,C5207,Consumer,2024-10
+SO102766,2024-12-12,East,Office Supplies,Storage,211.47,5,0.1,-32.14,C2375,Consumer,2024-12
+SO102767,2023-06-05,West,Technology,Phones,323.4,5,0.0,-43.36,C9718,Consumer,2023-06
+SO102770,2025-01-05,West,Furniture,Tables,334.66,3,0.0,-66.33,C1204,Consumer,2025-01
+SO102775,2025-01-06,East,Technology,Machines,291.63,2,0.0,-41.23,C9742,Consumer,2025-01
+SO102778,2023-09-03,North,Technology,Accessories,332.96,5,0.0,-0.38,C4429,Corporate,2023-09
+SO102779,2024-04-02,North,Technology,Copiers,69.28,1,0.0,-8.29,C2903,Corporate,2024-04
+SO102780,2023-09-19,East,Office Supplies,Storage,83.8,1,0.0,-1.14,C4537,Consumer,2023-09
+SO102786,2023-06-28,North,Office Supplies,Storage,88.51,3,0.2,-18.24,C8291,Corporate,2023-06
+SO102788,2024-05-29,East,Technology,Accessories,42.09,4,0.0,-4.36,C1920,Consumer,2024-05
+SO102789,2024-08-24,South,Technology,Accessories,100.72,5,0.0,-4.01,C2277,Consumer,2024-08
+SO102790,2024-06-28,East,Furniture,Bookcases,95.11,5,0.0,-5.4,C4596,Home Office,2024-06
+SO102794,2023-06-14,North,Office Supplies,Binders,31.94,5,0.0,-2.5,C9348,Consumer,2023-06
+SO102796,2023-09-07,West,Office Supplies,Paper,79.07,1,0.0,-6.37,C2790,Home Office,2023-09
+SO102802,2024-09-19,North,Furniture,Bookcases,69.22,2,0.0,-10.64,C8893,Consumer,2024-09
+SO102810,2023-07-05,East,Office Supplies,Pens,814.74,2,0.05,-19.17,C7215,Small Business,2023-07
+SO102812,2023-03-31,West,Office Supplies,Paper,21.0,1,0.3,-3.34,C2011,Consumer,2023-03
+SO102814,2024-04-12,South,Technology,Machines,318.94,1,0.2,-28.57,C8044,Consumer,2024-04
+SO102815,2023-12-05,East,Office Supplies,Storage,161.69,1,0.0,-16.14,C2141,Consumer,2023-12
+SO102817,2023-05-05,South,Technology,Copiers,151.2,2,0.1,-21.37,C5054,Consumer,2023-05
+SO102818,2024-08-02,South,Office Supplies,Paper,117.74,5,0.0,-19.54,C1570,Small Business,2024-08
+SO102826,2023-12-28,South,Technology,Copiers,47.54,5,0.2,-8.38,C7885,Consumer,2023-12
+SO102827,2023-01-25,West,Office Supplies,Paper,151.26,3,0.05,-24.76,C9536,Small Business,2023-01
+SO102833,2023-12-10,East,Office Supplies,Storage,38.62,3,0.1,-2.39,C2171,Consumer,2023-12
+SO102835,2024-04-04,North,Office Supplies,Pens,540.01,4,0.0,-66.78,C6581,Corporate,2024-04
+SO102847,2023-07-05,South,Technology,Accessories,440.15,1,0.0,-5.62,C1749,Consumer,2023-07
+SO102849,2023-07-27,North,Technology,Phones,74.94,4,0.0,-2.85,C8494,Consumer,2023-07
+SO102858,2024-12-21,West,Office Supplies,Binders,332.62,1,0.2,-16.56,C3323,Consumer,2024-12
+SO102862,2025-01-03,North,Technology,Machines,80.25,3,0.0,-6.16,C7236,Home Office,2025-01
+SO102863,2023-05-16,East,Furniture,Chairs,15.08,5,0.0,-0.66,C1818,Consumer,2023-05
+SO102864,2023-09-28,West,Office Supplies,Binders,63.25,4,0.1,-13.44,C6268,Corporate,2023-09
+SO102868,2023-03-03,North,Technology,Accessories,211.56,1,0.0,-34.28,C9587,Home Office,2023-03
+SO102869,2023-12-28,South,Furniture,Tables,403.55,3,0.0,-1.7,C6601,Consumer,2023-12
+SO102873,2023-07-14,East,Office Supplies,Paper,100.74,2,0.1,-20.81,C4915,Corporate,2023-07
+SO102876,2023-07-20,South,Furniture,Bookcases,67.06,5,0.0,-3.95,C5462,Home Office,2023-07
+SO102880,2024-05-27,North,Office Supplies,Paper,215.61,2,0.0,-10.49,C3128,Consumer,2024-05
+SO102887,2024-02-19,East,Office Supplies,Paper,29.81,2,0.0,-4.81,C5798,Consumer,2024-02
+SO102888,2023-05-13,West,Office Supplies,Pens,382.76,5,0.0,-35.47,C1013,Corporate,2023-05
+SO102889,2024-01-16,East,Furniture,Chairs,228.98,1,0.0,-35.68,C5144,Corporate,2024-01
+SO102893,2024-06-10,North,Office Supplies,Paper,355.33,5,0.0,-52.7,C4703,Corporate,2024-06
+SO102894,2024-05-29,North,Office Supplies,Pens,95.58,4,0.0,-12.2,C5131,Consumer,2024-05
+SO102898,2025-06-06,North,Office Supplies,Pens,313.84,1,0.0,-1.69,C3855,Consumer,2025-06
+SO102899,2023-05-09,West,Office Supplies,Paper,72.87,2,0.05,-3.46,C4895,Small Business,2023-05
+SO102905,2024-09-15,North,Office Supplies,Paper,214.18,3,0.0,-33.65,C9993,Corporate,2024-09
+SO102906,2023-05-05,West,Furniture,Bookcases,72.83,3,0.1,-14.13,C9273,Corporate,2023-05
+SO102910,2023-02-14,South,Technology,Accessories,347.9,3,0.0,-16.37,C1900,Corporate,2023-02
+SO102911,2023-04-24,East,Office Supplies,Binders,30.48,4,0.05,-1.91,C1450,Consumer,2023-04
+SO102915,2025-03-28,East,Technology,Copiers,253.36,4,0.1,-37.54,C9377,Consumer,2025-03
+SO102922,2023-12-15,East,Office Supplies,Pens,50.94,5,0.05,-6.52,C2326,Consumer,2023-12
+SO102925,2023-12-10,North,Office Supplies,Pens,138.09,5,0.0,-22.3,C1714,Consumer,2023-12
+SO102927,2024-09-13,North,Furniture,Tables,67.41,2,0.1,-7.36,C9983,Consumer,2024-09
+SO102929,2024-03-19,East,Office Supplies,Paper,141.33,1,0.2,-27.29,C3958,Consumer,2024-03
+SO102935,2025-03-30,East,Furniture,Bookcases,471.41,4,0.0,-82.89,C1358,Home Office,2025-03
+SO102939,2023-06-02,West,Technology,Accessories,217.47,2,0.1,-15.41,C5508,Corporate,2023-06
+SO102940,2023-07-03,East,Office Supplies,Binders,49.51,4,0.0,-3.12,C8020,Consumer,2023-07
+SO102943,2023-09-11,East,Technology,Accessories,436.6,3,0.0,-78.23,C6021,Corporate,2023-09
+SO102945,2024-07-23,West,Office Supplies,Binders,538.07,5,0.0,-93.2,C6790,Consumer,2024-07
+SO102949,2023-08-30,East,Technology,Copiers,30.83,4,0.0,-1.22,C2299,Consumer,2023-08
+SO102950,2024-07-10,East,Office Supplies,Pens,118.94,2,0.05,-0.95,C1987,Small Business,2024-07
+SO102952,2025-06-12,West,Office Supplies,Paper,97.77,2,0.0,-11.59,C1826,Consumer,2025-06
+SO102956,2025-01-28,West,Furniture,Chairs,207.59,2,0.0,-0.64,C1595,Consumer,2025-01
+SO102957,2024-07-21,West,Office Supplies,Binders,60.07,4,0.1,-6.5,C3779,Consumer,2024-07
+SO102960,2023-02-26,East,Office Supplies,Binders,285.64,1,0.0,-1.49,C7231,Home Office,2023-02
+SO102965,2024-02-11,South,Office Supplies,Paper,50.75,5,0.05,-8.81,C7182,Consumer,2024-02
+SO102966,2023-08-29,West,Furniture,Tables,150.69,3,0.0,-4.21,C3762,Small Business,2023-08
+SO102967,2023-06-16,North,Furniture,Bookcases,74.38,3,0.1,-1.16,C3043,Corporate,2023-06
+SO102971,2024-06-15,North,Furniture,Tables,674.55,5,0.0,-104.36,C4469,Corporate,2024-06
+SO102978,2024-11-05,South,Technology,Phones,56.72,3,0.2,-6.9,C5267,Corporate,2024-11
+SO102979,2023-05-08,West,Office Supplies,Storage,284.45,2,0.0,-20.61,C2797,Consumer,2023-05
+SO102982,2023-10-24,West,Office Supplies,Pens,200.58,5,0.05,-30.35,C4454,Consumer,2023-10
+SO102990,2023-09-08,East,Office Supplies,Binders,36.41,2,0.0,-1.9,C2009,Consumer,2023-09
+SO102993,2023-10-11,North,Furniture,Chairs,507.02,2,0.2,-33.41,C2627,Consumer,2023-10
+SO102994,2024-02-21,East,Furniture,Chairs,332.6,4,0.05,-1.8,C5633,Consumer,2024-02
+SO103001,2025-06-18,East,Furniture,Tables,22.92,3,0.1,-4.26,C2780,Corporate,2025-06
+SO103002,2024-07-22,North,Office Supplies,Paper,81.9,3,0.0,-0.12,C4319,Consumer,2024-07
+SO103003,2024-04-22,East,Technology,Machines,118.16,4,0.0,-22.52,C7573,Corporate,2024-04
+SO103004,2024-06-27,West,Furniture,Tables,83.47,4,0.05,-13.22,C6874,Corporate,2024-06
+SO103008,2023-05-11,West,Office Supplies,Storage,396.34,1,0.05,-77.42,C5043,Corporate,2023-05
+SO103009,2025-04-08,South,Furniture,Chairs,487.93,5,0.0,-26.07,C2147,Home Office,2025-04
+SO103012,2023-06-18,North,Office Supplies,Storage,295.01,4,0.0,-22.81,C5385,Consumer,2023-06
+SO103014,2024-07-03,North,Technology,Copiers,184.97,2,0.0,-34.95,C2833,Consumer,2024-07
+SO103016,2024-12-23,East,Office Supplies,Paper,374.1,5,0.1,-54.81,C7900,Consumer,2024-12
+SO103017,2023-07-08,East,Office Supplies,Binders,35.63,2,0.0,-1.13,C7617,Consumer,2023-07
+SO103018,2025-06-07,West,Office Supplies,Pens,133.81,3,0.0,-5.38,C6935,Corporate,2025-06
+SO103020,2025-04-08,South,Furniture,Tables,55.98,2,0.1,-2.66,C2359,Corporate,2025-04
+SO103022,2023-01-09,South,Office Supplies,Storage,238.03,2,0.05,-33.99,C8472,Consumer,2023-01
+SO103023,2023-12-08,East,Furniture,Bookcases,96.43,4,0.0,-6.75,C9184,Consumer,2023-12
+SO103024,2024-03-28,South,Office Supplies,Storage,111.24,3,0.0,-11.46,C5495,Consumer,2024-03
+SO103039,2024-09-30,East,Office Supplies,Binders,102.36,5,0.2,-19.19,C3214,Consumer,2024-09
+SO103040,2025-03-25,South,Furniture,Tables,174.85,5,0.0,-2.42,C1721,Home Office,2025-03
+SO103042,2023-09-21,South,Office Supplies,Storage,13.7,1,0.2,-1.26,C5732,Home Office,2023-09
+SO103046,2024-07-15,East,Office Supplies,Paper,250.47,3,0.0,-43.38,C3994,Consumer,2024-07
+SO103047,2025-06-05,South,Office Supplies,Storage,239.91,5,0.0,-17.43,C4521,Consumer,2025-06
+SO103048,2023-01-15,West,Office Supplies,Storage,311.28,2,0.1,-23.05,C1338,Consumer,2023-01
+SO103054,2023-04-30,West,Furniture,Tables,353.0,3,0.0,-4.68,C4401,Consumer,2023-04
+SO103057,2023-06-04,North,Office Supplies,Paper,257.98,4,0.1,-5.88,C8475,Corporate,2023-06
+SO103058,2023-10-15,East,Technology,Accessories,128.51,5,0.3,-19.05,C9666,Consumer,2023-10
+SO103061,2023-01-24,North,Office Supplies,Pens,301.45,5,0.0,-15.68,C7292,Consumer,2023-01
+SO103062,2023-10-21,East,Technology,Copiers,199.33,1,0.0,-38.8,C1014,Corporate,2023-10
+SO103065,2024-01-01,East,Office Supplies,Binders,28.91,2,0.0,-1.28,C3221,Consumer,2024-01
+SO103066,2024-08-24,West,Technology,Copiers,322.55,1,0.0,-21.14,C4031,Consumer,2024-08
+SO103071,2024-09-13,West,Office Supplies,Paper,89.57,3,0.05,-16.76,C3327,Consumer,2024-09
+SO103072,2023-10-08,East,Technology,Copiers,103.61,4,0.0,-0.08,C8215,Consumer,2023-10
+SO103076,2023-05-15,West,Furniture,Chairs,112.2,1,0.0,-9.27,C5913,Corporate,2023-05
+SO103077,2023-12-29,West,Furniture,Chairs,50.85,2,0.1,-10.12,C1465,Home Office,2023-12
+SO103079,2024-09-16,North,Office Supplies,Pens,184.09,4,0.0,-27.13,C2952,Consumer,2024-09
+SO103080,2023-02-09,West,Office Supplies,Paper,38.1,5,0.0,-5.87,C3959,Consumer,2023-02
+SO103082,2025-02-28,West,Technology,Copiers,252.35,1,0.0,-5.94,C3676,Consumer,2025-02
+SO103085,2023-08-17,West,Technology,Accessories,195.24,4,0.1,-3.37,C7321,Consumer,2023-08
+SO103088,2023-02-02,East,Technology,Copiers,274.3,3,0.0,-41.17,C2755,Consumer,2023-02
+SO103089,2023-09-26,West,Furniture,Bookcases,317.52,1,0.1,-22.3,C1272,Corporate,2023-09
+SO103092,2025-02-09,West,Technology,Machines,189.9,1,0.05,-19.74,C4651,Consumer,2025-02
+SO103095,2024-01-23,West,Technology,Phones,209.86,4,0.0,-28.34,C2194,Consumer,2024-01
+SO103098,2024-02-24,West,Office Supplies,Binders,104.02,2,0.0,-0.25,C1053,Corporate,2024-02
+SO103099,2025-02-24,North,Furniture,Chairs,756.79,1,0.0,-63.42,C9558,Consumer,2025-02
+SO103102,2024-11-14,South,Furniture,Tables,112.5,5,0.05,-10.53,C3780,Corporate,2024-11
+SO103103,2024-11-23,North,Furniture,Chairs,168.81,4,0.1,-8.23,C4549,Consumer,2024-11
+SO103112,2024-02-09,West,Office Supplies,Paper,132.96,4,0.0,-24.0,C1068,Corporate,2024-02
+SO103114,2023-07-19,North,Office Supplies,Paper,125.3,1,0.0,-8.36,C5174,Corporate,2023-07
+SO103120,2023-05-18,East,Office Supplies,Pens,81.07,5,0.1,-11.13,C1312,Consumer,2023-05
+SO103126,2025-02-28,North,Office Supplies,Binders,138.82,2,0.2,-20.94,C8443,Consumer,2025-02
+SO103132,2024-02-06,East,Office Supplies,Binders,81.3,5,0.0,-7.48,C9397,Consumer,2024-02
+SO103134,2024-11-03,West,Office Supplies,Paper,589.9,3,0.0,-0.54,C3180,Corporate,2024-11
+SO103136,2024-09-08,East,Technology,Machines,223.14,1,0.1,-32.14,C5408,Corporate,2024-09
+SO103137,2023-09-28,North,Furniture,Chairs,459.76,1,0.1,-86.22,C5831,Consumer,2023-09
+SO103141,2023-12-06,South,Office Supplies,Pens,46.47,5,0.2,-1.77,C1543,Small Business,2023-12
+SO103142,2025-01-28,North,Office Supplies,Binders,71.92,4,0.05,-12.88,C6582,Corporate,2025-01
+SO103146,2023-01-25,East,Office Supplies,Storage,137.59,5,0.0,-13.31,C7381,Consumer,2023-01
+SO103149,2024-10-14,West,Furniture,Chairs,64.32,5,0.1,-14.86,C5890,Corporate,2024-10
+SO103151,2025-05-17,East,Technology,Accessories,123.98,4,0.0,-21.64,C6796,Corporate,2025-05
+SO103152,2023-01-27,South,Furniture,Bookcases,517.53,4,0.1,-72.89,C8379,Consumer,2023-01
+SO103154,2023-10-09,West,Office Supplies,Binders,43.54,4,0.05,-1.35,C4585,Corporate,2023-10
+SO103158,2024-11-10,North,Office Supplies,Storage,525.19,4,0.0,-64.1,C1630,Home Office,2024-11
+SO103160,2024-10-11,East,Office Supplies,Paper,320.13,4,0.0,-30.57,C8104,Home Office,2024-10
+SO103162,2023-11-24,South,Technology,Accessories,268.82,5,0.0,-34.79,C8593,Consumer,2023-11
+SO103164,2023-08-21,East,Office Supplies,Paper,155.66,2,0.0,-2.44,C6764,Consumer,2023-08
+SO103165,2024-08-01,East,Office Supplies,Binders,47.7,1,0.2,-3.99,C6984,Home Office,2024-08
+SO103170,2023-05-06,East,Office Supplies,Binders,125.23,2,0.05,-14.87,C4084,Consumer,2023-05
+SO103175,2024-09-29,West,Office Supplies,Pens,225.97,3,0.0,-4.59,C8613,Home Office,2024-09
+SO103177,2023-03-03,South,Technology,Copiers,119.81,4,0.2,-5.47,C5414,Corporate,2023-03
+SO103179,2023-05-20,North,Office Supplies,Storage,645.17,5,0.1,-114.68,C1103,Consumer,2023-05
+SO103181,2023-08-25,North,Furniture,Chairs,222.64,5,0.05,-28.24,C9961,Consumer,2023-08
+SO103182,2025-06-17,North,Technology,Accessories,645.37,4,0.2,-44.27,C6098,Corporate,2025-06
+SO103183,2024-05-30,East,Furniture,Bookcases,250.35,1,0.0,-39.61,C5258,Consumer,2024-05
+SO103184,2024-06-06,North,Office Supplies,Binders,65.36,2,0.2,-9.92,C3234,Consumer,2024-06
+SO103185,2023-02-01,East,Technology,Copiers,51.0,3,0.0,-10.11,C2966,Consumer,2023-02
+SO103186,2025-02-04,West,Furniture,Bookcases,417.52,2,0.1,-80.95,C8005,Small Business,2025-02
+SO103189,2025-01-06,North,Furniture,Bookcases,82.8,2,0.1,-10.22,C2117,Consumer,2025-01
+SO103193,2023-11-08,East,Office Supplies,Storage,259.1,4,0.05,-51.37,C7555,Home Office,2023-11
+SO103197,2023-12-30,East,Office Supplies,Storage,133.1,3,0.0,-3.91,C9085,Consumer,2023-12
+SO103198,2025-04-13,North,Office Supplies,Storage,258.04,3,0.05,-14.45,C5567,Consumer,2025-04
+SO103199,2023-04-16,West,Office Supplies,Pens,122.84,5,0.0,-7.26,C6340,Corporate,2023-04
+SO103200,2023-06-27,North,Office Supplies,Pens,349.4,1,0.05,-8.9,C3194,Corporate,2023-06
+SO103204,2024-11-19,East,Office Supplies,Pens,113.7,2,0.1,-13.51,C6980,Corporate,2024-11
+SO103205,2024-05-27,East,Furniture,Chairs,39.37,2,0.05,-3.59,C7748,Small Business,2024-05
+SO103209,2025-02-12,North,Furniture,Tables,27.75,5,0.0,-5.04,C9153,Consumer,2025-02
+SO103211,2024-09-23,North,Furniture,Bookcases,260.03,5,0.3,-44.54,C8343,Corporate,2024-09
+SO103214,2024-03-23,North,Furniture,Bookcases,38.21,3,0.0,-0.8,C8390,Consumer,2024-03
+SO103216,2023-12-20,North,Technology,Accessories,145.25,3,0.05,-18.51,C4949,Corporate,2023-12
+SO103218,2024-11-01,North,Technology,Machines,110.15,2,0.0,-13.61,C2948,Consumer,2024-11
+SO103219,2025-05-18,South,Office Supplies,Storage,146.19,3,0.0,-16.26,C9099,Home Office,2025-05
+SO103220,2023-06-10,North,Technology,Machines,105.27,4,0.0,-7.98,C2036,Consumer,2023-06
+SO103223,2024-11-11,West,Furniture,Bookcases,116.95,4,0.0,-5.75,C1117,Corporate,2024-11
+SO103226,2025-04-26,North,Technology,Copiers,123.21,4,0.0,-10.12,C7599,Consumer,2025-04
+SO103227,2025-03-29,East,Office Supplies,Binders,880.29,1,0.0,-111.29,C8649,Consumer,2025-03
+SO103232,2023-09-15,North,Office Supplies,Pens,45.54,3,0.1,-3.96,C7721,Consumer,2023-09
+SO103240,2023-06-17,East,Office Supplies,Storage,70.93,3,0.1,-0.53,C9290,Consumer,2023-06
+SO103241,2023-10-04,West,Office Supplies,Binders,30.01,2,0.0,-2.96,C2188,Home Office,2023-10
+SO103242,2024-10-03,North,Furniture,Chairs,103.37,1,0.1,-15.55,C3175,Consumer,2024-10
+SO103249,2024-09-12,South,Technology,Copiers,331.99,4,0.05,-58.24,C8828,Corporate,2024-09
+SO103258,2023-03-25,East,Office Supplies,Pens,63.29,5,0.05,-11.16,C6437,Consumer,2023-03
+SO103264,2024-04-01,North,Technology,Accessories,67.51,2,0.0,-3.44,C3387,Corporate,2024-04
+SO103265,2024-07-09,North,Office Supplies,Pens,316.28,2,0.1,-8.24,C7515,Corporate,2024-07
+SO103268,2024-01-09,North,Furniture,Tables,435.37,4,0.05,-78.52,C1219,Home Office,2024-01
+SO103269,2023-03-18,West,Furniture,Chairs,297.48,2,0.0,-32.85,C5057,Consumer,2023-03
+SO103273,2023-02-28,North,Furniture,Chairs,287.05,2,0.3,-9.35,C9024,Consumer,2023-02
+SO103280,2024-12-11,West,Furniture,Tables,700.97,1,0.05,-138.17,C7150,Small Business,2024-12
+SO103281,2025-02-07,East,Technology,Phones,253.92,4,0.05,-4.22,C3636,Corporate,2025-02
+SO103284,2024-08-22,East,Technology,Copiers,114.61,4,0.0,-9.34,C2301,Home Office,2024-08
+SO103286,2024-06-04,East,Furniture,Chairs,172.88,3,0.05,-27.63,C8195,Consumer,2024-06
+SO103287,2023-09-16,North,Office Supplies,Storage,225.72,2,0.0,-35.81,C4809,Consumer,2023-09
+SO103289,2023-05-12,East,Technology,Copiers,79.09,5,0.05,-11.54,C7061,Consumer,2023-05
+SO103290,2024-04-30,West,Furniture,Tables,82.62,4,0.0,-12.29,C7838,Corporate,2024-04
+SO103291,2024-01-06,East,Furniture,Tables,54.89,5,0.0,-1.71,C9958,Consumer,2024-01
+SO103292,2023-05-23,North,Office Supplies,Paper,563.2,1,0.0,-76.87,C1404,Consumer,2023-05
+SO103295,2023-02-04,East,Office Supplies,Pens,240.81,5,0.0,-37.57,C8728,Consumer,2023-02
+SO103297,2024-03-04,East,Office Supplies,Storage,19.86,4,0.0,-0.48,C6180,Consumer,2024-03
+SO103298,2024-07-08,West,Furniture,Chairs,359.6,5,0.0,-35.97,C6908,Home Office,2024-07
+SO103299,2024-11-05,South,Furniture,Tables,311.55,3,0.0,-21.83,C3457,Consumer,2024-11
+SO103300,2023-03-20,North,Office Supplies,Paper,119.92,1,0.1,-25.13,C7242,Home Office,2023-03
+SO103301,2025-05-25,East,Office Supplies,Pens,95.41,3,0.0,-18.45,C6325,Corporate,2025-05
+SO103309,2023-04-19,North,Furniture,Tables,75.43,5,0.1,-11.33,C7538,Home Office,2023-04
+SO103311,2025-06-08,South,Office Supplies,Pens,123.52,2,0.0,-8.73,C4189,Consumer,2025-06
+SO103312,2023-06-19,West,Office Supplies,Paper,796.96,1,0.05,-65.56,C2290,Consumer,2023-06
+SO103313,2023-06-17,North,Office Supplies,Paper,141.45,4,0.0,-20.0,C8262,Consumer,2023-06
+SO103314,2024-12-21,South,Office Supplies,Pens,219.17,4,0.1,-18.06,C7373,Home Office,2024-12
+SO103318,2024-05-24,West,Office Supplies,Pens,32.07,1,0.1,-6.66,C7307,Corporate,2024-05
+SO103319,2024-04-27,South,Technology,Accessories,606.04,4,0.0,-101.06,C2267,Consumer,2024-04
+SO103326,2024-01-09,West,Office Supplies,Paper,86.58,2,0.0,-10.04,C7756,Home Office,2024-01
+SO103328,2025-03-18,West,Furniture,Chairs,889.04,3,0.05,-173.58,C2642,Consumer,2025-03
+SO103329,2023-03-15,East,Furniture,Tables,130.78,1,0.0,-25.15,C8762,Corporate,2023-03
+SO103330,2023-01-15,West,Office Supplies,Storage,268.64,1,0.2,-57.7,C4831,Consumer,2023-01
+SO103331,2023-02-17,North,Office Supplies,Pens,271.66,1,0.0,-47.83,C2731,Home Office,2023-02
+SO103337,2025-01-13,South,Furniture,Chairs,353.87,3,0.3,-43.08,C8049,Consumer,2025-01
+SO103338,2025-02-22,South,Office Supplies,Pens,428.58,2,0.05,-13.76,C1818,Consumer,2025-02
+SO103339,2024-01-05,West,Furniture,Tables,474.21,5,0.0,-6.79,C4643,Consumer,2024-01
+SO103342,2025-01-21,South,Office Supplies,Storage,182.51,3,0.05,-3.03,C9942,Consumer,2025-01
+SO103344,2025-05-16,West,Technology,Copiers,91.05,1,0.0,-9.02,C2375,Corporate,2025-05
+SO103350,2024-12-22,East,Furniture,Bookcases,265.14,1,0.05,-52.24,C4282,Home Office,2024-12
+SO103352,2024-10-14,East,Furniture,Tables,244.92,3,0.1,-44.88,C4792,Corporate,2024-10
+SO103355,2024-06-20,South,Office Supplies,Storage,158.33,4,0.05,-23.56,C3228,Consumer,2024-06
+SO103356,2025-01-05,West,Office Supplies,Paper,74.92,2,0.0,-0.4,C7800,Small Business,2025-01
+SO103359,2024-11-04,West,Furniture,Bookcases,138.44,4,0.1,-27.73,C5332,Consumer,2024-11
+SO103364,2023-08-26,North,Furniture,Tables,188.03,5,0.0,-28.13,C4891,Corporate,2023-08
+SO103368,2023-09-22,North,Office Supplies,Storage,127.78,2,0.05,-17.03,C1106,Consumer,2023-09
+SO103372,2023-08-24,North,Furniture,Tables,794.23,3,0.05,-146.1,C1866,Consumer,2023-08
+SO103374,2023-03-04,West,Technology,Accessories,446.48,5,0.0,-84.48,C9406,Corporate,2023-03
+SO103378,2024-09-13,North,Office Supplies,Pens,106.43,1,0.3,-24.18,C6595,Consumer,2024-09
+SO103380,2023-05-19,West,Office Supplies,Binders,165.33,1,0.05,-24.66,C1786,Consumer,2023-05
+SO103383,2024-08-12,West,Technology,Accessories,68.92,2,0.05,-12.76,C3746,Corporate,2024-08
+SO103385,2024-11-16,North,Technology,Accessories,71.8,1,0.0,-9.89,C5490,Home Office,2024-11
+SO103387,2024-03-28,West,Technology,Accessories,1009.76,3,0.0,-30.32,C2768,Corporate,2024-03
+SO103390,2025-01-14,East,Office Supplies,Storage,257.53,3,0.1,-8.81,C5066,Consumer,2025-01
+SO103393,2023-11-17,North,Technology,Machines,170.2,2,0.0,-29.68,C2101,Corporate,2023-11
+SO103396,2024-08-16,West,Office Supplies,Paper,364.77,1,0.0,-60.58,C1725,Corporate,2024-08
+SO103398,2024-04-22,South,Furniture,Tables,156.67,3,0.0,-14.24,C5706,Consumer,2024-04
+SO103399,2023-01-31,West,Office Supplies,Binders,116.22,4,0.2,-16.07,C2385,Home Office,2023-01
+SO103404,2024-01-13,West,Furniture,Chairs,477.21,3,0.1,-75.2,C7372,Consumer,2024-01
+SO103408,2023-07-14,North,Office Supplies,Binders,245.18,2,0.05,-40.4,C6451,Consumer,2023-07
+SO103413,2024-01-20,East,Office Supplies,Binders,94.13,1,0.1,-5.91,C8922,Consumer,2024-01
+SO103414,2023-06-23,East,Technology,Phones,92.22,4,0.3,-4.84,C9702,Consumer,2023-06
+SO103415,2024-08-17,West,Office Supplies,Paper,94.66,3,0.1,-1.0,C2059,Consumer,2024-08
+SO103417,2025-04-18,South,Technology,Copiers,693.82,1,0.2,-1.46,C5560,Consumer,2025-04
+SO103424,2023-10-23,West,Furniture,Chairs,304.72,5,0.05,-54.99,C6572,Consumer,2023-10
+SO103425,2025-03-03,North,Technology,Copiers,46.69,5,0.0,-5.16,C9303,Corporate,2025-03
+SO103426,2023-06-18,West,Office Supplies,Binders,67.12,3,0.0,-4.36,C5143,Consumer,2023-06
+SO103433,2023-09-14,South,Office Supplies,Binders,98.99,1,0.1,-4.7,C7658,Home Office,2023-09
+SO103435,2025-04-27,South,Office Supplies,Binders,20.83,2,0.2,-1.15,C9209,Consumer,2025-04
+SO103438,2025-02-16,South,Office Supplies,Pens,140.42,2,0.2,-3.74,C1295,Consumer,2025-02
+SO103446,2025-04-29,West,Furniture,Chairs,241.86,4,0.2,-47.21,C4242,Consumer,2025-04
+SO103451,2024-03-04,West,Office Supplies,Pens,59.59,2,0.0,-11.78,C7875,Consumer,2024-03
+SO103452,2025-01-29,West,Furniture,Chairs,85.45,3,0.2,-13.18,C4159,Consumer,2025-01
+SO103454,2024-03-14,West,Office Supplies,Pens,326.77,1,0.05,-37.18,C9423,Home Office,2024-03
+SO103458,2025-05-08,East,Technology,Copiers,925.5,2,0.0,-170.51,C8969,Consumer,2025-05
+SO103461,2023-08-07,East,Office Supplies,Pens,47.4,4,0.0,-7.28,C3761,Consumer,2023-08
+SO103464,2023-04-06,West,Office Supplies,Storage,532.55,1,0.1,-100.19,C7982,Consumer,2023-04
+SO103466,2024-04-01,South,Office Supplies,Storage,139.86,2,0.0,-17.8,C8140,Corporate,2024-04
+SO103467,2025-05-29,West,Technology,Accessories,123.72,4,0.2,-24.9,C4399,Consumer,2025-05
+SO103469,2024-03-03,West,Office Supplies,Binders,164.8,4,0.0,-3.74,C1029,Consumer,2024-03
+SO103470,2025-04-18,West,Office Supplies,Binders,55.86,4,0.0,-2.35,C3783,Small Business,2025-04
+SO103478,2023-02-14,West,Office Supplies,Pens,59.99,5,0.0,-8.56,C3999,Home Office,2023-02
+SO103482,2024-08-25,North,Furniture,Tables,84.01,3,0.0,-9.34,C8119,Consumer,2024-08
+SO103483,2024-09-23,East,Office Supplies,Storage,281.99,3,0.0,-4.73,C8552,Home Office,2024-09
+SO103486,2025-03-27,North,Furniture,Chairs,250.65,2,0.2,-0.47,C7877,Consumer,2025-03
+SO103487,2023-01-18,North,Office Supplies,Paper,778.61,3,0.05,-48.74,C6917,Consumer,2023-01
+SO103494,2023-12-30,South,Office Supplies,Binders,813.52,5,0.0,-36.49,C2081,Consumer,2023-12
+SO103495,2025-02-04,South,Office Supplies,Binders,283.8,5,0.05,-8.51,C7802,Consumer,2025-02
+SO103503,2024-05-27,East,Office Supplies,Pens,79.13,2,0.05,-9.96,C4490,Consumer,2024-05
+SO103507,2023-06-16,North,Office Supplies,Pens,134.35,1,0.0,-2.81,C9413,Consumer,2023-06
+SO103512,2024-01-09,South,Furniture,Chairs,95.54,3,0.0,-11.03,C4873,Consumer,2024-01
+SO103514,2023-10-20,North,Office Supplies,Paper,118.84,4,0.0,-9.06,C2964,Consumer,2023-10
+SO103517,2023-04-28,North,Furniture,Tables,239.66,2,0.0,-11.2,C2716,Consumer,2023-04
+SO103525,2025-02-23,North,Office Supplies,Binders,253.47,4,0.0,-0.78,C5045,Consumer,2025-02
+SO103526,2025-05-05,North,Office Supplies,Storage,187.83,3,0.0,-28.79,C3568,Small Business,2025-05
+SO103529,2023-01-22,North,Office Supplies,Paper,38.98,5,0.05,-6.57,C8321,Consumer,2023-01
+SO103530,2023-04-23,North,Office Supplies,Storage,79.59,1,0.0,-1.04,C1437,Consumer,2023-04
+SO103535,2023-06-16,North,Furniture,Chairs,158.14,2,0.2,-23.44,C7496,Consumer,2023-06
+SO103536,2024-08-06,West,Office Supplies,Paper,235.51,1,0.0,-2.42,C9942,Corporate,2024-08
+SO103539,2024-09-06,South,Technology,Machines,58.86,3,0.0,-10.39,C9344,Consumer,2024-09
+SO103541,2025-02-19,North,Office Supplies,Binders,42.19,4,0.0,-4.44,C5351,Corporate,2025-02
+SO103544,2025-01-06,North,Office Supplies,Paper,191.39,2,0.2,-18.78,C7077,Consumer,2025-01
+SO103546,2024-11-11,South,Technology,Phones,721.62,2,0.0,-71.9,C2781,Home Office,2024-11
+SO103551,2024-07-27,West,Furniture,Chairs,142.66,4,0.0,-21.8,C8753,Consumer,2024-07
+SO103553,2025-04-06,South,Technology,Phones,200.94,2,0.0,-4.18,C7742,Consumer,2025-04
+SO103559,2024-08-31,South,Furniture,Bookcases,108.48,2,0.0,-4.17,C3907,Consumer,2024-08
+SO103560,2025-01-06,South,Furniture,Chairs,75.06,2,0.0,-9.1,C4108,Corporate,2025-01
+SO103565,2023-12-30,South,Office Supplies,Paper,29.21,5,0.1,-1.93,C3659,Consumer,2023-12
+SO103567,2023-02-05,South,Office Supplies,Storage,164.42,2,0.0,-13.24,C1036,Consumer,2023-02
+SO103569,2024-02-27,North,Technology,Copiers,251.9,1,0.2,-13.41,C3202,Consumer,2024-02
+SO103573,2024-04-28,South,Office Supplies,Pens,326.15,4,0.1,-13.29,C8581,Consumer,2024-04
+SO103579,2024-04-12,East,Technology,Machines,157.04,3,0.0,-7.3,C5740,Consumer,2024-04
+SO103581,2024-12-28,West,Furniture,Bookcases,1039.13,3,0.0,-18.78,C2474,Home Office,2024-12
+SO103582,2024-07-13,West,Furniture,Bookcases,1362.37,1,0.1,-205.03,C1238,Consumer,2024-07
+SO103584,2024-07-31,West,Office Supplies,Paper,162.08,4,0.05,-25.3,C5164,Consumer,2024-07
+SO103591,2025-06-17,West,Furniture,Tables,19.24,5,0.0,-3.26,C2909,Consumer,2025-06
+SO103592,2024-05-18,South,Office Supplies,Storage,258.75,4,0.0,-41.09,C5089,Consumer,2024-05
+SO103605,2023-05-06,West,Furniture,Tables,315.84,4,0.0,-54.19,C8269,Consumer,2023-05
+SO103607,2024-09-13,East,Technology,Phones,71.51,3,0.0,-5.56,C6263,Consumer,2024-09
+SO103610,2025-03-25,East,Office Supplies,Pens,198.3,2,0.2,-5.58,C2521,Corporate,2025-03
+SO103612,2025-05-25,East,Technology,Accessories,45.27,4,0.05,-8.16,C9696,Consumer,2025-05
+SO103614,2025-04-02,West,Furniture,Chairs,36.33,1,0.1,-8.93,C1469,Consumer,2025-04
+SO103615,2023-10-11,East,Office Supplies,Pens,384.68,2,0.1,-70.62,C1651,Small Business,2023-10
+SO103618,2023-05-24,East,Furniture,Tables,84.66,3,0.2,-19.38,C8521,Home Office,2023-05
+SO103622,2023-12-11,West,Office Supplies,Storage,543.23,3,0.0,-8.58,C1586,Consumer,2023-12
+SO103628,2023-11-12,East,Office Supplies,Binders,529.67,4,0.05,-59.37,C4666,Consumer,2023-11
+SO103630,2024-10-05,South,Office Supplies,Paper,203.12,3,0.1,-11.42,C1222,Consumer,2024-10
+SO103631,2024-03-24,South,Office Supplies,Binders,118.22,1,0.1,-18.16,C6013,Consumer,2024-03
+SO103633,2024-08-27,South,Office Supplies,Binders,54.12,2,0.0,-7.67,C4185,Consumer,2024-08
+SO103634,2024-03-17,South,Office Supplies,Pens,185.67,1,0.1,-6.03,C1103,Consumer,2024-03
+SO103635,2024-09-25,South,Technology,Copiers,38.31,4,0.1,-5.55,C5244,Corporate,2024-09
+SO103636,2024-01-20,West,Office Supplies,Binders,50.37,4,0.05,-0.91,C1162,Corporate,2024-01
+SO103637,2024-10-11,North,Furniture,Bookcases,306.31,2,0.2,-8.13,C6107,Consumer,2024-10
+SO103642,2023-05-22,East,Office Supplies,Binders,156.12,1,0.1,-8.01,C5451,Corporate,2023-05
+SO103645,2023-04-26,North,Furniture,Bookcases,71.11,2,0.0,-1.57,C4924,Home Office,2023-04
+SO103652,2023-07-17,East,Technology,Copiers,698.53,1,0.1,-36.08,C8919,Consumer,2023-07
+SO103654,2024-09-15,North,Office Supplies,Paper,29.59,4,0.0,-0.74,C4629,Consumer,2024-09
+SO103659,2025-05-08,South,Furniture,Tables,301.55,5,0.0,-36.25,C8698,Consumer,2025-05
+SO103660,2024-04-05,West,Furniture,Bookcases,410.96,4,0.2,-25.32,C2764,Home Office,2024-04
+SO103661,2023-07-03,North,Office Supplies,Paper,382.71,4,0.0,-65.43,C7073,Consumer,2023-07
+SO103662,2024-04-17,West,Office Supplies,Binders,52.96,5,0.0,-7.75,C2269,Consumer,2024-04
+SO103666,2024-03-14,East,Office Supplies,Pens,721.52,2,0.0,-59.73,C8958,Corporate,2024-03
+SO103669,2023-04-29,South,Office Supplies,Pens,22.69,1,0.1,-0.64,C6251,Consumer,2023-04
+SO103670,2024-11-02,West,Furniture,Tables,74.93,1,0.0,-11.6,C6542,Consumer,2024-11
+SO103671,2023-07-17,South,Furniture,Bookcases,369.18,4,0.0,-28.38,C3129,Home Office,2023-07
+SO103680,2023-03-29,East,Office Supplies,Binders,336.06,4,0.0,-7.31,C9937,Consumer,2023-03
+SO103683,2024-03-15,North,Office Supplies,Storage,182.68,5,0.05,-19.05,C4102,Consumer,2024-03
+SO103689,2025-03-03,North,Office Supplies,Binders,322.78,4,0.05,-33.01,C3662,Home Office,2025-03
+SO103694,2024-10-13,North,Office Supplies,Binders,199.31,3,0.1,-21.14,C2341,Consumer,2024-10
+SO103709,2024-09-19,East,Technology,Phones,358.12,2,0.0,-39.0,C6235,Corporate,2024-09
+SO103710,2023-02-12,East,Office Supplies,Pens,178.31,3,0.2,-7.41,C4043,Consumer,2023-02
+SO103711,2025-03-13,North,Technology,Phones,36.37,4,0.05,-6.09,C9989,Consumer,2025-03
+SO103713,2024-05-05,East,Furniture,Tables,386.34,2,0.1,-20.44,C5138,Consumer,2024-05
+SO103714,2024-12-07,West,Office Supplies,Storage,285.56,4,0.05,-9.44,C7689,Consumer,2024-12
+SO103715,2023-11-10,South,Furniture,Chairs,72.91,3,0.0,-4.01,C6231,Consumer,2023-11
+SO103721,2023-05-11,North,Furniture,Tables,75.83,5,0.1,-16.39,C4136,Small Business,2023-05
+SO103722,2024-02-01,West,Office Supplies,Storage,134.85,3,0.0,-0.74,C2457,Consumer,2024-02
+SO103723,2023-12-13,North,Office Supplies,Storage,104.32,1,0.1,-13.46,C3000,Consumer,2023-12
+SO103725,2023-05-09,South,Furniture,Tables,164.26,5,0.0,-12.51,C9670,Consumer,2023-05
+SO103726,2024-02-23,East,Furniture,Bookcases,414.6,1,0.0,-67.88,C3615,Consumer,2024-02
+SO103728,2023-01-09,West,Furniture,Chairs,78.19,2,0.0,-3.54,C2043,Corporate,2023-01
+SO103731,2023-09-08,West,Office Supplies,Paper,606.64,5,0.0,-2.01,C2859,Home Office,2023-09
+SO103733,2023-01-12,West,Furniture,Chairs,176.19,2,0.0,-10.31,C8587,Consumer,2023-01
+SO103736,2024-04-14,South,Furniture,Chairs,429.83,3,0.0,-14.6,C8870,Corporate,2024-04
+SO103740,2025-05-29,North,Technology,Machines,54.37,5,0.05,-7.37,C6656,Home Office,2025-05
+SO103743,2024-07-26,South,Office Supplies,Storage,68.93,4,0.1,-13.65,C9120,Home Office,2024-07
+SO103744,2025-05-06,South,Furniture,Chairs,106.37,5,0.0,-1.48,C8121,Consumer,2025-05
+SO103749,2025-01-26,South,Technology,Machines,45.42,3,0.0,-6.98,C1122,Consumer,2025-01
+SO103751,2024-08-18,South,Furniture,Tables,328.88,5,0.05,-0.35,C1817,Home Office,2024-08
+SO103752,2024-08-09,East,Office Supplies,Binders,67.63,4,0.0,-12.76,C8068,Home Office,2024-08
+SO103757,2025-02-03,West,Office Supplies,Binders,180.84,3,0.0,-11.36,C8532,Consumer,2025-02
+SO103761,2025-03-30,East,Office Supplies,Storage,253.01,1,0.0,-17.18,C1629,Consumer,2025-03
+SO103765,2023-05-25,East,Technology,Copiers,243.8,4,0.0,-16.75,C6991,Consumer,2023-05
+SO103771,2024-03-08,East,Office Supplies,Storage,403.88,1,0.0,-70.56,C8583,Consumer,2024-03
+SO103773,2023-10-31,West,Office Supplies,Pens,51.9,4,0.05,-7.52,C5876,Consumer,2023-10
+SO103775,2023-11-09,West,Office Supplies,Storage,52.74,5,0.2,-1.09,C7512,Corporate,2023-11
+SO103783,2024-01-03,West,Office Supplies,Paper,557.95,4,0.3,-13.72,C6575,Corporate,2024-01
+SO103790,2025-04-30,South,Furniture,Tables,118.01,3,0.0,-4.28,C5322,Home Office,2025-04
+SO103796,2024-09-18,North,Technology,Machines,145.58,2,0.0,-19.43,C6752,Consumer,2024-09
+SO103798,2023-08-21,North,Office Supplies,Paper,85.77,5,0.05,-10.98,C5967,Corporate,2023-08
+SO103803,2023-02-11,West,Office Supplies,Binders,45.14,4,0.0,-7.99,C2249,Consumer,2023-02
+SO103804,2023-07-27,West,Office Supplies,Storage,107.59,5,0.0,-19.79,C4001,Corporate,2023-07
+SO103806,2023-02-14,West,Office Supplies,Paper,228.26,3,0.1,-26.05,C2212,Consumer,2023-02
+SO103807,2023-12-23,East,Technology,Copiers,179.65,3,0.05,-23.13,C2514,Home Office,2023-12
+SO103814,2024-06-11,North,Technology,Accessories,147.01,1,0.1,-25.47,C6931,Consumer,2024-06
+SO103817,2023-05-14,East,Office Supplies,Pens,563.15,3,0.0,-15.04,C7810,Consumer,2023-05
+SO103820,2023-04-22,North,Office Supplies,Storage,693.49,5,0.05,-22.79,C5451,Consumer,2023-04
+SO103822,2023-03-29,West,Furniture,Bookcases,198.34,1,0.3,-9.72,C3821,Consumer,2023-03
+SO103823,2025-03-23,East,Office Supplies,Paper,482.82,2,0.0,-5.5,C1025,Consumer,2025-03
+SO103824,2024-09-08,North,Office Supplies,Binders,33.53,3,0.0,-3.93,C7444,Consumer,2024-09
+SO103825,2024-12-31,West,Furniture,Tables,142.37,3,0.05,-27.75,C1424,Corporate,2024-12
+SO103826,2025-03-21,East,Technology,Accessories,206.67,4,0.1,-36.41,C1648,Consumer,2025-03
+SO103828,2023-09-03,South,Technology,Copiers,150.17,4,0.05,-20.12,C8737,Consumer,2023-09
+SO103834,2024-01-14,East,Office Supplies,Paper,233.36,2,0.1,-9.78,C9405,Corporate,2024-01
+SO103835,2023-03-06,South,Furniture,Tables,288.75,2,0.0,-30.55,C2720,Consumer,2023-03
+SO103838,2023-08-12,East,Office Supplies,Pens,130.84,3,0.0,-1.81,C8444,Consumer,2023-08
+SO103839,2024-11-02,East,Technology,Copiers,188.73,3,0.05,-27.0,C7877,Corporate,2024-11
+SO103842,2023-01-15,East,Office Supplies,Paper,128.9,1,0.05,-7.23,C7776,Consumer,2023-01
+SO103844,2024-07-13,North,Office Supplies,Storage,546.37,4,0.05,-66.25,C3748,Consumer,2024-07
+SO103846,2025-06-02,North,Technology,Phones,94.29,5,0.0,-1.52,C1679,Consumer,2025-06
+SO103848,2024-06-28,South,Office Supplies,Paper,248.26,4,0.0,-8.38,C1092,Consumer,2024-06
+SO103852,2024-01-09,North,Furniture,Tables,415.35,2,0.0,-2.69,C3829,Corporate,2024-01
+SO103853,2025-06-04,North,Furniture,Tables,64.09,5,0.0,-12.09,C1272,Corporate,2025-06
+SO103855,2023-06-06,South,Office Supplies,Storage,138.97,1,0.1,-26.59,C2257,Consumer,2023-06
+SO103862,2025-06-05,South,Technology,Machines,84.77,3,0.0,-2.92,C8990,Corporate,2025-06
+SO103864,2024-04-16,South,Technology,Copiers,395.79,3,0.0,-11.22,C4597,Corporate,2024-04
+SO103866,2023-07-04,East,Furniture,Bookcases,116.17,4,0.0,-9.55,C2112,Consumer,2023-07
+SO103868,2024-10-11,West,Technology,Machines,357.8,2,0.0,-11.59,C5084,Consumer,2024-10
+SO103872,2024-05-25,South,Office Supplies,Paper,588.1,4,0.05,-1.51,C1855,Home Office,2024-05
+SO103873,2023-10-10,East,Office Supplies,Storage,90.33,5,0.0,-9.93,C6303,Home Office,2023-10
+SO103874,2024-05-29,West,Technology,Copiers,61.13,5,0.05,-6.61,C2531,Consumer,2024-05
+SO103876,2024-12-26,East,Office Supplies,Pens,110.77,2,0.1,-6.64,C6210,Consumer,2024-12
+SO103881,2023-06-08,South,Office Supplies,Binders,194.6,4,0.0,-26.28,C6245,Consumer,2023-06
+SO103886,2023-08-09,South,Office Supplies,Storage,514.29,1,0.0,-60.83,C1113,Home Office,2023-08
+SO103889,2023-10-28,South,Office Supplies,Storage,68.53,1,0.2,-11.53,C3389,Consumer,2023-10
+SO103890,2024-05-31,South,Office Supplies,Storage,88.91,1,0.05,-16.39,C6897,Small Business,2024-05
+SO103893,2023-04-23,West,Office Supplies,Storage,55.63,1,0.0,-0.27,C3950,Corporate,2023-04
+SO103900,2025-03-08,West,Technology,Phones,66.87,4,0.2,-15.6,C7423,Consumer,2025-03
+SO103901,2023-05-18,North,Office Supplies,Storage,571.44,4,0.0,-48.39,C8590,Small Business,2023-05
+SO103902,2024-02-12,South,Furniture,Bookcases,138.92,4,0.0,-19.33,C8451,Home Office,2024-02
+SO103903,2024-12-31,South,Office Supplies,Storage,39.88,4,0.05,-6.59,C6548,Home Office,2024-12
+SO103905,2023-09-22,North,Technology,Machines,196.88,5,0.2,-26.61,C2110,Consumer,2023-09
+SO103907,2023-05-23,West,Furniture,Bookcases,188.31,1,0.0,-35.5,C2500,Consumer,2023-05
+SO103913,2024-04-18,North,Office Supplies,Storage,132.87,1,0.3,-3.34,C4434,Consumer,2024-04
+SO103917,2023-10-17,West,Furniture,Chairs,165.98,4,0.0,-19.25,C5487,Consumer,2023-10
+SO103919,2025-01-30,South,Technology,Machines,35.52,2,0.0,-5.66,C8231,Home Office,2025-01
+SO103923,2025-05-22,North,Furniture,Bookcases,149.8,1,0.0,-7.52,C3237,Home Office,2025-05
+SO103924,2023-09-11,West,Office Supplies,Pens,290.77,5,0.05,-18.17,C2564,Consumer,2023-09
+SO103926,2023-08-23,West,Office Supplies,Paper,299.22,2,0.2,-56.25,C6183,Corporate,2023-08
+SO103929,2023-05-09,West,Office Supplies,Pens,337.16,5,0.0,-49.39,C3693,Consumer,2023-05
+SO103930,2023-04-24,West,Technology,Phones,90.5,1,0.0,-4.34,C9553,Consumer,2023-04
+SO103933,2023-03-11,South,Furniture,Chairs,92.87,2,0.05,-6.91,C7962,Corporate,2023-03
+SO103935,2024-03-07,South,Office Supplies,Storage,364.26,1,0.0,-1.16,C6013,Consumer,2024-03
+SO103937,2024-06-14,South,Office Supplies,Pens,37.82,1,0.0,-2.08,C1946,Consumer,2024-06
+SO103940,2024-08-03,East,Furniture,Tables,333.89,3,0.0,-20.08,C6312,Consumer,2024-08
+SO103941,2023-07-15,North,Office Supplies,Pens,132.87,3,0.3,-7.6,C1916,Consumer,2023-07
+SO103947,2023-03-07,North,Office Supplies,Storage,359.85,4,0.0,-35.15,C2446,Corporate,2023-03
+SO103948,2024-12-22,West,Technology,Phones,204.91,2,0.0,-40.54,C4018,Consumer,2024-12
+SO103950,2024-05-04,West,Office Supplies,Paper,581.18,5,0.0,-59.77,C4975,Consumer,2024-05
+SO103951,2023-11-03,North,Office Supplies,Paper,343.36,5,0.0,-59.54,C3407,Home Office,2023-11
+SO103953,2023-04-29,North,Furniture,Tables,82.64,2,0.0,-12.4,C9861,Home Office,2023-04
+SO103957,2024-04-07,South,Office Supplies,Pens,72.02,3,0.0,-9.81,C7892,Consumer,2024-04
+SO103960,2025-01-04,East,Technology,Phones,171.91,2,0.05,-9.26,C9634,Consumer,2025-01
+SO103963,2024-11-10,North,Furniture,Chairs,115.29,1,0.2,-8.64,C6257,Consumer,2024-11
+SO103967,2024-07-04,East,Furniture,Bookcases,538.13,3,0.0,-8.55,C3926,Home Office,2024-07
+SO103969,2023-03-27,East,Technology,Machines,520.31,2,0.0,-66.89,C8306,Consumer,2023-03
+SO103970,2023-08-12,North,Furniture,Tables,86.94,4,0.1,-7.14,C2679,Consumer,2023-08
+SO103975,2023-11-02,West,Furniture,Chairs,471.74,4,0.0,-24.78,C1484,Consumer,2023-11
+SO103978,2023-10-13,North,Furniture,Chairs,291.05,3,0.05,-23.0,C9568,Consumer,2023-10
+SO103979,2023-04-16,North,Furniture,Bookcases,189.9,2,0.0,-29.97,C4446,Consumer,2023-04
+SO103982,2024-04-07,South,Office Supplies,Pens,100.31,5,0.0,-12.56,C9468,Consumer,2024-04
+SO103983,2023-02-11,South,Office Supplies,Pens,54.33,1,0.1,-5.49,C9757,Home Office,2023-02
+SO103988,2024-12-30,East,Furniture,Bookcases,18.56,3,0.0,-0.57,C3967,Consumer,2024-12
+SO103989,2023-07-17,West,Office Supplies,Paper,88.61,4,0.0,-13.85,C8660,Consumer,2023-07
+SO103991,2025-01-09,East,Office Supplies,Storage,48.12,2,0.2,-5.55,C5787,Corporate,2025-01
+SO103992,2023-02-16,East,Office Supplies,Storage,231.82,5,0.1,-10.78,C9220,Corporate,2023-02
+SO103993,2025-03-23,West,Technology,Copiers,367.94,2,0.0,-7.93,C6463,Consumer,2025-03
+SO103994,2025-02-26,South,Furniture,Bookcases,498.93,1,0.1,-58.27,C2331,Corporate,2025-02
+SO104000,2025-01-08,North,Office Supplies,Pens,125.22,3,0.05,-24.42,C3706,Home Office,2025-01
+SO104003,2025-02-01,South,Office Supplies,Storage,42.21,4,0.0,-3.33,C5220,Corporate,2025-02
+SO104004,2023-02-19,South,Office Supplies,Pens,416.35,1,0.0,-9.71,C3866,Home Office,2023-02
+SO104011,2024-05-29,South,Office Supplies,Paper,286.49,1,0.0,-0.62,C6770,Consumer,2024-05
+SO104019,2024-09-09,North,Technology,Accessories,96.38,1,0.05,-11.93,C9764,Corporate,2024-09
+SO104032,2025-02-13,North,Office Supplies,Paper,143.32,2,0.0,-5.32,C6749,Consumer,2025-02
+SO104036,2023-07-15,North,Furniture,Tables,298.75,5,0.0,-37.85,C1101,Consumer,2023-07
+SO104037,2024-11-03,South,Furniture,Bookcases,295.75,3,0.0,-14.81,C7073,Corporate,2024-11
+SO104043,2025-01-02,South,Office Supplies,Paper,646.27,1,0.3,-126.0,C9295,Home Office,2025-01
+SO104045,2024-06-19,North,Office Supplies,Binders,233.49,4,0.0,-30.71,C8352,Consumer,2024-06
+SO104047,2023-05-24,East,Office Supplies,Binders,79.58,4,0.0,-0.29,C2206,Corporate,2023-05
+SO104049,2023-01-05,South,Technology,Machines,787.45,5,0.0,-8.96,C8640,Home Office,2023-01
+SO104052,2024-04-23,South,Technology,Phones,182.01,4,0.1,-5.23,C8563,Small Business,2024-04
+SO104053,2024-04-09,West,Office Supplies,Paper,123.03,5,0.0,-1.46,C6501,Corporate,2024-04
+SO104058,2025-04-29,North,Office Supplies,Pens,58.38,1,0.05,-2.72,C9683,Consumer,2025-04
+SO104060,2025-04-26,South,Office Supplies,Storage,187.47,5,0.1,-23.54,C5751,Corporate,2025-04
+SO104063,2025-06-15,West,Furniture,Chairs,386.18,2,0.05,-77.69,C5259,Consumer,2025-06
+SO104067,2025-05-08,West,Office Supplies,Storage,226.29,3,0.0,-40.34,C5662,Small Business,2025-05
+SO104069,2023-07-04,East,Office Supplies,Paper,277.14,4,0.05,-52.98,C2601,Consumer,2023-07
+SO104070,2024-04-10,South,Furniture,Tables,395.16,5,0.3,-26.56,C8875,Corporate,2024-04
+SO104072,2025-06-02,South,Office Supplies,Paper,89.54,4,0.0,-2.24,C1368,Corporate,2025-06
+SO104078,2024-06-30,East,Office Supplies,Storage,92.26,2,0.0,-15.63,C9025,Consumer,2024-06
+SO104079,2024-03-07,West,Office Supplies,Paper,40.07,5,0.05,-2.43,C5172,Consumer,2024-03
+SO104083,2023-08-23,East,Office Supplies,Pens,89.55,1,0.0,-14.93,C1798,Corporate,2023-08
+SO104086,2023-10-10,West,Office Supplies,Paper,24.67,1,0.0,-3.57,C6510,Home Office,2023-10
+SO104091,2024-12-07,East,Furniture,Chairs,341.58,3,0.1,-69.94,C5028,Consumer,2024-12
+SO104095,2025-03-28,West,Office Supplies,Paper,146.06,5,0.2,-18.57,C5620,Consumer,2025-03
+SO104102,2024-03-21,East,Office Supplies,Binders,327.55,2,0.0,-41.86,C6797,Home Office,2024-03
+SO104104,2025-03-11,South,Office Supplies,Binders,212.33,3,0.0,-22.82,C4212,Home Office,2025-03
+SO104108,2024-08-26,North,Office Supplies,Paper,313.19,5,0.1,-16.68,C3281,Home Office,2024-08
+SO104109,2024-12-14,North,Furniture,Chairs,106.07,3,0.0,-13.03,C9875,Home Office,2024-12
+SO104110,2023-04-15,North,Technology,Copiers,63.08,2,0.0,-4.48,C3977,Consumer,2023-04
+SO104117,2025-06-05,South,Furniture,Bookcases,257.59,3,0.05,-9.7,C2745,Consumer,2025-06
+SO104122,2023-03-08,South,Office Supplies,Paper,86.61,4,0.0,-11.46,C1728,Consumer,2023-03
+SO104124,2023-08-27,North,Technology,Accessories,538.59,3,0.0,-10.18,C8173,Consumer,2023-08
+SO104126,2023-08-26,West,Office Supplies,Pens,43.94,5,0.2,-6.99,C1504,Consumer,2023-08
+SO104128,2024-04-29,North,Office Supplies,Pens,276.87,3,0.1,-32.98,C1397,Consumer,2024-04
+SO104129,2024-02-15,North,Technology,Accessories,210.78,2,0.0,-32.78,C3653,Corporate,2024-02
+SO104131,2024-02-28,South,Technology,Machines,217.05,5,0.1,-21.62,C8747,Consumer,2024-02
+SO104135,2024-08-17,East,Office Supplies,Paper,261.56,3,0.3,-14.0,C1701,Consumer,2024-08
+SO104138,2024-04-28,West,Office Supplies,Pens,160.83,2,0.05,-18.8,C8052,Consumer,2024-04
+SO104141,2024-09-09,North,Furniture,Chairs,184.45,5,0.0,-18.4,C5135,Corporate,2024-09
+SO104153,2024-03-27,North,Office Supplies,Pens,108.3,1,0.0,-9.02,C6169,Consumer,2024-03
+SO104158,2024-06-20,North,Office Supplies,Storage,50.99,4,0.05,-1.1,C7741,Corporate,2024-06
+SO104159,2024-07-27,West,Technology,Copiers,119.86,3,0.05,-5.57,C7479,Home Office,2024-07
+SO104162,2024-10-22,West,Furniture,Bookcases,190.9,3,0.2,-29.38,C8519,Consumer,2024-10
+SO104171,2024-01-03,East,Furniture,Tables,47.91,1,0.1,-5.42,C8933,Small Business,2024-01
+SO104172,2024-10-29,West,Furniture,Tables,208.1,4,0.0,-23.96,C6976,Corporate,2024-10
+SO104175,2023-03-31,East,Technology,Accessories,279.07,1,0.0,-35.98,C1802,Consumer,2023-03
+SO104178,2023-04-07,West,Furniture,Chairs,44.83,2,0.0,-1.24,C8576,Corporate,2023-04
+SO104179,2023-07-08,South,Furniture,Tables,289.65,4,0.0,-43.41,C8846,Consumer,2023-07
+SO104182,2023-09-04,South,Office Supplies,Binders,138.1,2,0.0,-23.46,C4641,Consumer,2023-09
+SO104183,2024-02-23,East,Office Supplies,Paper,37.17,5,0.05,-2.37,C4850,Consumer,2024-02
+SO104186,2023-06-15,East,Office Supplies,Pens,95.06,2,0.0,-9.32,C1091,Consumer,2023-06
+SO104189,2023-03-17,North,Office Supplies,Pens,128.47,4,0.1,-15.72,C7192,Consumer,2023-03
+SO104190,2024-01-18,West,Furniture,Chairs,43.18,4,0.1,-0.3,C4923,Consumer,2024-01
+SO104194,2025-04-12,South,Furniture,Tables,55.11,1,0.0,-6.54,C9697,Corporate,2025-04
+SO104196,2024-09-19,East,Office Supplies,Storage,443.51,5,0.0,-72.63,C5533,Corporate,2024-09
+SO104197,2024-06-10,South,Office Supplies,Paper,76.71,4,0.0,-6.93,C3205,Consumer,2024-06
+SO104199,2024-10-28,West,Office Supplies,Storage,186.71,3,0.05,-28.18,C2317,Consumer,2024-10
+SO104200,2025-05-29,East,Furniture,Bookcases,283.18,1,0.0,-32.94,C7235,Consumer,2025-05
+SO104201,2023-01-16,West,Office Supplies,Paper,189.58,2,0.05,-27.99,C3474,Consumer,2023-01
+SO104202,2023-03-23,North,Furniture,Bookcases,42.29,5,0.0,-1.01,C9381,Consumer,2023-03
+SO104207,2024-03-09,West,Technology,Accessories,249.67,1,0.0,-47.94,C2189,Corporate,2024-03
+SO104214,2024-07-26,North,Technology,Phones,630.59,4,0.0,-59.39,C2556,Consumer,2024-07
+SO104226,2024-07-22,West,Technology,Accessories,15.68,2,0.0,-2.89,C9245,Consumer,2024-07
+SO104227,2023-05-03,South,Furniture,Tables,187.6,5,0.0,-14.57,C2042,Small Business,2023-05
+SO104230,2025-06-14,North,Office Supplies,Storage,48.94,2,0.2,-1.45,C3756,Consumer,2025-06
+SO104234,2025-04-22,North,Furniture,Chairs,198.07,4,0.0,-39.47,C8862,Consumer,2025-04
+SO104242,2023-03-19,East,Technology,Machines,431.08,4,0.0,-79.13,C3694,Consumer,2023-03
+SO104248,2023-05-27,South,Office Supplies,Binders,124.69,5,0.05,-12.04,C6304,Small Business,2023-05
+SO104250,2024-05-21,West,Technology,Machines,576.11,1,0.0,-17.67,C1198,Consumer,2024-05
+SO104251,2025-04-06,South,Office Supplies,Binders,99.53,4,0.1,-20.14,C4693,Small Business,2025-04
+SO104252,2024-09-27,North,Technology,Phones,82.22,5,0.1,-12.43,C8062,Corporate,2024-09
+SO104253,2023-03-17,North,Technology,Copiers,143.24,5,0.0,-25.99,C6474,Corporate,2023-03
+SO104254,2023-09-26,West,Furniture,Chairs,177.08,2,0.0,-15.76,C9741,Home Office,2023-09
+SO104258,2023-11-02,South,Office Supplies,Pens,296.11,5,0.0,-16.3,C9472,Home Office,2023-11
+SO104264,2024-02-27,North,Technology,Phones,77.29,1,0.0,-10.75,C1878,Small Business,2024-02
+SO104265,2023-03-28,East,Technology,Phones,952.73,4,0.1,-97.32,C4609,Consumer,2023-03
+SO104267,2024-05-07,East,Office Supplies,Paper,262.01,1,0.0,-39.01,C8199,Home Office,2024-05
+SO104272,2024-04-19,North,Furniture,Bookcases,206.44,5,0.1,-17.98,C1153,Home Office,2024-04
+SO104275,2023-04-18,North,Office Supplies,Paper,47.73,4,0.3,-13.69,C1718,Consumer,2023-04
+SO104277,2024-09-22,East,Furniture,Bookcases,40.19,4,0.0,-1.69,C5831,Home Office,2024-09
+SO104278,2024-05-29,East,Office Supplies,Paper,153.77,4,0.0,-2.92,C6591,Corporate,2024-05
+SO104280,2024-12-16,South,Office Supplies,Paper,142.2,3,0.05,-14.3,C6740,Consumer,2024-12
+SO104283,2023-08-12,East,Office Supplies,Storage,96.41,2,0.2,-6.23,C5828,Consumer,2023-08
+SO104285,2025-04-20,South,Furniture,Chairs,189.06,1,0.05,-3.13,C1195,Consumer,2025-04
+SO104286,2024-12-04,North,Office Supplies,Storage,48.64,5,0.0,-5.73,C3449,Consumer,2024-12
+SO104290,2024-10-29,North,Office Supplies,Binders,92.93,4,0.0,-17.55,C1092,Corporate,2024-10
+SO104293,2023-06-14,West,Furniture,Chairs,236.27,1,0.0,-34.75,C7692,Consumer,2023-06
+SO104294,2024-12-23,West,Office Supplies,Binders,199.9,2,0.05,-16.17,C1598,Home Office,2024-12
+SO104296,2024-01-26,South,Office Supplies,Pens,47.61,2,0.0,-6.31,C5439,Consumer,2024-01
+SO104297,2025-03-17,East,Furniture,Chairs,203.32,3,0.05,-5.32,C2808,Consumer,2025-03
+SO104302,2025-05-26,West,Office Supplies,Storage,46.84,1,0.0,-3.86,C1351,Consumer,2025-05
+SO104304,2024-11-17,West,Office Supplies,Binders,76.75,3,0.0,-12.31,C8007,Consumer,2024-11
+SO104308,2023-02-23,East,Office Supplies,Paper,512.89,4,0.05,-73.28,C5538,Corporate,2023-02
+SO104311,2023-06-21,West,Office Supplies,Paper,413.32,1,0.0,-57.57,C4583,Small Business,2023-06
+SO104314,2024-05-28,East,Technology,Accessories,210.92,1,0.05,-24.47,C6416,Consumer,2024-05
+SO104315,2024-04-30,South,Office Supplies,Paper,210.55,3,0.0,-19.63,C6399,Consumer,2024-04
+SO104317,2023-09-20,East,Office Supplies,Binders,62.67,1,0.0,-12.46,C8129,Corporate,2023-09
+SO104320,2024-06-27,West,Furniture,Tables,39.09,3,0.1,-2.45,C6202,Consumer,2024-06
+SO104322,2024-05-03,South,Technology,Accessories,382.95,1,0.0,-70.78,C6253,Consumer,2024-05
+SO104323,2025-04-28,North,Office Supplies,Binders,84.05,3,0.1,-11.41,C2743,Corporate,2025-04
+SO104325,2024-03-03,East,Technology,Phones,444.32,2,0.2,-14.83,C8427,Corporate,2024-03
+SO104327,2024-07-02,South,Furniture,Tables,225.88,3,0.0,-10.75,C8479,Corporate,2024-07
+SO104329,2023-12-05,West,Office Supplies,Binders,80.82,3,0.2,-4.43,C2261,Consumer,2023-12
+SO104331,2024-10-10,North,Furniture,Tables,560.83,4,0.0,-7.5,C1107,Consumer,2024-10
+SO104332,2024-05-29,South,Technology,Copiers,80.17,1,0.0,-1.04,C7898,Home Office,2024-05
+SO104333,2025-02-26,East,Furniture,Chairs,27.63,1,0.0,-2.56,C6344,Consumer,2025-02
+SO104334,2023-11-15,West,Office Supplies,Paper,107.26,3,0.0,-2.64,C2022,Consumer,2023-11
+SO104337,2025-03-04,West,Furniture,Bookcases,625.22,3,0.0,-61.0,C4693,Home Office,2025-03
+SO104343,2025-05-22,North,Office Supplies,Storage,128.56,2,0.0,-11.56,C8342,Consumer,2025-05
+SO104346,2024-03-30,East,Technology,Accessories,319.99,4,0.0,-51.85,C1750,Corporate,2024-03
+SO104347,2023-02-17,North,Office Supplies,Pens,81.91,1,0.05,-8.96,C2604,Consumer,2023-02
+SO104349,2023-02-01,West,Office Supplies,Binders,62.3,3,0.05,-4.54,C7878,Small Business,2023-02
+SO104350,2023-09-09,North,Furniture,Tables,58.11,5,0.05,-11.12,C4333,Corporate,2023-09
+SO104351,2024-06-29,South,Office Supplies,Storage,60.15,4,0.0,-5.52,C3676,Consumer,2024-06
+SO104356,2023-08-28,West,Office Supplies,Storage,415.83,3,0.05,-49.75,C8625,Consumer,2023-08
+SO104357,2023-07-04,North,Technology,Phones,218.54,1,0.05,-0.03,C5748,Consumer,2023-07
+SO104361,2023-09-08,West,Furniture,Bookcases,57.03,5,0.0,-7.59,C7105,Home Office,2023-09
+SO104363,2025-03-15,East,Technology,Copiers,214.38,2,0.05,-34.79,C7533,Consumer,2025-03
+SO104367,2023-11-30,West,Office Supplies,Paper,900.19,5,0.05,-108.16,C3943,Home Office,2023-11
+SO104369,2023-06-23,West,Furniture,Chairs,414.32,5,0.0,-5.9,C5366,Consumer,2023-06
+SO104372,2023-01-08,East,Office Supplies,Pens,237.58,5,0.05,-13.45,C4857,Consumer,2023-01
+SO104374,2024-10-03,East,Furniture,Tables,63.86,3,0.05,-8.11,C9597,Home Office,2024-10
+SO104376,2023-01-04,South,Office Supplies,Storage,409.51,1,0.0,-5.68,C3489,Small Business,2023-01
+SO104377,2025-03-25,South,Technology,Accessories,107.95,1,0.2,-17.76,C3489,Corporate,2025-03
+SO104379,2024-10-08,East,Furniture,Chairs,230.76,2,0.1,-7.52,C1235,Consumer,2024-10
+SO104382,2024-08-19,North,Office Supplies,Paper,65.64,3,0.0,-5.21,C3132,Consumer,2024-08
+SO104386,2023-03-23,North,Office Supplies,Storage,65.77,1,0.0,-8.94,C9902,Consumer,2023-03
+SO104394,2023-05-06,West,Office Supplies,Pens,247.78,1,0.05,-33.67,C1541,Corporate,2023-05
+SO104395,2023-09-08,North,Technology,Accessories,70.53,3,0.0,-4.78,C7233,Corporate,2023-09
+SO104400,2025-01-24,West,Office Supplies,Binders,136.45,1,0.3,-19.78,C9224,Corporate,2025-01
+SO104401,2024-03-10,North,Office Supplies,Binders,37.1,5,0.0,-4.25,C9519,Corporate,2024-03
+SO104408,2023-04-23,South,Office Supplies,Storage,117.26,1,0.0,-6.99,C4932,Consumer,2023-04
+SO104410,2025-01-06,North,Technology,Copiers,945.53,1,0.05,-64.23,C3920,Consumer,2025-01
+SO104414,2025-01-06,South,Office Supplies,Paper,594.44,3,0.2,-74.96,C8937,Consumer,2025-01
+SO104415,2023-02-13,East,Office Supplies,Paper,147.45,5,0.0,-11.96,C3870,Corporate,2023-02
+SO104418,2023-08-15,South,Office Supplies,Storage,254.29,5,0.2,-11.91,C3322,Corporate,2023-08
+SO104421,2025-03-25,South,Office Supplies,Pens,245.42,3,0.05,-15.67,C1612,Corporate,2025-03
+SO104422,2025-03-16,South,Furniture,Chairs,74.6,5,0.0,-3.32,C2654,Consumer,2025-03
+SO104425,2024-11-15,North,Technology,Phones,347.32,4,0.0,-64.27,C9109,Corporate,2024-11
+SO104429,2023-08-06,West,Furniture,Chairs,134.08,3,0.1,-26.67,C6273,Corporate,2023-08
+SO104431,2024-09-14,East,Furniture,Bookcases,350.91,4,0.0,-34.8,C4084,Consumer,2024-09
+SO104433,2024-05-27,West,Furniture,Tables,152.01,5,0.0,-11.65,C3963,Consumer,2024-05
+SO104434,2023-04-21,South,Technology,Phones,311.4,4,0.05,-55.76,C7967,Corporate,2023-04
+SO104439,2023-09-17,South,Office Supplies,Pens,235.05,5,0.0,-46.51,C4485,Consumer,2023-09
+SO104446,2025-03-26,West,Office Supplies,Storage,360.93,5,0.0,-0.14,C3868,Consumer,2025-03
+SO104448,2023-09-04,West,Technology,Machines,91.03,1,0.0,-3.55,C9949,Corporate,2023-09
+SO104450,2023-01-30,North,Furniture,Tables,558.08,4,0.0,-80.34,C7952,Consumer,2023-01
+SO104453,2023-05-02,North,Office Supplies,Storage,62.93,3,0.0,-0.2,C4423,Consumer,2023-05
+SO104454,2023-03-19,East,Furniture,Tables,302.48,4,0.0,-55.93,C1408,Consumer,2023-03
+SO104455,2023-09-09,South,Technology,Copiers,44.26,1,0.1,-7.03,C2023,Home Office,2023-09
+SO104460,2023-10-05,North,Technology,Phones,41.41,4,0.0,-4.67,C7958,Consumer,2023-10
+SO104477,2025-06-09,North,Office Supplies,Paper,90.85,2,0.1,-2.52,C7443,Consumer,2025-06
+SO104482,2024-09-18,East,Furniture,Chairs,367.72,5,0.0,-48.59,C5244,Consumer,2024-09
+SO104486,2025-01-09,West,Office Supplies,Paper,88.93,2,0.0,-0.67,C3868,Consumer,2025-01
+SO104489,2024-03-11,West,Furniture,Chairs,259.4,1,0.0,-49.59,C5817,Consumer,2024-03
+SO104491,2025-02-03,West,Office Supplies,Storage,42.91,4,0.0,-5.96,C3135,Consumer,2025-02
+SO104499,2024-02-24,East,Office Supplies,Storage,146.02,2,0.0,-22.49,C3705,Consumer,2024-02
+SO104504,2023-07-17,South,Technology,Phones,117.91,4,0.0,-4.03,C5768,Home Office,2023-07
+SO104509,2023-07-25,West,Office Supplies,Storage,93.99,4,0.2,-5.25,C6448,Consumer,2023-07
+SO104511,2024-03-02,East,Office Supplies,Pens,396.3,1,0.0,-4.48,C7765,Consumer,2024-03
+SO104512,2024-10-12,North,Office Supplies,Storage,120.05,3,0.0,-22.85,C5068,Consumer,2024-10
+SO104513,2023-11-18,North,Office Supplies,Pens,196.22,3,0.2,-30.27,C4338,Consumer,2023-11
+SO104516,2024-11-24,South,Office Supplies,Storage,142.32,2,0.3,-25.83,C5184,Small Business,2024-11
+SO104519,2024-06-09,South,Technology,Machines,15.77,4,0.3,-3.01,C7335,Consumer,2024-06
+SO104521,2023-05-15,West,Technology,Machines,162.98,2,0.0,-1.13,C8431,Consumer,2023-05
+SO104523,2023-04-29,West,Office Supplies,Storage,354.77,5,0.0,-8.54,C9734,Home Office,2023-04
+SO104524,2024-12-24,North,Technology,Copiers,116.72,1,0.2,-19.59,C5840,Consumer,2024-12
+SO104532,2024-02-26,South,Furniture,Tables,568.71,5,0.0,-32.18,C7697,Consumer,2024-02
+SO104537,2023-06-23,West,Office Supplies,Binders,327.19,1,0.0,-48.22,C7383,Corporate,2023-06
+SO104540,2024-02-03,South,Technology,Copiers,61.98,2,0.05,-0.3,C5569,Corporate,2024-02
+SO104542,2023-03-23,North,Office Supplies,Binders,480.64,1,0.0,-8.88,C7306,Consumer,2023-03
+SO104545,2023-04-15,West,Office Supplies,Storage,104.85,5,0.0,-11.39,C3978,Consumer,2023-04
+SO104546,2024-03-03,North,Office Supplies,Storage,456.1,4,0.0,-5.97,C1442,Home Office,2024-03
+SO104548,2024-07-28,North,Office Supplies,Paper,78.29,1,0.0,-15.57,C5744,Consumer,2024-07
+SO104549,2023-01-26,West,Office Supplies,Binders,37.71,4,0.1,-4.08,C1682,Consumer,2023-01
+SO104552,2024-04-01,South,Office Supplies,Paper,36.61,2,0.0,-5.92,C7801,Consumer,2024-04
+SO104553,2024-11-13,South,Technology,Accessories,120.68,5,0.0,-4.9,C7425,Consumer,2024-11
+SO104557,2024-03-13,South,Technology,Accessories,139.08,4,0.0,-6.17,C4662,Small Business,2024-03
+SO104558,2024-11-03,North,Technology,Copiers,260.68,3,0.1,-36.58,C7339,Consumer,2024-11
+SO104563,2024-09-04,North,Technology,Copiers,253.29,1,0.0,-30.23,C7947,Consumer,2024-09
+SO104564,2024-03-11,East,Technology,Machines,82.28,1,0.0,-8.03,C7753,Corporate,2024-03
+SO104567,2024-05-02,North,Office Supplies,Paper,71.96,3,0.0,-13.52,C8216,Consumer,2024-05
+SO104580,2023-02-11,South,Furniture,Tables,250.36,4,0.2,-38.79,C7615,Home Office,2023-02
+SO104582,2024-10-17,West,Furniture,Bookcases,608.21,5,0.0,-65.62,C1709,Consumer,2024-10
+SO104583,2025-01-03,East,Office Supplies,Binders,84.77,4,0.3,-11.7,C3989,Consumer,2025-01
+SO104584,2024-01-11,West,Office Supplies,Storage,275.68,3,0.1,-43.02,C3013,Home Office,2024-01
+SO104592,2025-05-25,North,Furniture,Tables,79.24,4,0.0,-11.02,C1562,Consumer,2025-05
+SO104597,2023-07-14,South,Office Supplies,Storage,277.44,5,0.0,-35.84,C4520,Consumer,2023-07
+SO104606,2024-05-05,North,Furniture,Tables,146.35,3,0.0,-7.83,C7717,Consumer,2024-05
+SO104616,2023-09-17,East,Furniture,Chairs,222.86,1,0.1,-34.96,C5598,Consumer,2023-09
+SO104618,2024-12-10,West,Technology,Machines,72.44,4,0.2,-14.91,C5037,Consumer,2024-12
+SO104619,2023-12-11,East,Technology,Accessories,211.18,2,0.0,-27.75,C8081,Consumer,2023-12
+SO104634,2025-05-07,North,Furniture,Chairs,86.41,4,0.0,-3.26,C8003,Consumer,2025-05
+SO104636,2025-05-05,East,Office Supplies,Paper,68.15,3,0.0,-1.94,C9444,Home Office,2025-05
+SO104646,2023-02-21,West,Office Supplies,Paper,37.14,1,0.2,-8.64,C6336,Corporate,2023-02
+SO104650,2024-10-17,West,Office Supplies,Binders,135.93,5,0.0,-4.8,C9743,Consumer,2024-10
+SO104653,2024-09-12,West,Office Supplies,Binders,91.67,2,0.0,-8.76,C3822,Consumer,2024-09
+SO104659,2023-09-11,East,Office Supplies,Storage,376.71,1,0.2,-14.45,C9045,Home Office,2023-09
+SO104663,2023-02-06,East,Technology,Phones,199.35,3,0.0,-38.42,C9866,Corporate,2023-02
+SO104664,2023-09-18,South,Technology,Machines,200.8,3,0.05,-37.16,C3830,Consumer,2023-09
+SO104668,2023-05-20,North,Furniture,Bookcases,326.45,5,0.0,-51.46,C7033,Home Office,2023-05
+SO104669,2023-10-26,North,Office Supplies,Paper,424.39,4,0.05,-31.66,C3158,Consumer,2023-10
+SO104670,2025-03-01,North,Furniture,Bookcases,133.18,1,0.2,-26.44,C7338,Home Office,2025-03
+SO104671,2024-05-20,West,Technology,Machines,64.13,5,0.05,-6.07,C4601,Corporate,2024-05
+SO104673,2025-03-07,East,Office Supplies,Pens,90.97,5,0.0,-14.05,C7506,Consumer,2025-03
+SO104676,2024-02-21,East,Furniture,Bookcases,329.19,3,0.05,-16.8,C2280,Consumer,2024-02
+SO104677,2024-03-18,South,Furniture,Chairs,46.61,4,0.1,-11.13,C6451,Home Office,2024-03
+SO104683,2023-07-21,East,Furniture,Tables,114.75,4,0.1,-13.04,C6710,Consumer,2023-07
+SO104684,2023-05-10,South,Office Supplies,Pens,184.37,2,0.0,-16.29,C4321,Consumer,2023-05
+SO104685,2023-02-03,West,Office Supplies,Binders,113.04,3,0.0,-8.85,C2572,Consumer,2023-02
+SO104692,2024-02-04,West,Office Supplies,Pens,53.44,3,0.1,-3.44,C3280,Corporate,2024-02
+SO104697,2025-02-27,East,Office Supplies,Binders,104.67,5,0.2,-13.4,C3498,Consumer,2025-02
+SO104698,2023-05-13,North,Office Supplies,Paper,95.16,5,0.2,-21.4,C9885,Corporate,2023-05
+SO104699,2023-10-07,West,Furniture,Tables,176.93,2,0.0,-1.29,C7218,Corporate,2023-10
+SO104700,2024-02-14,West,Office Supplies,Paper,312.85,5,0.0,-8.67,C7613,Corporate,2024-02
+SO104701,2023-10-30,East,Office Supplies,Pens,270.37,5,0.0,-22.2,C5801,Home Office,2023-10
+SO104703,2023-01-26,South,Office Supplies,Paper,340.25,4,0.0,-28.81,C5757,Home Office,2023-01
+SO104706,2023-01-12,North,Furniture,Tables,39.29,3,0.0,-7.04,C2360,Consumer,2023-01
+SO104708,2023-02-23,South,Office Supplies,Pens,169.62,5,0.0,-18.38,C1518,Corporate,2023-02
+SO104715,2024-01-31,South,Furniture,Chairs,440.87,4,0.0,-35.7,C1175,Corporate,2024-01
+SO104717,2025-03-05,South,Technology,Copiers,859.51,5,0.0,-140.98,C1440,Corporate,2025-03
+SO104718,2024-05-14,North,Furniture,Tables,63.73,1,0.0,-6.15,C8729,Consumer,2024-05
+SO104721,2025-05-26,North,Furniture,Bookcases,208.49,5,0.0,-8.62,C2318,Corporate,2025-05
+SO104724,2024-07-03,South,Technology,Accessories,205.48,3,0.0,-29.51,C7794,Corporate,2024-07
+SO104725,2023-10-30,North,Furniture,Tables,145.55,1,0.0,-18.49,C8168,Consumer,2023-10
+SO104731,2025-04-24,South,Technology,Copiers,224.58,5,0.1,-28.71,C5522,Consumer,2025-04
+SO104732,2023-07-19,North,Office Supplies,Storage,159.72,4,0.2,-30.93,C1903,Consumer,2023-07
+SO104734,2024-03-10,North,Technology,Accessories,43.06,5,0.1,-6.17,C5431,Home Office,2024-03
+SO104735,2023-02-01,West,Furniture,Chairs,370.46,4,0.0,-73.71,C9702,Consumer,2023-02
+SO104736,2025-03-02,East,Office Supplies,Storage,344.2,3,0.0,-7.16,C2576,Consumer,2025-03
+SO104739,2023-06-17,South,Technology,Phones,73.78,2,0.0,-9.34,C1061,Consumer,2023-06
+SO104745,2024-04-08,North,Office Supplies,Binders,88.37,5,0.0,-16.75,C5053,Home Office,2024-04
+SO104747,2024-11-08,East,Technology,Machines,396.49,4,0.1,-28.98,C9983,Consumer,2024-11
+SO104748,2024-03-13,West,Office Supplies,Storage,122.79,3,0.0,-17.14,C7613,Consumer,2024-03
+SO104749,2024-08-25,South,Furniture,Tables,853.73,5,0.0,-151.79,C7832,Consumer,2024-08
+SO104752,2025-03-13,West,Technology,Machines,239.0,4,0.0,-7.26,C2119,Corporate,2025-03
+SO104754,2023-12-01,South,Office Supplies,Pens,98.32,3,0.1,-2.13,C5667,Consumer,2023-12
+SO104761,2023-12-07,East,Office Supplies,Paper,36.72,3,0.0,-0.71,C4157,Consumer,2023-12
+SO104765,2023-03-21,East,Office Supplies,Pens,63.5,2,0.0,-5.7,C4011,Consumer,2023-03
+SO104769,2024-02-27,North,Furniture,Bookcases,233.38,3,0.0,-13.71,C9684,Consumer,2024-02
+SO104774,2023-09-14,North,Furniture,Chairs,138.28,5,0.2,-21.58,C1284,Corporate,2023-09
+SO104775,2023-03-29,West,Furniture,Tables,71.97,1,0.1,-10.97,C6190,Consumer,2023-03
+SO104776,2023-10-28,West,Office Supplies,Binders,370.11,2,0.0,-11.86,C2818,Consumer,2023-10
+SO104781,2023-05-11,North,Office Supplies,Storage,163.37,3,0.0,-16.9,C8282,Corporate,2023-05
+SO104784,2024-09-29,North,Office Supplies,Binders,101.71,4,0.0,-14.59,C5665,Consumer,2024-09
+SO104787,2023-10-07,West,Furniture,Tables,71.54,2,0.1,-12.12,C2841,Consumer,2023-10
+SO104789,2024-02-19,North,Technology,Machines,83.88,2,0.05,-10.1,C1167,Consumer,2024-02
+SO104793,2024-07-21,West,Office Supplies,Storage,60.86,1,0.1,-5.12,C2166,Consumer,2024-07
+SO104795,2025-02-23,West,Technology,Accessories,174.6,5,0.0,-9.02,C8406,Corporate,2025-02
+SO104799,2024-11-19,East,Furniture,Bookcases,358.59,4,0.0,-36.74,C5777,Corporate,2024-11
+SO104801,2023-02-07,North,Furniture,Tables,569.6,4,0.0,-67.26,C2000,Corporate,2023-02
+SO104806,2023-04-04,North,Office Supplies,Paper,62.01,4,0.05,-7.76,C5840,Small Business,2023-04
+SO104807,2024-10-20,South,Office Supplies,Pens,492.84,2,0.05,-40.18,C7994,Consumer,2024-10
+SO104809,2024-07-10,East,Technology,Machines,58.97,2,0.0,-1.46,C2256,Consumer,2024-07
+SO104813,2023-12-04,North,Furniture,Bookcases,688.59,2,0.0,-16.4,C9239,Consumer,2023-12
+SO104818,2024-08-20,North,Office Supplies,Storage,148.9,1,0.1,-19.34,C3162,Home Office,2024-08
+SO104824,2023-04-20,North,Office Supplies,Pens,375.22,4,0.05,-33.63,C5963,Consumer,2023-04
+SO104829,2024-10-13,West,Technology,Accessories,89.56,1,0.0,-8.66,C2293,Consumer,2024-10
+SO104830,2023-09-18,East,Office Supplies,Binders,173.58,2,0.2,-7.84,C2306,Consumer,2023-09
+SO104833,2025-05-19,East,Office Supplies,Binders,208.04,1,0.0,-34.99,C1553,Consumer,2025-05
+SO104840,2023-07-27,West,Furniture,Tables,164.27,5,0.0,-16.96,C5139,Consumer,2023-07
+SO104841,2023-08-22,West,Office Supplies,Storage,121.54,1,0.0,-4.88,C9347,Corporate,2023-08
+SO104847,2025-05-29,West,Office Supplies,Pens,25.69,5,0.1,-4.03,C5324,Consumer,2025-05
+SO104848,2024-11-04,West,Furniture,Tables,327.3,2,0.0,-14.01,C2089,Consumer,2024-11
+SO104850,2024-09-24,West,Furniture,Tables,43.97,5,0.05,-5.84,C6043,Corporate,2024-09
+SO104852,2023-10-22,West,Office Supplies,Pens,61.6,1,0.0,-10.63,C7980,Consumer,2023-10
+SO104854,2024-11-24,North,Furniture,Tables,51.7,5,0.0,-8.87,C8369,Corporate,2024-11
+SO104855,2023-03-11,West,Technology,Copiers,90.78,4,0.0,-16.69,C6004,Consumer,2023-03
+SO104858,2023-02-24,North,Office Supplies,Storage,65.01,3,0.0,-5.31,C4240,Corporate,2023-02
+SO104860,2024-12-16,West,Office Supplies,Pens,875.87,5,0.0,-16.56,C4717,Consumer,2024-12
+SO104861,2025-04-17,East,Office Supplies,Paper,138.74,3,0.0,-23.19,C6746,Consumer,2025-04
+SO104863,2023-09-02,South,Office Supplies,Pens,155.01,5,0.1,-21.76,C9470,Consumer,2023-09
+SO104865,2025-05-17,South,Furniture,Bookcases,305.26,2,0.0,-43.15,C2992,Consumer,2025-05
+SO104867,2023-12-04,West,Technology,Phones,477.71,5,0.1,-10.66,C6408,Small Business,2023-12
+SO104871,2023-06-28,North,Furniture,Bookcases,83.99,1,0.1,-6.35,C5598,Consumer,2023-06
+SO104872,2024-10-22,South,Office Supplies,Paper,256.4,3,0.0,-1.82,C4230,Consumer,2024-10
+SO104874,2024-05-10,West,Furniture,Chairs,492.8,2,0.1,-98.55,C1455,Small Business,2024-05
+SO104878,2024-03-06,South,Office Supplies,Paper,579.83,5,0.0,-70.82,C1883,Consumer,2024-03
+SO104882,2023-12-02,South,Office Supplies,Binders,319.95,4,0.0,-2.38,C9089,Consumer,2023-12
+SO104886,2024-11-10,North,Office Supplies,Paper,181.48,5,0.1,-15.72,C6598,Consumer,2024-11
+SO104892,2023-11-10,East,Office Supplies,Storage,84.34,1,0.0,-2.64,C4331,Consumer,2023-11
+SO104893,2023-07-14,South,Office Supplies,Paper,27.1,4,0.1,-2.69,C7548,Corporate,2023-07
+SO104895,2023-09-11,North,Office Supplies,Binders,252.63,1,0.1,-46.72,C3069,Corporate,2023-09
+SO104904,2023-02-23,South,Furniture,Bookcases,48.4,2,0.0,-2.07,C7204,Consumer,2023-02
+SO104906,2025-01-20,West,Office Supplies,Pens,413.92,5,0.0,-75.82,C8638,Consumer,2025-01
+SO104913,2023-12-09,East,Office Supplies,Paper,647.24,4,0.1,-44.52,C2169,Corporate,2023-12
+SO104919,2025-03-05,East,Furniture,Tables,477.03,3,0.0,-26.68,C6414,Consumer,2025-03
+SO104920,2023-02-22,South,Office Supplies,Storage,170.06,2,0.0,-6.1,C2377,Consumer,2023-02
+SO104925,2023-04-03,West,Furniture,Bookcases,571.53,2,0.0,-79.67,C7355,Consumer,2023-04
+SO104928,2023-05-23,West,Technology,Phones,63.4,2,0.05,-10.29,C8328,Corporate,2023-05
+SO104930,2024-07-11,North,Office Supplies,Paper,222.53,1,0.0,-4.24,C9726,Consumer,2024-07
+SO104935,2023-11-23,North,Office Supplies,Storage,147.7,1,0.1,-8.58,C6016,Home Office,2023-11
+SO104936,2024-10-16,West,Office Supplies,Paper,20.89,3,0.0,-1.59,C6389,Home Office,2024-10
+SO104939,2025-01-18,North,Office Supplies,Pens,48.16,2,0.0,-0.91,C7262,Consumer,2025-01
+SO104940,2024-04-08,North,Office Supplies,Storage,128.41,1,0.05,-22.55,C8882,Consumer,2024-04
+SO104943,2024-05-02,South,Technology,Accessories,260.49,1,0.1,-17.73,C4721,Corporate,2024-05
+SO104946,2024-04-22,East,Furniture,Tables,73.38,4,0.05,-14.39,C8032,Consumer,2024-04
+SO104947,2024-10-12,West,Office Supplies,Binders,292.84,4,0.0,-12.59,C2774,Home Office,2024-10
+SO104949,2023-08-28,West,Office Supplies,Paper,135.45,2,0.0,-21.97,C8201,Small Business,2023-08
+SO104951,2024-03-11,South,Office Supplies,Pens,526.77,1,0.0,-0.25,C2750,Small Business,2024-03
+SO104954,2024-11-07,East,Furniture,Bookcases,211.59,5,0.0,-25.35,C1741,Corporate,2024-11
+SO104955,2024-02-11,South,Office Supplies,Pens,59.23,5,0.0,-9.38,C8741,Consumer,2024-02
+SO104958,2023-07-06,North,Office Supplies,Paper,62.22,2,0.1,-6.02,C9917,Consumer,2023-07
+SO104959,2024-06-17,East,Technology,Accessories,111.34,2,0.0,-18.44,C6227,Home Office,2024-06
+SO104960,2023-10-18,North,Technology,Accessories,304.85,2,0.0,-50.45,C3841,Consumer,2023-10
+SO104961,2024-09-05,North,Technology,Phones,64.75,4,0.1,-4.35,C5285,Consumer,2024-09
+SO104966,2024-05-29,North,Furniture,Bookcases,512.27,1,0.05,-84.48,C8015,Consumer,2024-05
+SO104970,2024-06-06,West,Technology,Machines,279.89,1,0.0,-33.97,C9226,Consumer,2024-06
+SO104972,2023-05-10,South,Furniture,Chairs,163.93,5,0.1,-18.64,C2870,Consumer,2023-05
+SO104976,2023-06-08,West,Office Supplies,Storage,328.01,3,0.1,-67.5,C6191,Consumer,2023-06
+SO104979,2024-05-08,South,Technology,Phones,83.31,4,0.0,-5.73,C5398,Corporate,2024-05
+SO104981,2024-11-28,North,Office Supplies,Binders,179.73,3,0.2,-31.22,C6851,Home Office,2024-11
+SO104982,2023-05-07,West,Office Supplies,Paper,174.88,1,0.1,-19.63,C9189,Corporate,2023-05
+SO104984,2023-05-12,West,Furniture,Bookcases,224.53,1,0.3,-50.34,C9987,Consumer,2023-05
+SO104985,2023-11-06,East,Office Supplies,Paper,441.91,2,0.0,-54.26,C1602,Small Business,2023-11
+SO104986,2023-08-06,East,Office Supplies,Storage,255.57,1,0.1,-0.96,C6824,Consumer,2023-08
+SO104988,2024-09-03,West,Office Supplies,Paper,87.42,5,0.0,-9.31,C9420,Corporate,2024-09
+SO104990,2023-07-22,East,Office Supplies,Binders,55.47,5,0.0,-1.58,C2325,Corporate,2023-07
+SO104994,2025-04-17,South,Furniture,Chairs,237.62,3,0.0,-21.71,C3437,Corporate,2025-04
+SO104996,2024-04-26,South,Office Supplies,Binders,71.05,3,0.1,-6.75,C8141,Corporate,2024-04
+SO104998,2023-10-05,West,Technology,Machines,379.16,1,0.05,-20.08,C4534,Consumer,2023-10
