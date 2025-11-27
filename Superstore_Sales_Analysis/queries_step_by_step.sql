@@ -1,6 +1,3 @@
--- Superstore Sales Analysis - Step-by-step SQL queries with explanation
--- Assumes table name: superstore_sales with columns:
--- OrderID, OrderDate (YYYY-MM-DD), Region, Category, Sub-Category, Sales, Quantity, Discount, Profit, CustomerID, Segment
 
 -- 0) Quick check: show sample rows
 -- Purpose: Inspect raw data first
